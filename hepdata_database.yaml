@@ -1,0 +1,4113 @@
+200/gamma_trigger_chjet/IAA_pt_star:
+- directory: 200/gamma_trigger_chjet/IAA_pt_star/HEPData-ins2693040-v1-yaml
+  inspire_hep_id: 2693040
+  version: 1
+  tables_to_filenames:
+    Table1: Table1.yaml
+    Table2: Table2.yaml
+    Table3: Table3.yaml
+    Table4: Table4.yaml
+    Table5: Table5.yaml
+    Table6: Table6.yaml
+    Table7: Table7.yaml
+    Table8: Table8.yaml
+200/gamma_trigger_hadron/IAA_pt_phenix:
+- directory: 200/gamma_trigger_hadron/IAA_pt_phenix/HEPData-ins1798493-v1-yaml
+  inspire_hep_id: 1798493
+  version: 1
+  tables_to_filenames:
+    Figure 2: hre_fig1.yaml
+    Figure 3: hre_fig2.yaml
+    Figure 4a: hre_fig3a.yaml
+    Figure 4b: hre_fig3b.yaml
+    Figure 5a: hre_fig7a.yaml
+    Figure 5b: hre_fig7b.yaml
+    Figure 5c: hre_fig7c.yaml
+    Figure 6a: hre_fig5a.yaml
+    Figure 6b: hre_fig5b.yaml
+    Figure 6c: hre_fig5c.yaml
+    Figure 7: hre_fig6.yaml
+    Figure 8a: hre_fig7a.yaml
+    Figure 8b: hre_fig7b.yaml
+    Figure 8c: hre_fig7c.yaml
+200/hadron/pt_ch_star:
+- directory: 200/hadron/pt_ch_star/HEPData-ins619063-v1-yaml
+  inspire_hep_id: 619063
+  version: 1
+  tables_to_filenames:
+    Table 1: Figure1.yaml
+    Table 2: Figure2withBins.yaml
+    Table 3: Figure3withBins.yaml
+    Table 4: Figure4withBins.yaml
+200/hadron/pt_pi0_phenix:
+- directory: 200/hadron/pt_pi0_phenix/HEPData-ins1127262-v2-yaml
+  inspire_hep_id: 1127262
+  version: 2
+  tables_to_filenames:
+    Figure 5: fig5.yaml
+    Figure 8: fig8.yaml
+    Figure 11: fig11.yaml
+    Figure 20-1: fig20-1.yaml
+    Figure 20-2: fig20-2.yaml
+    Figure 20-3: fig20-3.yaml
+    Figure 20-4: fig20-4.yaml
+    Figure 20-5: fig20-5.yaml
+    Figure 20-6: fig20-6.yaml
+    Figure 21: fig21.yaml
+200/hadron_trigger_chjet/IAA_pt_star:
+- directory: 200/hadron_trigger_chjet/IAA_pt_star/HEPData-ins1512115-v1-yaml
+  inspire_hep_id: 1512115
+  version: 1
+  tables_to_filenames:
+    Table 1: Table1.yaml
+    Table 2: Table2.yaml
+    Table 3: Table3.yaml
+    Table 4: Table4.yaml
+    Table 5: Table5.yaml
+    Table 6: Table6.yaml
+    Table 7: Table7.yaml
+    Table 8: Table8.yaml
+    Table 9: Table9.yaml
+    Table 10: Table10.yaml
+    Table 11: Table11.yaml
+    Table 12: Table12.yaml
+    Table 13: Table13.yaml
+    Table 14: Table14.yaml
+    Table 15: Table15.yaml
+    Table 16: Table16.yaml
+    Table 17: Table17.yaml
+    Table 18: Table18.yaml
+    Table 19: Table19.yaml
+    Table 20: Table20.yaml
+    Table 21: Table21.yaml
+    Table 22: Table22.yaml
+    Table 23: Table23.yaml
+    Table 24: Table24.yaml
+    Table 25: Table25.yaml
+    Table 26: Table26.yaml
+    Table 27: Table27.yaml
+    Table 28: Table28.yaml
+    Table 29: Table29.yaml
+    Table 30: Table30.yaml
+    Table 31: Table31.yaml
+    Table 32: Table32.yaml
+    Table 33: Table33.yaml
+    Table 34: Table34.yaml
+    Table 35: Table35.yaml
+    Table 36: Table36.yaml
+    Table 37: Table37.yaml
+    Table 38: Table38.yaml
+    Table 39: Table39.yaml
+    Table 40: Table40.yaml
+    Table 41: Table41.yaml
+    Table 42: Table42.yaml
+200/hadron_trigger_chjet/dphi_star:
+- directory: 200/hadron_trigger_chjet/dphi_star/HEPData-ins1512115-v1-yaml
+  inspire_hep_id: 1512115
+  version: 1
+  tables_to_filenames:
+    Table 1: Table1.yaml
+    Table 2: Table2.yaml
+    Table 3: Table3.yaml
+    Table 4: Table4.yaml
+    Table 5: Table5.yaml
+    Table 6: Table6.yaml
+    Table 7: Table7.yaml
+    Table 8: Table8.yaml
+    Table 9: Table9.yaml
+    Table 10: Table10.yaml
+    Table 11: Table11.yaml
+    Table 12: Table12.yaml
+    Table 13: Table13.yaml
+    Table 14: Table14.yaml
+    Table 15: Table15.yaml
+    Table 16: Table16.yaml
+    Table 17: Table17.yaml
+    Table 18: Table18.yaml
+    Table 19: Table19.yaml
+    Table 20: Table20.yaml
+    Table 21: Table21.yaml
+    Table 22: Table22.yaml
+    Table 23: Table23.yaml
+    Table 24: Table24.yaml
+    Table 25: Table25.yaml
+    Table 26: Table26.yaml
+    Table 27: Table27.yaml
+    Table 28: Table28.yaml
+    Table 29: Table29.yaml
+    Table 30: Table30.yaml
+    Table 31: Table31.yaml
+    Table 32: Table32.yaml
+    Table 33: Table33.yaml
+    Table 34: Table34.yaml
+    Table 35: Table35.yaml
+    Table 36: Table36.yaml
+    Table 37: Table37.yaml
+    Table 38: Table38.yaml
+    Table 39: Table39.yaml
+    Table 40: Table40.yaml
+    Table 41: Table41.yaml
+    Table 42: Table42.yaml
+200/hadron_trigger_hadron/dihadron_star:
+- directory: 200/hadron_trigger_hadron/dihadron_star/HEPData-ins715470-v1-yaml
+  inspire_hep_id: 715470
+  version: 1
+  tables_to_filenames:
+    Figure 3.0: Fig3.0.yaml
+    Figure 3.1: Fig3.1.yaml
+    Figure 4.0: Fig4.0.yaml
+    Figure 4.1: Fig4.1.yaml
+    Figure 4.2: Fig4.2.yaml
+200/inclusive_chjet/pt_star:
+- directory: 200/inclusive_chjet/pt_star/HEPData-ins1798665-v1-yaml
+  inspire_hep_id: 1798665
+  version: 1
+  tables_to_filenames:
+    Table 1: fig12_central_ptlead_5.yaml
+    Table 2: fig12_peripheral_ptlead_5.yaml
+    Table 3: fig12_central_ptlead_7.yaml
+    Table 4: fig12_peripheral_ptlead_7.yaml
+    Table 5: fig14_peripheral.yaml
+    Table 6: fig14_central.yaml
+    Table 7: fig15.yaml
+    Table 8: fig16.yaml
+    Table 9: fig17_peripheral.yaml
+    Table 10: fig17_central.yaml
+    Table 11: fig20_peripheral.yaml
+    Table 12: fig20_central.yaml
+200/pion_trigger_chjet/IAA_pt_star:
+- directory: 200/pion_trigger_chjet/IAA_pt_star/HEPData-ins2693040-v1-yaml
+  inspire_hep_id: 2693040
+  version: 1
+  tables_to_filenames:
+    Table1: Table1.yaml
+    Table2: Table2.yaml
+    Table3: Table3.yaml
+    Table4: Table4.yaml
+    Table5: Table5.yaml
+    Table6: Table6.yaml
+    Table7: Table7.yaml
+    Table8: Table8.yaml
+2760/hadron/pt_ch_alice:
+- directory: 2760/hadron/pt_ch_alice/HEPData-ins1657384-v1-yaml
+  inspire_hep_id: 1657384
+  version: 1
+  tables_to_filenames:
+    Table 1: Fig3_PbPb_2760GeV.yaml
+    Table 2: Fig3_PbPb_5020GeV.yaml
+    Table 3: Fig3_pPb_5020GeV.yaml
+    Table 4: Fig3_pp.yaml
+    Table 5: Fig4.yaml
+    Table 6: Fig5.yaml
+    Table 7: Fig6_PbPb_2760GeV.yaml
+    Table 8: Fig6_PbPb_5020GeV.yaml
+    Table 9: Fig7_pPb_5020GeV.yaml
+2760/hadron/pt_ch_atlas:
+- directory: 2760/hadron/pt_ch_atlas/HEPData-ins1360290-v2-yaml
+  inspire_hep_id: 1360290
+  version: 2
+  tables_to_filenames:
+    Table 1: Table1.yaml
+    Table 2: Table2.yaml
+    Table 3: Table3.yaml
+    Table 4: Table4.yaml
+    Table 5: Table5.yaml
+    Table 6: Table6.yaml
+    Table 7: Table7.yaml
+    Table 8: Table8.yaml
+    Table 9: Table9.yaml
+    Table 10: Table10.yaml
+    Table 11: Table11.yaml
+    Table 12: Table12.yaml
+    Table 13: Table13.yaml
+    Table 14: Table14.yaml
+    Table 15: Table15.yaml
+    Table 16: Table16.yaml
+    Table 17: Table17.yaml
+    Table 18: Table18.yaml
+    Table 19: Table19.yaml
+    Table 20: Table20.yaml
+    Table 21: Table21.yaml
+    Table 22: Table22.yaml
+    Table 23: Table23.yaml
+    Table 24: Table24.yaml
+    Table 25: Table25.yaml
+    Table 26: Table26.yaml
+    Table 27: Table27.yaml
+    Table 28: Table28.yaml
+    Table 29: Table29.yaml
+    Table 30: Table30.yaml
+    Table 31: Table31.yaml
+    Table 32: Table32.yaml
+    Table 33: Table33.yaml
+    Table 34: Table34.yaml
+    Table 35: Table35.yaml
+    Table 36: Table36.yaml
+    Table 37: Table37.yaml
+    Table 38: Table38.yaml
+    Table 39: Table39.yaml
+    Table 40: Table40.yaml
+    Table 41: Table41.yaml
+    Table 42: Table42.yaml
+    Table 43: Table43.yaml
+    Table 44: Table44.yaml
+    Table 45: Table45.yaml
+    Table 46: Table46.yaml
+    Table 47: Table47.yaml
+    Table 48: Table48.yaml
+    Table 49: Table49.yaml
+    Table 50: Table50.yaml
+    Table 51: Table51.yaml
+    Table 52: Table52.yaml
+    Table 53: Table53.yaml
+    Table 54: Table54.yaml
+    Table 55: Table55.yaml
+    Table 56: Table56.yaml
+    Table 57: Table57.yaml
+    Table 58: Table58.yaml
+    Table 59: Table59.yaml
+    Table 60: Table60.yaml
+    Table 61: Table61.yaml
+    Table 62: Table62.yaml
+    Table 63: Table63.yaml
+    Table 64: Table64.yaml
+    Table 65: Table65.yaml
+    Table 66: Table66.yaml
+    Table 67: Table67.yaml
+    Table 68: Table68.yaml
+    Table 69: Table69.yaml
+    Table 70: Table70.yaml
+    Table 71: Table71.yaml
+    Table 72: Table72.yaml
+    Table 73: Table73.yaml
+    Table 74: Table74.yaml
+    Table 75: Table75.yaml
+    Table 76: Table76.yaml
+    Table 77: Table77.yaml
+    Table 78: Table78.yaml
+    Table 79: Table79.yaml
+    Table 80: Table80.yaml
+    Table 81: Table81.yaml
+    Table 82: Table82.yaml
+    Table 83: Table83.yaml
+    Table 84: Table84.yaml
+    Table 85: Table85.yaml
+    Table 86: Table86.yaml
+    Table 87: Table87.yaml
+    Table 88: Table88.yaml
+    Table 89: Table89.yaml
+    Table 90: Table90.yaml
+    Table 91: Table91.yaml
+    Table 92: Table92.yaml
+    Table 93: Table93.yaml
+    Table 94: Table94.yaml
+    Table 95: Table95.yaml
+    Table 96: Table96.yaml
+    Table 97: Table97.yaml
+    Table 98: Table98.yaml
+    Table 99: Table99.yaml
+    Table 100: Table100.yaml
+    Table 101: Table101.yaml
+    Table 102: Table102.yaml
+    Table 103: Table103.yaml
+    Table 104: Table104.yaml
+    Table 105: Table105.yaml
+    Table 106: Table106.yaml
+    Table 107: Table107.yaml
+    Table 108: Table108.yaml
+    Table 109: Table109.yaml
+    Table 110: Table110.yaml
+    Table 111: Table111.yaml
+    Table 112: Table112.yaml
+    Table 113: Table113.yaml
+    Table 114: Table114.yaml
+    Table 115: Table115.yaml
+    Table 116: Table116.yaml
+    Table 117: Table117.yaml
+    Table 118: Table118.yaml
+    Table 119: Table119.yaml
+    Table 120: Table120.yaml
+    Table 121: Table121.yaml
+2760/hadron/pt_ch_cms:
+- directory: 2760/hadron/pt_ch_cms/HEPData-ins1088823-v1-yaml
+  inspire_hep_id: 1088823
+  version: 1
+  tables_to_filenames:
+    Table 1: Table1.yaml
+    Table 2: Table2.yaml
+    Table 3: Table3.yaml
+    Table 4: Table4.yaml
+    Table 5: Table5.yaml
+    Table 6: Table6.yaml
+    Table 7: Table7.yaml
+2760/hadron/pt_pi0_alice:
+- directory: 2760/hadron/pt_pi0_alice/HEPData-ins1662651-v1-yaml
+  inspire_hep_id: 1662651
+  version: 1
+  tables_to_filenames:
+    Table 1: Table1.yaml
+    Table 2: Table2.yaml
+    Table 3: Table3.yaml
+    Table 4: Table4.yaml
+    Table 5: Table5.yaml
+    Table 6: Table6.yaml
+    Table 7: Table7.yaml
+    Table 8: Table8.yaml
+    Table 9: Table9.yaml
+    Table 10: Table10.yaml
+2760/hadron/pt_pi_alice:
+- directory: 2760/hadron/pt_pi_alice/HEPData-ins1377750-v1-yaml
+  inspire_hep_id: 1377750
+  version: 1
+  tables_to_filenames:
+    Table 1: Table1.yaml
+    Table 2: Table2.yaml
+    Table 3: Table3.yaml
+    Table 4: Table4.yaml
+    Table 5: Table5.yaml
+    Table 6: Table6.yaml
+    Table 7: Table7.yaml
+    Table 8: Table8.yaml
+    Table 9: Table9.yaml
+    Table 10: Table10.yaml
+    Table 11: Table11.yaml
+    Table 12: Table12.yaml
+    Table 13: Table13.yaml
+    Table 14: Table14.yaml
+    Table 15: Table15.yaml
+    Table 16: Table16.yaml
+2760/hadron_correlation/v2_four_particle_cumulants_alice:
+- directory: 
+    2760/hadron_correlation/v2_four_particle_cumulants_alice/HEPData-ins1666817-v1-yaml
+  inspire_hep_id: 1666817
+  version: 1
+  tables_to_filenames:
+    Table 1: v22Deta1_502TeV.yaml
+    Table 2: v24_502TeV.yaml
+    Table 3: v32Deta1_502TeV.yaml
+    Table 4: v42Deta1_502TeV.yaml
+    Table 5: v52Deta1_502TeV.yaml
+    Table 6: v62Deta1_502TeV.yaml
+    Table 7: v22Deta1_276TeV.yaml
+    Table 8: v24_276TeV.yaml
+    Table 9: v32Deta1_276TeV.yaml
+    Table 10: v42Deta1_276TeV.yaml
+    Table 11: v22Deta1_RatioEnergies.yaml
+    Table 12: v24_RatioEnergies.yaml
+    Table 13: v32Deta1_RatioEnergies.yaml
+    Table 14: v42Deta1_RatioEnergies.yaml
+    Table 15: v22Deta1_502TeVdif_cen0.yaml
+    Table 16: v22Deta1_276TeVdif_cen0.yaml
+    Table 17: v32Deta1_502TeVdif_cen0.yaml
+    Table 18: v32Deta1_276TeVdif_cen0.yaml
+    Table 19: v42Deta1_502TeVdif_cen0.yaml
+    Table 20: v42Deta1_276TeVdif_cen0.yaml
+    Table 21: v52Deta1_276TeVdif_cen0.yaml
+    Table 22: v62Deta1_276TeVdif_cen0.yaml
+    Table 23: v22Deta1_502TeVdif_cen1.yaml
+    Table 24: v22Deta1_276TeVdif_cen1.yaml
+    Table 25: v32Deta1_502TeVdif_cen1.yaml
+    Table 26: v32Deta1_276TeVdif_cen1.yaml
+    Table 27: v42Deta1_502TeVdif_cen1.yaml
+    Table 28: v42Deta1_276TeVdif_cen1.yaml
+    Table 29: v52Deta1_276TeVdif_cen1.yaml
+    Table 30: v62Deta1_276TeVdif_cen1.yaml
+    Table 31: v24_502TeVdif_cen1.yaml
+    Table 32: v24_276TeVdif_cen1.yaml
+    Table 33: v22Deta1_502TeVdif_cen2.yaml
+    Table 34: v22Deta1_276TeVdif_cen2.yaml
+    Table 35: v32Deta1_502TeVdif_cen2.yaml
+    Table 36: v32Deta1_276TeVdif_cen2.yaml
+    Table 37: v42Deta1_502TeVdif_cen2.yaml
+    Table 38: v42Deta1_276TeVdif_cen2.yaml
+    Table 39: v52Deta1_276TeVdif_cen2.yaml
+    Table 40: v62Deta1_276TeVdif_cen2.yaml
+    Table 41: v24_502TeVdif_cen2.yaml
+    Table 42: v24_276TeVdif_cen2.yaml
+    Table 43: v22Deta1_502TeVdif_cen3.yaml
+    Table 44: v22Deta1_276TeVdif_cen3.yaml
+    Table 45: v32Deta1_502TeVdif_cen3.yaml
+    Table 46: v32Deta1_276TeVdif_cen3.yaml
+    Table 47: v42Deta1_502TeVdif_cen3.yaml
+    Table 48: v42Deta1_276TeVdif_cen3.yaml
+    Table 49: v52Deta1_276TeVdif_cen3.yaml
+    Table 50: v62Deta1_276TeVdif_cen3.yaml
+    Table 51: v24_502TeVdif_cen3.yaml
+    Table 52: v24_276TeVdif_cen3.yaml
+    Table 53: v22Deta1_502TeVdif_cen4.yaml
+    Table 54: v22Deta1_276TeVdif_cen4.yaml
+    Table 55: v32Deta1_502TeVdif_cen4.yaml
+    Table 56: v32Deta1_276TeVdif_cen4.yaml
+    Table 57: v42Deta1_502TeVdif_cen4.yaml
+    Table 58: v42Deta1_276TeVdif_cen4.yaml
+    Table 59: v52Deta1_276TeVdif_cen4.yaml
+    Table 60: v62Deta1_276TeVdif_cen4.yaml
+    Table 61: v24_502TeVdif_cen4.yaml
+    Table 62: v24_276TeVdif_cen4.yaml
+    Table 63: v22Deta1_502TeVdif_cen5.yaml
+    Table 64: v22Deta1_276TeVdif_cen5.yaml
+    Table 65: v32Deta1_502TeVdif_cen5.yaml
+    Table 66: v32Deta1_276TeVdif_cen5.yaml
+    Table 67: v42Deta1_502TeVdif_cen5.yaml
+    Table 68: v42Deta1_276TeVdif_cen5.yaml
+    Table 69: v52Deta1_276TeVdif_cen5.yaml
+    Table 70: v62Deta1_276TeVdif_cen5.yaml
+    Table 71: v24_502TeVdif_cen5.yaml
+    Table 72: v24_276TeVdif_cen5.yaml
+    Table 73: v22Deta1_502TeVdif_cen6.yaml
+    Table 74: v22Deta1_276TeVdif_cen6.yaml
+    Table 75: v32Deta1_502TeVdif_cen6.yaml
+    Table 76: v32Deta1_276TeVdif_cen6.yaml
+    Table 77: v42Deta1_502TeVdif_cen6.yaml
+    Table 78: v42Deta1_276TeVdif_cen6.yaml
+    Table 79: v52Deta1_276TeVdif_cen6.yaml
+    Table 80: v24_502TeVdif_cen6.yaml
+    Table 81: v24_276TeVdif_cen6.yaml
+    Table 82: v22Deta1_502TeVdif_cen7.yaml
+    Table 83: v22Deta1_276TeVdif_cen7.yaml
+    Table 84: v32Deta1_502TeVdif_cen7.yaml
+    Table 85: v32Deta1_276TeVdif_cen7.yaml
+    Table 86: v42Deta1_276TeVdif_cen7.yaml
+    Table 87: v24_502TeVdif_cen7.yaml
+    Table 88: v24_276TeVdif_cen7.yaml
+    Table 89: v22Deta2_502TeVdif_cen0.yaml
+    Table 90: v22Deta2_276TeVdif_cen0.yaml
+    Table 91: v32Deta2_502TeVdif_cen0.yaml
+    Table 92: v32Deta2_276TeVdif_cen0.yaml
+    Table 93: v42Deta2_502TeVdif_cen0.yaml
+    Table 94: v42Deta2_276TeVdif_cen0.yaml
+    Table 95: v22Deta2_502TeVdif_cen1.yaml
+    Table 96: v22Deta2_276TeVdif_cen1.yaml
+    Table 97: v32Deta2_502TeVdif_cen1.yaml
+    Table 98: v32Deta2_276TeVdif_cen1.yaml
+    Table 99: v42Deta2_502TeVdif_cen1.yaml
+    Table 100: v42Deta2_276TeVdif_cen1.yaml
+    Table 101: v22Deta2_502TeVdif_cen2.yaml
+    Table 102: v22Deta2_276TeVdif_cen2.yaml
+    Table 103: v32Deta2_502TeVdif_cen2.yaml
+    Table 104: v32Deta2_276TeVdif_cen2.yaml
+    Table 105: v42Deta2_502TeVdif_cen2.yaml
+    Table 106: v42Deta2_276TeVdif_cen2.yaml
+    Table 107: v22Deta2_502TeVdif_cen3.yaml
+    Table 108: v22Deta2_276TeVdif_cen3.yaml
+    Table 109: v32Deta2_502TeVdif_cen3.yaml
+    Table 110: v32Deta2_276TeVdif_cen3.yaml
+    Table 111: v42Deta2_502TeVdif_cen3.yaml
+    Table 112: v42Deta2_276TeVdif_cen3.yaml
+    Table 113: v22Deta2_502TeVdif_cen4.yaml
+    Table 114: v22Deta2_276TeVdif_cen4.yaml
+    Table 115: v32Deta2_502TeVdif_cen4.yaml
+    Table 116: v32Deta2_276TeVdif_cen4.yaml
+    Table 117: v42Deta2_502TeVdif_cen4.yaml
+    Table 118: v42Deta2_276TeVdif_cen4.yaml
+    Table 119: v22Deta2_502TeVdif_cen5.yaml
+    Table 120: v22Deta2_276TeVdif_cen5.yaml
+    Table 121: v32Deta2_502TeVdif_cen5.yaml
+    Table 122: v32Deta2_276TeVdif_cen5.yaml
+    Table 123: v42Deta2_502TeVdif_cen5.yaml
+    Table 124: v42Deta2_276TeVdif_cen5.yaml
+    Table 125: v22Deta2_502TeVdif_cen6.yaml
+    Table 126: v22Deta2_276TeVdif_cen6.yaml
+    Table 127: v32Deta2_502TeVdif_cen6.yaml
+    Table 128: v32Deta2_276TeVdif_cen6.yaml
+    Table 129: v42Deta2_502TeVdif_cen6.yaml
+    Table 130: v42Deta2_276TeVdif_cen6.yaml
+    Table 131: v22Deta2_502TeVdif_cen7.yaml
+    Table 132: v22Deta2_276TeVdif_cen7.yaml
+    Table 133: v32Deta2_502TeVdif_cen7.yaml
+    Table 134: v32Deta2_276TeVdif_cen7.yaml
+    Table 135: v42Deta2_502TeVdif_cen7.yaml
+    Table 137: v22Deta1_RatioEnergiesdif_cen1.yaml
+    Table 138: v32Deta1_RatioEnergiesdif_cen1.yaml
+    Table 139: v42Deta1_RatioEnergiesdif_cen1.yaml
+    Table 140: v22Deta1_RatioEnergiesdif_cen3.yaml
+    Table 141: v32Deta1_RatioEnergiesdif_cen3.yaml
+    Table 142: v42Deta1_RatioEnergiesdif_cen3.yaml
+    Table 143: v22Deta1_RatioEnergiesdif_cen5.yaml
+    Table 144: v32Deta1_RatioEnergiesdif_cen5.yaml
+    Table 145: v42Deta1_RatioEnergiesdif_cen5.yaml
+    Table 146: v4RatioTo2030_502TeVdif_cen0.yaml
+    Table 147: v4RatioTo2030_502TeVdif_cen1.yaml
+    Table 148: v4RatioTo2030_502TeVdif_cen2.yaml
+    Table 149: v4RatioTo2030_502TeVdif_cen3.yaml
+    Table 150: v4RatioTo2030_502TeVdif_cen4.yaml
+    Table 151: v4RatioTo2030_502TeVdif_cen5.yaml
+    Table 152: v4RatioTo2030_502TeVdif_cen6.yaml
+    Table 153: v3RatioTo2030_502TeVdif_cen0.yaml
+    Table 154: v3RatioTo2030_502TeVdif_cen1.yaml
+    Table 155: v3RatioTo2030_502TeVdif_cen2.yaml
+    Table 156: v3RatioTo2030_502TeVdif_cen3.yaml
+    Table 157: v3RatioTo2030_502TeVdif_cen4.yaml
+    Table 158: v3RatioTo2030_502TeVdif_cen5.yaml
+    Table 159: v3RatioTo2030_502TeVdif_cen6.yaml
+    Table 160: v3RatioTo2030_502TeVdif_cen7.yaml
+    Table 161: v2RatioTo2030_502TeVdif_cen0.yaml
+    Table 162: v2RatioTo2030_502TeVdif_cen1.yaml
+    Table 163: v2RatioTo2030_502TeVdif_cen2.yaml
+    Table 164: v2RatioTo2030_502TeVdif_cen3.yaml
+    Table 165: v2RatioTo2030_502TeVdif_cen4.yaml
+    Table 166: v2RatioTo2030_502TeVdif_cen5.yaml
+    Table 167: v2RatioTo2030_502TeVdif_cen6.yaml
+    Table 168: v2RatioTo2030_502TeVdif_cen7.yaml
+    Table 169: v4Overv3To4Over3_502TeVdif_cen0.yaml
+    Table 170: v4Overv3To4Over3_502TeVdif_cen1.yaml
+    Table 171: v4Overv3To4Over3_502TeVdif_cen2.yaml
+    Table 172: v4Overv3To4Over3_502TeVdif_cen3.yaml
+    Table 173: v4Overv3To4Over3_502TeVdif_cen4.yaml
+    Table 174: v4Overv3To4Over3_502TeVdif_cen5.yaml
+    Table 175: v4Overv3To4Over3_502TeVdif_cen6.yaml
+    Table 176: v4Overv3To4Over3_502TeVdif_cen7.yaml
+    Table 177: v4Overv2To4Over2_502TeVdif_cen0.yaml
+    Table 178: v4Overv2To4Over2_502TeVdif_cen1.yaml
+    Table 179: v4Overv2To4Over2_502TeVdif_cen2.yaml
+    Table 180: v4Overv2To4Over2_502TeVdif_cen3.yaml
+    Table 181: v4Overv2To4Over2_502TeVdif_cen4.yaml
+    Table 182: v4Overv2To4Over2_502TeVdif_cen5.yaml
+    Table 183: v4Overv2To4Over2_502TeVdif_cen6.yaml
+    Table 184: v4Overv2To4Over2_502TeVdif_cen7.yaml
+    Table 185: v3Overv2To3Over2_502TeVdif_cen0.yaml
+    Table 186: v3Overv2To3Over2_502TeVdif_cen1.yaml
+    Table 187: v3Overv2To3Over2_502TeVdif_cen2.yaml
+    Table 188: v3Overv2To3Over2_502TeVdif_cen3.yaml
+    Table 189: v3Overv2To3Over2_502TeVdif_cen4.yaml
+    Table 190: v3Overv2To3Over2_502TeVdif_cen5.yaml
+    Table 191: v3Overv2To3Over2_502TeVdif_cen6.yaml
+    Table 192: v3Overv2To3Over2_502TeVdif_cen7.yaml
+    Table 193: v22_502TeV.yaml
+    Table 194: v24_502TeV.yaml
+    Table 195: v26_502TeV.yaml
+    Table 196: v28_502TeV.yaml
+    Table 197: v22_276TeV.yaml
+    Table 198: v24_276TeV.yaml
+    Table 199: v26_276TeV.yaml
+    Table 200: v28_276TeV.yaml
+    Table 201: c22_502TeV.yaml
+    Table 202: c24_502TeV.yaml
+    Table 203: c26_502TeV.yaml
+    Table 204: c28_502TeV.yaml
+    Table 205: c22_276TeV.yaml
+    Table 206: c24_276TeV.yaml
+    Table 207: c26_276TeV.yaml
+    Table 208: c28_276TeV.yaml
+    Table 209: v26Overv24_502TeV.yaml
+    Table 210: v26Overv24_276TeV.yaml
+    Table 211: v28Overv24_502TeV.yaml
+    Table 212: v28Overv24_276TeV.yaml
+    Table 213: v28Overv26_502TeV.yaml
+    Table 214: v24Minusv26_502TeV.yaml
+    Table 215: v26Minusv28_502TeV.yaml
+    Table 216: gamma1exp_502TeV.yaml
+    Table 217: grKappa.yaml
+    Table 218: grAlpha.yaml
+    Table 219: grEps0.yaml
+    Table 220: Pv2_EP_cen1.yaml
+    Table 221: Pv2_EP_cen5.yaml
+    Table 222: Pv2_EP_cen9.yaml
+    Table 223: Pv2_EP_cen0.yaml
+    Table 224: Pv2_EP_cen2.yaml
+    Table 225: Pv2_EP_cen3.yaml
+    Table 226: Pv2_EP_cen4.yaml
+    Table 227: Pv2_EP_cen6.yaml
+    Table 228: Pv2_EP_cen7.yaml
+    Table 229: Pv2_EP_cen8.yaml
+    Table 230: Pv2_EP_cen10.yaml
+    Table 231: Pv2_EP_cen11.yaml
+2760/hadron_correlation/v2_sp_alice:
+- directory: 2760/hadron_correlation/v2_sp_alice/HEPData-ins1666817-v1-yaml
+  inspire_hep_id: 1666817
+  version: 1
+  tables_to_filenames:
+    Table 1: v22Deta1_502TeV.yaml
+    Table 2: v24_502TeV.yaml
+    Table 3: v32Deta1_502TeV.yaml
+    Table 4: v42Deta1_502TeV.yaml
+    Table 5: v52Deta1_502TeV.yaml
+    Table 6: v62Deta1_502TeV.yaml
+    Table 7: v22Deta1_276TeV.yaml
+    Table 8: v24_276TeV.yaml
+    Table 9: v32Deta1_276TeV.yaml
+    Table 10: v42Deta1_276TeV.yaml
+    Table 11: v22Deta1_RatioEnergies.yaml
+    Table 12: v24_RatioEnergies.yaml
+    Table 13: v32Deta1_RatioEnergies.yaml
+    Table 14: v42Deta1_RatioEnergies.yaml
+    Table 15: v22Deta1_502TeVdif_cen0.yaml
+    Table 16: v22Deta1_276TeVdif_cen0.yaml
+    Table 17: v32Deta1_502TeVdif_cen0.yaml
+    Table 18: v32Deta1_276TeVdif_cen0.yaml
+    Table 19: v42Deta1_502TeVdif_cen0.yaml
+    Table 20: v42Deta1_276TeVdif_cen0.yaml
+    Table 21: v52Deta1_276TeVdif_cen0.yaml
+    Table 22: v62Deta1_276TeVdif_cen0.yaml
+    Table 23: v22Deta1_502TeVdif_cen1.yaml
+    Table 24: v22Deta1_276TeVdif_cen1.yaml
+    Table 25: v32Deta1_502TeVdif_cen1.yaml
+    Table 26: v32Deta1_276TeVdif_cen1.yaml
+    Table 27: v42Deta1_502TeVdif_cen1.yaml
+    Table 28: v42Deta1_276TeVdif_cen1.yaml
+    Table 29: v52Deta1_276TeVdif_cen1.yaml
+    Table 30: v62Deta1_276TeVdif_cen1.yaml
+    Table 31: v24_502TeVdif_cen1.yaml
+    Table 32: v24_276TeVdif_cen1.yaml
+    Table 33: v22Deta1_502TeVdif_cen2.yaml
+    Table 34: v22Deta1_276TeVdif_cen2.yaml
+    Table 35: v32Deta1_502TeVdif_cen2.yaml
+    Table 36: v32Deta1_276TeVdif_cen2.yaml
+    Table 37: v42Deta1_502TeVdif_cen2.yaml
+    Table 38: v42Deta1_276TeVdif_cen2.yaml
+    Table 39: v52Deta1_276TeVdif_cen2.yaml
+    Table 40: v62Deta1_276TeVdif_cen2.yaml
+    Table 41: v24_502TeVdif_cen2.yaml
+    Table 42: v24_276TeVdif_cen2.yaml
+    Table 43: v22Deta1_502TeVdif_cen3.yaml
+    Table 44: v22Deta1_276TeVdif_cen3.yaml
+    Table 45: v32Deta1_502TeVdif_cen3.yaml
+    Table 46: v32Deta1_276TeVdif_cen3.yaml
+    Table 47: v42Deta1_502TeVdif_cen3.yaml
+    Table 48: v42Deta1_276TeVdif_cen3.yaml
+    Table 49: v52Deta1_276TeVdif_cen3.yaml
+    Table 50: v62Deta1_276TeVdif_cen3.yaml
+    Table 51: v24_502TeVdif_cen3.yaml
+    Table 52: v24_276TeVdif_cen3.yaml
+    Table 53: v22Deta1_502TeVdif_cen4.yaml
+    Table 54: v22Deta1_276TeVdif_cen4.yaml
+    Table 55: v32Deta1_502TeVdif_cen4.yaml
+    Table 56: v32Deta1_276TeVdif_cen4.yaml
+    Table 57: v42Deta1_502TeVdif_cen4.yaml
+    Table 58: v42Deta1_276TeVdif_cen4.yaml
+    Table 59: v52Deta1_276TeVdif_cen4.yaml
+    Table 60: v62Deta1_276TeVdif_cen4.yaml
+    Table 61: v24_502TeVdif_cen4.yaml
+    Table 62: v24_276TeVdif_cen4.yaml
+    Table 63: v22Deta1_502TeVdif_cen5.yaml
+    Table 64: v22Deta1_276TeVdif_cen5.yaml
+    Table 65: v32Deta1_502TeVdif_cen5.yaml
+    Table 66: v32Deta1_276TeVdif_cen5.yaml
+    Table 67: v42Deta1_502TeVdif_cen5.yaml
+    Table 68: v42Deta1_276TeVdif_cen5.yaml
+    Table 69: v52Deta1_276TeVdif_cen5.yaml
+    Table 70: v62Deta1_276TeVdif_cen5.yaml
+    Table 71: v24_502TeVdif_cen5.yaml
+    Table 72: v24_276TeVdif_cen5.yaml
+    Table 73: v22Deta1_502TeVdif_cen6.yaml
+    Table 74: v22Deta1_276TeVdif_cen6.yaml
+    Table 75: v32Deta1_502TeVdif_cen6.yaml
+    Table 76: v32Deta1_276TeVdif_cen6.yaml
+    Table 77: v42Deta1_502TeVdif_cen6.yaml
+    Table 78: v42Deta1_276TeVdif_cen6.yaml
+    Table 79: v52Deta1_276TeVdif_cen6.yaml
+    Table 80: v24_502TeVdif_cen6.yaml
+    Table 81: v24_276TeVdif_cen6.yaml
+    Table 82: v22Deta1_502TeVdif_cen7.yaml
+    Table 83: v22Deta1_276TeVdif_cen7.yaml
+    Table 84: v32Deta1_502TeVdif_cen7.yaml
+    Table 85: v32Deta1_276TeVdif_cen7.yaml
+    Table 86: v42Deta1_276TeVdif_cen7.yaml
+    Table 87: v24_502TeVdif_cen7.yaml
+    Table 88: v24_276TeVdif_cen7.yaml
+    Table 89: v22Deta2_502TeVdif_cen0.yaml
+    Table 90: v22Deta2_276TeVdif_cen0.yaml
+    Table 91: v32Deta2_502TeVdif_cen0.yaml
+    Table 92: v32Deta2_276TeVdif_cen0.yaml
+    Table 93: v42Deta2_502TeVdif_cen0.yaml
+    Table 94: v42Deta2_276TeVdif_cen0.yaml
+    Table 95: v22Deta2_502TeVdif_cen1.yaml
+    Table 96: v22Deta2_276TeVdif_cen1.yaml
+    Table 97: v32Deta2_502TeVdif_cen1.yaml
+    Table 98: v32Deta2_276TeVdif_cen1.yaml
+    Table 99: v42Deta2_502TeVdif_cen1.yaml
+    Table 100: v42Deta2_276TeVdif_cen1.yaml
+    Table 101: v22Deta2_502TeVdif_cen2.yaml
+    Table 102: v22Deta2_276TeVdif_cen2.yaml
+    Table 103: v32Deta2_502TeVdif_cen2.yaml
+    Table 104: v32Deta2_276TeVdif_cen2.yaml
+    Table 105: v42Deta2_502TeVdif_cen2.yaml
+    Table 106: v42Deta2_276TeVdif_cen2.yaml
+    Table 107: v22Deta2_502TeVdif_cen3.yaml
+    Table 108: v22Deta2_276TeVdif_cen3.yaml
+    Table 109: v32Deta2_502TeVdif_cen3.yaml
+    Table 110: v32Deta2_276TeVdif_cen3.yaml
+    Table 111: v42Deta2_502TeVdif_cen3.yaml
+    Table 112: v42Deta2_276TeVdif_cen3.yaml
+    Table 113: v22Deta2_502TeVdif_cen4.yaml
+    Table 114: v22Deta2_276TeVdif_cen4.yaml
+    Table 115: v32Deta2_502TeVdif_cen4.yaml
+    Table 116: v32Deta2_276TeVdif_cen4.yaml
+    Table 117: v42Deta2_502TeVdif_cen4.yaml
+    Table 118: v42Deta2_276TeVdif_cen4.yaml
+    Table 119: v22Deta2_502TeVdif_cen5.yaml
+    Table 120: v22Deta2_276TeVdif_cen5.yaml
+    Table 121: v32Deta2_502TeVdif_cen5.yaml
+    Table 122: v32Deta2_276TeVdif_cen5.yaml
+    Table 123: v42Deta2_502TeVdif_cen5.yaml
+    Table 124: v42Deta2_276TeVdif_cen5.yaml
+    Table 125: v22Deta2_502TeVdif_cen6.yaml
+    Table 126: v22Deta2_276TeVdif_cen6.yaml
+    Table 127: v32Deta2_502TeVdif_cen6.yaml
+    Table 128: v32Deta2_276TeVdif_cen6.yaml
+    Table 129: v42Deta2_502TeVdif_cen6.yaml
+    Table 130: v42Deta2_276TeVdif_cen6.yaml
+    Table 131: v22Deta2_502TeVdif_cen7.yaml
+    Table 132: v22Deta2_276TeVdif_cen7.yaml
+    Table 133: v32Deta2_502TeVdif_cen7.yaml
+    Table 134: v32Deta2_276TeVdif_cen7.yaml
+    Table 135: v42Deta2_502TeVdif_cen7.yaml
+    Table 137: v22Deta1_RatioEnergiesdif_cen1.yaml
+    Table 138: v32Deta1_RatioEnergiesdif_cen1.yaml
+    Table 139: v42Deta1_RatioEnergiesdif_cen1.yaml
+    Table 140: v22Deta1_RatioEnergiesdif_cen3.yaml
+    Table 141: v32Deta1_RatioEnergiesdif_cen3.yaml
+    Table 142: v42Deta1_RatioEnergiesdif_cen3.yaml
+    Table 143: v22Deta1_RatioEnergiesdif_cen5.yaml
+    Table 144: v32Deta1_RatioEnergiesdif_cen5.yaml
+    Table 145: v42Deta1_RatioEnergiesdif_cen5.yaml
+    Table 146: v4RatioTo2030_502TeVdif_cen0.yaml
+    Table 147: v4RatioTo2030_502TeVdif_cen1.yaml
+    Table 148: v4RatioTo2030_502TeVdif_cen2.yaml
+    Table 149: v4RatioTo2030_502TeVdif_cen3.yaml
+    Table 150: v4RatioTo2030_502TeVdif_cen4.yaml
+    Table 151: v4RatioTo2030_502TeVdif_cen5.yaml
+    Table 152: v4RatioTo2030_502TeVdif_cen6.yaml
+    Table 153: v3RatioTo2030_502TeVdif_cen0.yaml
+    Table 154: v3RatioTo2030_502TeVdif_cen1.yaml
+    Table 155: v3RatioTo2030_502TeVdif_cen2.yaml
+    Table 156: v3RatioTo2030_502TeVdif_cen3.yaml
+    Table 157: v3RatioTo2030_502TeVdif_cen4.yaml
+    Table 158: v3RatioTo2030_502TeVdif_cen5.yaml
+    Table 159: v3RatioTo2030_502TeVdif_cen6.yaml
+    Table 160: v3RatioTo2030_502TeVdif_cen7.yaml
+    Table 161: v2RatioTo2030_502TeVdif_cen0.yaml
+    Table 162: v2RatioTo2030_502TeVdif_cen1.yaml
+    Table 163: v2RatioTo2030_502TeVdif_cen2.yaml
+    Table 164: v2RatioTo2030_502TeVdif_cen3.yaml
+    Table 165: v2RatioTo2030_502TeVdif_cen4.yaml
+    Table 166: v2RatioTo2030_502TeVdif_cen5.yaml
+    Table 167: v2RatioTo2030_502TeVdif_cen6.yaml
+    Table 168: v2RatioTo2030_502TeVdif_cen7.yaml
+    Table 169: v4Overv3To4Over3_502TeVdif_cen0.yaml
+    Table 170: v4Overv3To4Over3_502TeVdif_cen1.yaml
+    Table 171: v4Overv3To4Over3_502TeVdif_cen2.yaml
+    Table 172: v4Overv3To4Over3_502TeVdif_cen3.yaml
+    Table 173: v4Overv3To4Over3_502TeVdif_cen4.yaml
+    Table 174: v4Overv3To4Over3_502TeVdif_cen5.yaml
+    Table 175: v4Overv3To4Over3_502TeVdif_cen6.yaml
+    Table 176: v4Overv3To4Over3_502TeVdif_cen7.yaml
+    Table 177: v4Overv2To4Over2_502TeVdif_cen0.yaml
+    Table 178: v4Overv2To4Over2_502TeVdif_cen1.yaml
+    Table 179: v4Overv2To4Over2_502TeVdif_cen2.yaml
+    Table 180: v4Overv2To4Over2_502TeVdif_cen3.yaml
+    Table 181: v4Overv2To4Over2_502TeVdif_cen4.yaml
+    Table 182: v4Overv2To4Over2_502TeVdif_cen5.yaml
+    Table 183: v4Overv2To4Over2_502TeVdif_cen6.yaml
+    Table 184: v4Overv2To4Over2_502TeVdif_cen7.yaml
+    Table 185: v3Overv2To3Over2_502TeVdif_cen0.yaml
+    Table 186: v3Overv2To3Over2_502TeVdif_cen1.yaml
+    Table 187: v3Overv2To3Over2_502TeVdif_cen2.yaml
+    Table 188: v3Overv2To3Over2_502TeVdif_cen3.yaml
+    Table 189: v3Overv2To3Over2_502TeVdif_cen4.yaml
+    Table 190: v3Overv2To3Over2_502TeVdif_cen5.yaml
+    Table 191: v3Overv2To3Over2_502TeVdif_cen6.yaml
+    Table 192: v3Overv2To3Over2_502TeVdif_cen7.yaml
+    Table 193: v22_502TeV.yaml
+    Table 194: v24_502TeV.yaml
+    Table 195: v26_502TeV.yaml
+    Table 196: v28_502TeV.yaml
+    Table 197: v22_276TeV.yaml
+    Table 198: v24_276TeV.yaml
+    Table 199: v26_276TeV.yaml
+    Table 200: v28_276TeV.yaml
+    Table 201: c22_502TeV.yaml
+    Table 202: c24_502TeV.yaml
+    Table 203: c26_502TeV.yaml
+    Table 204: c28_502TeV.yaml
+    Table 205: c22_276TeV.yaml
+    Table 206: c24_276TeV.yaml
+    Table 207: c26_276TeV.yaml
+    Table 208: c28_276TeV.yaml
+    Table 209: v26Overv24_502TeV.yaml
+    Table 210: v26Overv24_276TeV.yaml
+    Table 211: v28Overv24_502TeV.yaml
+    Table 212: v28Overv24_276TeV.yaml
+    Table 213: v28Overv26_502TeV.yaml
+    Table 214: v24Minusv26_502TeV.yaml
+    Table 215: v26Minusv28_502TeV.yaml
+    Table 216: gamma1exp_502TeV.yaml
+    Table 217: grKappa.yaml
+    Table 218: grAlpha.yaml
+    Table 219: grEps0.yaml
+    Table 220: Pv2_EP_cen1.yaml
+    Table 221: Pv2_EP_cen5.yaml
+    Table 222: Pv2_EP_cen9.yaml
+    Table 223: Pv2_EP_cen0.yaml
+    Table 224: Pv2_EP_cen2.yaml
+    Table 225: Pv2_EP_cen3.yaml
+    Table 226: Pv2_EP_cen4.yaml
+    Table 227: Pv2_EP_cen6.yaml
+    Table 228: Pv2_EP_cen7.yaml
+    Table 229: Pv2_EP_cen8.yaml
+    Table 230: Pv2_EP_cen10.yaml
+    Table 231: Pv2_EP_cen11.yaml
+2760/hadron_trigger_chjet/IAA_pt_alice:
+- directory: 2760/hadron_trigger_chjet/IAA_pt_alice/HEPData-ins1376027-v1-yaml
+  inspire_hep_id: 1376027
+  version: 1
+  tables_to_filenames:
+    Table 1: Table1.yaml
+    Table 2: Table2.yaml
+    Table 3: Table3.yaml
+    Table 4: Table4.yaml
+    Table 5: Table5.yaml
+    Table 6: Table6.yaml
+    Table 7: Table7.yaml
+    Table 8: Table8.yaml
+    Table 9: Table9.yaml
+    Table 10: Table10.yaml
+    Table 11: Table11.yaml
+    Table 12: Table12.yaml
+    Table 13: Table13.yaml
+    Table 14: Table14.yaml
+    Table 15: Table15.yaml
+    Table 16: Table16.yaml
+    Table 17: Table17.yaml
+    Table 18: Table18.yaml
+    Table 19: Table19.yaml
+    Table 20: Table20.yaml
+    Table 21: Table21.yaml
+    Table 22: Table22.yaml
+    Table 23: Table23.yaml
+    Table 24: Table24.yaml
+    Table 25: Table25.yaml
+    Table 26: Table26.yaml
+    Table 27: Table27.yaml
+    Table 28: Table28.yaml
+    Table 29: Table29.yaml
+    Table 30: Table30.yaml
+    Table 31: Table31.yaml
+    Table 32: Table32.yaml
+    Table 33: Table33.yaml
+    Table 34: Table34.yaml
+    Table 35: Table35.yaml
+    Table 36: Table36.yaml
+    Table 37: Table37.yaml
+    Table 38: Table38.yaml
+    Table 39: Table39.yaml
+2760/hadron_trigger_chjet/dphi_alice:
+- directory: 2760/hadron_trigger_chjet/dphi_alice/HEPData-ins1376027-v1-yaml
+  inspire_hep_id: 1376027
+  version: 1
+  tables_to_filenames:
+    Table 1: Table1.yaml
+    Table 2: Table2.yaml
+    Table 3: Table3.yaml
+    Table 4: Table4.yaml
+    Table 5: Table5.yaml
+    Table 6: Table6.yaml
+    Table 7: Table7.yaml
+    Table 8: Table8.yaml
+    Table 9: Table9.yaml
+    Table 10: Table10.yaml
+    Table 11: Table11.yaml
+    Table 12: Table12.yaml
+    Table 13: Table13.yaml
+    Table 14: Table14.yaml
+    Table 15: Table15.yaml
+    Table 16: Table16.yaml
+    Table 17: Table17.yaml
+    Table 18: Table18.yaml
+    Table 19: Table19.yaml
+    Table 20: Table20.yaml
+    Table 21: Table21.yaml
+    Table 22: Table22.yaml
+    Table 23: Table23.yaml
+    Table 24: Table24.yaml
+    Table 25: Table25.yaml
+    Table 26: Table26.yaml
+    Table 27: Table27.yaml
+    Table 28: Table28.yaml
+    Table 29: Table29.yaml
+    Table 30: Table30.yaml
+    Table 31: Table31.yaml
+    Table 32: Table32.yaml
+    Table 33: Table33.yaml
+    Table 34: Table34.yaml
+    Table 35: Table35.yaml
+    Table 36: Table36.yaml
+    Table 37: Table37.yaml
+    Table 38: Table38.yaml
+    Table 39: Table39.yaml
+2760/hadron_trigger_chjet/nsubjettiness_alice:
+- directory: 
+    2760/hadron_trigger_chjet/nsubjettiness_alice/HEPData-ins1862792-v1-yaml
+  inspire_hep_id: 1862792
+  version: 1
+  tables_to_filenames:
+    $\Delta R$ with $k_{T}$ reclustering in pp: 
+      $\delta_r$_with_$k_{t}$_reclustering_in_pp.yaml
+    $\Delta R$ with CA reclustering in pp: 
+      $\delta_r$_with_ca_reclustering_in_pp.yaml
+    $\Delta R$ with Soft Drop in pp: $\delta_r$_with_soft_drop_in_pp.yaml
+    $\frac{\tau_{2}}{\tau_{1}}$ with $k_{T}$ reclustering in pp: 
+      $\frac{\tau_{2}}{\tau_{1}}$_with_$k_{t}$_reclustering_in_pp.yaml
+    $\frac{\tau_{2}}{\tau_{1}}$ with CA reclustering in pp: 
+      $\frac{\tau_{2}}{\tau_{1}}$_with_ca_reclustering_in_pp.yaml
+    $\frac{\tau_{2}}{\tau_{1}}$ with Soft Drop in pp: 
+      $\frac{\tau_{2}}{\tau_{1}}$_with_soft_drop_in_pp.yaml
+    $\frac{\tau_{2}}{\tau_{1}}$ with $k_{T}$ reclustering in Pb-Pb: 
+      $\frac{\tau_{2}}{\tau_{1}}$_with_$k_{t}$_reclustering_in_pb-pb.yaml
+    $\frac{\tau_{2}}{\tau_{1}}$ with CA reclustering in Pb-Pb: 
+      $\frac{\tau_{2}}{\tau_{1}}$_with_ca_reclustering_in_pb-pb.yaml
+    $\frac{\tau_{2}}{\tau_{1}}$ with Soft Drop in Pb-Pb: 
+      $\frac{\tau_{2}}{\tau_{1}}$_with_soft_drop_in_pb-pb.yaml
+2760/inclusive_chjet/g_alice:
+- directory: 2760/inclusive_chjet/g_alice/HEPData-ins1682990-v1-yaml
+  inspire_hep_id: 1682990
+  version: 1
+  tables_to_filenames:
+    Table 1: data1.yaml
+    Table 2: data2.yaml
+    Table 3: data3.yaml
+    Table 4: data4.yaml
+    Table 5: data5.yaml
+    Table 6: data6.yaml
+    Table 7: data7.yaml
+    Table 8: data8.yaml
+    Table 9: data9.yaml
+    Table 10: data10.yaml
+    Table 11: data11.yaml
+    Table 12: data12.yaml
+    Table 13: data13.yaml
+    Table 14: data14.yaml
+    Table 15: data15.yaml
+    Table 16: data16.yaml
+    Table 17: data17.yaml
+    Table 18: data18.yaml
+2760/inclusive_chjet/mass_alice:
+- directory: 2760/inclusive_chjet/mass_alice/HEPData-ins1512107-v1-yaml
+  inspire_hep_id: 1512107
+  version: 1
+  tables_to_filenames:
+    Table 1: JetMassALICE_MasspPb_Pt60_80.yaml
+    Table 2: JetMassALICE_MasspPb_Pt80_100.yaml
+    Table 3: JetMassALICE_MasspPb_Pt100_120.yaml
+    Table 4: JetMassALICE_MassPbPb_Pt60_80.yaml
+    Table 5: JetMassALICE_MassPbPb_Pt80_100.yaml
+    Table 6: JetMassALICE_MassPbPb_Pt100_120.yaml
+    Table 7: JetMassALICE_MeanMasspPb.yaml
+    Table 8: JetMassALICE_MeanMassPbPb.yaml
+2760/inclusive_chjet/pt_alice:
+- directory: 2760/inclusive_chjet/pt_alice/HEPData-ins1263194-v1-yaml
+  inspire_hep_id: 1263194
+  version: 1
+  tables_to_filenames:
+    Table 1: Table1.yaml
+    Table 2: Table2.yaml
+    Table 3: Table3.yaml
+    Table 4: Table4.yaml
+    Table 5: Table5.yaml
+    Table 6: Table6.yaml
+    Table 7: Table7.yaml
+    Table 8: Table8.yaml
+    Table 9: Table9.yaml
+    Table 10: Table10.yaml
+    Table 11: Table11.yaml
+    Table 12: Table12.yaml
+    Table 13: Table13.yaml
+    Table 14: Table14.yaml
+    Table 15: Table15.yaml
+    Table 16: Table16.yaml
+    Table 17: Table17.yaml
+    Table 18: Table18.yaml
+    Table 19: Table19.yaml
+    Table 20: Table20.yaml
+    Table 21: Table21.yaml
+    Table 22: Table22.yaml
+    Table 23: Table23.yaml
+    Table 24: Table24.yaml
+    Table 25: Table25.yaml
+    Table 26: Table26.yaml
+    Table 27: Table27.yaml
+    Table 28: Table28.yaml
+    Table 29: Table29.yaml
+    Table 30: Table30.yaml
+2760/inclusive_chjet/ptd_alice:
+- directory: 2760/inclusive_chjet/ptd_alice/HEPData-ins1682990-v1-yaml
+  inspire_hep_id: 1682990
+  version: 1
+  tables_to_filenames:
+    Table 1: data1.yaml
+    Table 2: data2.yaml
+    Table 3: data3.yaml
+    Table 4: data4.yaml
+    Table 5: data5.yaml
+    Table 6: data6.yaml
+    Table 7: data7.yaml
+    Table 8: data8.yaml
+    Table 9: data9.yaml
+    Table 10: data10.yaml
+    Table 11: data11.yaml
+    Table 12: data12.yaml
+    Table 13: data13.yaml
+    Table 14: data14.yaml
+    Table 15: data15.yaml
+    Table 16: data16.yaml
+    Table 17: data17.yaml
+    Table 18: data18.yaml
+2760/inclusive_chjet/v2_alice:
+- directory: 2760/inclusive_chjet/v2_alice/HEPData-ins1394678-v1-yaml
+  inspire_hep_id: 1394678
+  version: 1
+  tables_to_filenames:
+    Table 1: Table1.yaml
+    Table 2: Table2.yaml
+2760/inclusive_jet/Dpt_atlas:
+- directory: 2760/inclusive_jet/Dpt_atlas/HEPData-ins1511869-v1-yaml
+  inspire_hep_id: 1511869
+  version: 1
+  tables_to_filenames:
+    Table 1: Table1.yaml
+    Table 2: Table2.yaml
+    Table 3: Table3.yaml
+    Table 4: Table4.yaml
+    Table 5: Table5.yaml
+    Table 6: Table6.yaml
+    Table 7: Table7.yaml
+    Table 8: Table8.yaml
+    Table 9: Table9.yaml
+    Table 10: Table10.yaml
+    Table 11: Table11.yaml
+    Table 12: Table12.yaml
+    Table 13: Table13.yaml
+    Table 14: Table14.yaml
+    Table 15: Table15.yaml
+    Table 16: Table16.yaml
+    Table 17: Table17.yaml
+    Table 18: Table18.yaml
+    Table 19: Table19.yaml
+    Table 20: Table20.yaml
+    Table 21: Table21.yaml
+    Table 22: Table22.yaml
+    Table 23: Table23.yaml
+    Table 24: Table24.yaml
+    Table 25: Table25.yaml
+    Table 26: Table26.yaml
+    Table 27: Table27.yaml
+    Table 28: Table28.yaml
+    Table 29: Table29.yaml
+    Table 30: Table30.yaml
+    Table 31: Table31.yaml
+    Table 32: Table32.yaml
+    Table 33: Table33.yaml
+    Table 34: Table34.yaml
+    Table 35: Table35.yaml
+    Table 36: Table36.yaml
+    Table 37: Table37.yaml
+    Table 38: Table38.yaml
+    Table 39: Table39.yaml
+    Table 40: Table40.yaml
+    Table 41: Table41.yaml
+    Table 42: Table42.yaml
+    Table 43: Table43.yaml
+    Table 44: Table44.yaml
+    Table 45: Table45.yaml
+    Table 46: Table46.yaml
+    Table 47: Table47.yaml
+    Table 48: Table48.yaml
+    Table 49: Table49.yaml
+    Table 50: Table50.yaml
+    Table 51: Table51.yaml
+    Table 52: Table52.yaml
+    Table 53: Table53.yaml
+    Table 54: Table54.yaml
+    Table 55: Table55.yaml
+    Table 56: Table56.yaml
+    Table 57: Table57.yaml
+    Table 58: Table58.yaml
+    Table 59: Table59.yaml
+    Table 60: Table60.yaml
+    Table 61: Table61.yaml
+    Table 62: Table62.yaml
+    Table 63: Table63.yaml
+    Table 64: Table64.yaml
+    Table 65: Table65.yaml
+    Table 66: Table66.yaml
+    Table 67: Table67.yaml
+    Table 68: Table68.yaml
+    Table 69: Table69.yaml
+    Table 70: Table70.yaml
+    Table 71: Table71.yaml
+    Table 72: Table72.yaml
+    Table 73: Table73.yaml
+    Table 74: Table74.yaml
+    Table 75: Table75.yaml
+    Table 76: Table76.yaml
+    Table 77: Table77.yaml
+    Table 78: Table78.yaml
+    Table 79: Table79.yaml
+    Table 80: Table80.yaml
+    Table 81: Table81.yaml
+2760/inclusive_jet/Dz_atlas:
+- directory: 2760/inclusive_jet/Dz_atlas/HEPData-ins1511869-v1-yaml
+  inspire_hep_id: 1511869
+  version: 1
+  tables_to_filenames:
+    Table 1: Table1.yaml
+    Table 2: Table2.yaml
+    Table 3: Table3.yaml
+    Table 4: Table4.yaml
+    Table 5: Table5.yaml
+    Table 6: Table6.yaml
+    Table 7: Table7.yaml
+    Table 8: Table8.yaml
+    Table 9: Table9.yaml
+    Table 10: Table10.yaml
+    Table 11: Table11.yaml
+    Table 12: Table12.yaml
+    Table 13: Table13.yaml
+    Table 14: Table14.yaml
+    Table 15: Table15.yaml
+    Table 16: Table16.yaml
+    Table 17: Table17.yaml
+    Table 18: Table18.yaml
+    Table 19: Table19.yaml
+    Table 20: Table20.yaml
+    Table 21: Table21.yaml
+    Table 22: Table22.yaml
+    Table 23: Table23.yaml
+    Table 24: Table24.yaml
+    Table 25: Table25.yaml
+    Table 26: Table26.yaml
+    Table 27: Table27.yaml
+    Table 28: Table28.yaml
+    Table 29: Table29.yaml
+    Table 30: Table30.yaml
+    Table 31: Table31.yaml
+    Table 32: Table32.yaml
+    Table 33: Table33.yaml
+    Table 34: Table34.yaml
+    Table 35: Table35.yaml
+    Table 36: Table36.yaml
+    Table 37: Table37.yaml
+    Table 38: Table38.yaml
+    Table 39: Table39.yaml
+    Table 40: Table40.yaml
+    Table 41: Table41.yaml
+    Table 42: Table42.yaml
+    Table 43: Table43.yaml
+    Table 44: Table44.yaml
+    Table 45: Table45.yaml
+    Table 46: Table46.yaml
+    Table 47: Table47.yaml
+    Table 48: Table48.yaml
+    Table 49: Table49.yaml
+    Table 50: Table50.yaml
+    Table 51: Table51.yaml
+    Table 52: Table52.yaml
+    Table 53: Table53.yaml
+    Table 54: Table54.yaml
+    Table 55: Table55.yaml
+    Table 56: Table56.yaml
+    Table 57: Table57.yaml
+    Table 58: Table58.yaml
+    Table 59: Table59.yaml
+    Table 60: Table60.yaml
+    Table 61: Table61.yaml
+    Table 62: Table62.yaml
+    Table 63: Table63.yaml
+    Table 64: Table64.yaml
+    Table 65: Table65.yaml
+    Table 66: Table66.yaml
+    Table 67: Table67.yaml
+    Table 68: Table68.yaml
+    Table 69: Table69.yaml
+    Table 70: Table70.yaml
+    Table 71: Table71.yaml
+    Table 72: Table72.yaml
+    Table 73: Table73.yaml
+    Table 74: Table74.yaml
+    Table 75: Table75.yaml
+    Table 76: Table76.yaml
+    Table 77: Table77.yaml
+    Table 78: Table78.yaml
+    Table 79: Table79.yaml
+    Table 80: Table80.yaml
+    Table 81: Table81.yaml
+2760/inclusive_jet/pt_alice:
+- directory: 2760/inclusive_jet/pt_alice/HEPData-ins1343112-v1-yaml
+  inspire_hep_id: 1343112
+  version: 1
+  tables_to_filenames:
+    Table 1: Table1.yaml
+    Table 2: Table2.yaml
+    Table 3: Table3.yaml
+    Table 4: Table4.yaml
+    Table 5: Table5.yaml
+    Table 6: Table6.yaml
+    Table 7: Table7.yaml
+2760/inclusive_jet/pt_atlas:
+- directory: 2760/inclusive_jet/pt_atlas/HEPData-ins1326911-v1-yaml
+  inspire_hep_id: 1326911
+  version: 1
+  tables_to_filenames:
+    Table 1: Table1.yaml
+    Table 2: Table2.yaml
+    Table 3: Table3.yaml
+    Table 4: Table4.yaml
+    Table 5: Table5.yaml
+    Table 6: Table6.yaml
+    Table 7: Table7.yaml
+    Table 8: Table8.yaml
+    Table 9: Table9.yaml
+    Table 10: Table10.yaml
+    Table 11: Table11.yaml
+    Table 12: Table12.yaml
+    Table 13: Table13.yaml
+    Table 14: Table14.yaml
+    Table 15: Table15.yaml
+    Table 16: Table16.yaml
+    Table 17: Table17.yaml
+    Table 18: Table18.yaml
+    Table 19: Table19.yaml
+    Table 20: Table20.yaml
+    Table 21: Table21.yaml
+    Table 22: Table22.yaml
+    Table 23: Table23.yaml
+    Table 24: Table24.yaml
+    Table 25: Table25.yaml
+    Table 26: Table26.yaml
+    Table 27: Table27.yaml
+    Table 28: Table28.yaml
+    Table 29: Table29.yaml
+    Table 30: Table30.yaml
+    Table 31: Table31.yaml
+    Table 32: Table32.yaml
+    Table 33: Table33.yaml
+    Table 34: Table34.yaml
+    Table 35: Table35.yaml
+    Table 36: Table36.yaml
+    Table 37: Table37.yaml
+    Table 38: Table38.yaml
+    Table 39: Table39.yaml
+    Table 40: Table40.yaml
+    Table 41: Table41.yaml
+    Table 42: Table42.yaml
+    Table 43: Table43.yaml
+    Table 44: Table44.yaml
+    Table 45: Table45.yaml
+    Table 46: Table46.yaml
+2760/inclusive_jet/pt_cms:
+- directory: 2760/inclusive_jet/pt_cms/HEPData-ins1487278-v1-yaml
+  inspire_hep_id: 1487278
+  version: 1
+  tables_to_filenames:
+    Table 1a: data_fig1a.yaml
+    Table 1b: data_fig1b.yaml
+    Table 2a: data_fig2a.yaml
+    Table 2b: data_fig2b.yaml
+    Table 4: data_fig4.yaml
+    Table 5: data_fig5.yaml
+    Table 6: data_fig6.yaml
+    Table 7: data_fig7.yaml
+    Table 8a: data_fig8a.yaml
+    Table 8b: data_fig8b.yaml
+    Table 8c: data_fig8c.yaml
+    Table 8d: data_fig8d.yaml
+    Table 8e: data_fig8e.yaml
+    Table 8f: data_fig8f.yaml
+    Table 9a: data_fig9a.yaml
+    Table 9b: data_fig9b.yaml
+    Table 10: data_fig10.yaml
+2760/inclusive_jet/pt_rcp_atlas:
+- directory: 2760/inclusive_jet/pt_rcp_atlas/HEPData-ins1126965-v1-yaml
+  inspire_hep_id: 1126965
+  version: 1
+  tables_to_filenames:
+    Table 1: Table1.yaml
+    Table 2: Table2.yaml
+    Table 3: Table3.yaml
+    Table 4: Table4.yaml
+    Table 5: Table5.yaml
+    Table 6: Table6.yaml
+    Table 7: Table7.yaml
+    Table 8: Table8.yaml
+    Table 9: Table9.yaml
+    Table 10: Table10.yaml
+    Table 11: Table11.yaml
+    Table 12: Table12.yaml
+    Table 13: Table13.yaml
+    Table 14: Table14.yaml
+    Table 15: Table15.yaml
+    Table 16: Table16.yaml
+    Table 17: Table17.yaml
+    Table 18: Table18.yaml
+    Table 19: Table19.yaml
+    Table 20: Table20.yaml
+    Table 21: Table21.yaml
+    Table 22: Table22.yaml
+    Table 23: Table23.yaml
+    Table 24: Table24.yaml
+    Table 25: Table25.yaml
+    Table 26: Table26.yaml
+    Table 27: Table27.yaml
+    Table 28: Table28.yaml
+    Table 29: Table29.yaml
+    Table 30: Table30.yaml
+    Table 31: Table31.yaml
+    Table 32: Table32.yaml
+    Table 33: Table33.yaml
+    Table 34: Table34.yaml
+    Table 35: Table35.yaml
+    Table 36: Table36.yaml
+    Table 37: Table37.yaml
+    Table 38: Table38.yaml
+    Table 39: Table39.yaml
+    Table 40: Table40.yaml
+    Table 41: Table41.yaml
+    Table 42: Table42.yaml
+    Table 43: Table43.yaml
+    Table 44: Table44.yaml
+    Table 45: Table45.yaml
+    Table 46: Table46.yaml
+    Table 47: Table47.yaml
+    Table 48: Table48.yaml
+    Table 49: Table49.yaml
+    Table 50: Table50.yaml
+    Table 51: Table51.yaml
+    Table 52: Table52.yaml
+    Table 53: Table53.yaml
+    Table 54: Table54.yaml
+    Table 55: Table55.yaml
+    Table 56: Table56.yaml
+    Table 57: Table57.yaml
+    Table 58: Table58.yaml
+    Table 59: Table59.yaml
+    Table 60: Table60.yaml
+    Table 61: Table61.yaml
+    Table 62: Table62.yaml
+    Table 63: Table63.yaml
+    Table 64: Table64.yaml
+    Table 65: Table65.yaml
+    Table 66: Table66.yaml
+    Table 67: Table67.yaml
+    Table 68: Table68.yaml
+    Table 69: Table69.yaml
+    Table 70: Table70.yaml
+    Table 71: Table71.yaml
+    Table 72: Table72.yaml
+    Table 73: Table73.yaml
+2760/inclusive_jet/v2_atlas:
+- directory: 2760/inclusive_jet/v2_atlas/HEPData-ins1240088-v1-yaml
+  inspire_hep_id: 1240088
+  version: 1
+  tables_to_filenames:
+    Table 1: data1.yaml
+    Table 2: data2.yaml
+    Table 3: data3.yaml
+    Table 4: data4.yaml
+    Table 5: data5.yaml
+    Table 6: data6.yaml
+    Table 7: data7.yaml
+    Table 8: data8.yaml
+    Table 9: data9.yaml
+    Table 10: data10.yaml
+2760/pion_trigger_hadron/pi0_hadron_IAA_pt_alice:
+- directory: 
+    2760/pion_trigger_hadron/pi0_hadron_IAA_pt_alice/HEPData-ins1483164-v1-yaml
+  inspire_hep_id: 1483164
+  version: 1
+  tables_to_filenames:
+    Table 1: Table1.yaml
+    Table 2: Table2.yaml
+    Table 3: Table3.yaml
+    Table 4: Table4.yaml
+5020/dijet_trigger_jet/pt_pair_atlas:
+- directory: 5020/dijet_trigger_jet/pt_pair_atlas/HEPData-ins2165916-v1-yaml
+  inspire_hep_id: 2165916
+  version: 1
+  tables_to_filenames:
+    Figure 1-0: figure_1-0.yaml
+    Figure 1-1: figure_1-1.yaml
+    Figure 1-2: figure_1-2.yaml
+    Figure 2: figure_2.yaml
+5020/dijet_trigger_jet/v2_cms:
+- directory: 5020/dijet_trigger_jet/v2_cms/HEPData-ins2165916-v1-yaml
+  inspire_hep_id: 2165916
+  version: 1
+  tables_to_filenames:
+    Figure 1-0: figure_1-0.yaml
+    Figure 1-1: figure_1-1.yaml
+    Figure 1-2: figure_1-2.yaml
+    Figure 2: figure_2.yaml
+5020/dijet_trigger_jet/xj_atlas:
+- directory: 5020/dijet_trigger_jet/xj_atlas/HEPData-ins2165916-v1-yaml
+  inspire_hep_id: 2165916
+  version: 1
+  tables_to_filenames:
+    Figure 1-0: figure_1-0.yaml
+    Figure 1-1: figure_1-1.yaml
+    Figure 1-2: figure_1-2.yaml
+    Figure 2: figure_2.yaml
+5020/dijet_trigger_jet/yield_atlas:
+- directory: 5020/dijet_trigger_jet/yield_atlas/HEPData-ins2165916-v1-yaml
+  inspire_hep_id: 2165916
+  version: 1
+  tables_to_filenames:
+    Figure 1-0: figure_1-0.yaml
+    Figure 1-1: figure_1-1.yaml
+    Figure 1-2: figure_1-2.yaml
+    Figure 2: figure_2.yaml
+5020/gamma_trigger_jet/g_cms:
+- directory: 5020/gamma_trigger_jet/g_cms/HEPData-ins1648162-v1-yaml
+  inspire_hep_id: 1648162
+  version: 1
+  tables_to_filenames:
+    Table 1: data1.yaml
+    Table 2: data2.yaml
+    Table 3: data3.yaml
+    Table 4: data4.yaml
+    Table 5: data5.yaml
+    Table 6: data6.yaml
+    Table 7: data7.yaml
+    Table 8: data8.yaml
+    Table 9: data9.yaml
+    Table 10: data10.yaml
+    Table 11: data11.yaml
+    Table 12: data12.yaml
+    Table 13: data13.yaml
+    Table 14: data14.yaml
+    Table 15: data15.yaml
+    Table 16: data16.yaml
+5020/gamma_trigger_jet/pt_atlas:
+- directory: 5020/gamma_trigger_jet/pt_atlas/HEPData-ins2648097-v1-yaml
+  inspire_hep_id: 2648097
+  version: 1
+  tables_to_filenames:
+    Figure 3: figure_3.yaml
+    Figure 4: figure_4.yaml
+    Figure 5: figure_5.yaml
+    Figure 7: figure_7.yaml
+    Figure 9: figure_9.yaml
+    Auxiliary Figure 2: auxiliary_figure_2.yaml
+    Auxiliary Figure 3: auxiliary_figure_3.yaml
+    Auxiliary Figure 4: auxiliary_figure_4.yaml
+    Auxiliary Figure 6: auxiliary_figure_6.yaml
+    Auxiliary Figure 7: auxiliary_figure_7.yaml
+5020/gamma_trigger_jet/rg_cms:
+- directory: 5020/gamma_trigger_jet/rg_cms/HEPData-ins2783507-v1-yaml
+  inspire_hep_id: 2783507
+  version: 1
+  tables_to_filenames:
+    Normalized PbPb Jet girth for $x_J$>0.4: 
+      normalized_pbpb_jet_girth_for_$x_j$>0.4.yaml
+    Data stats covariance matrix for girth for $x_J$>0.4: 
+      data_stats_covariance_matrix_for_girth_for_$x_j$>0.4.yaml
+    MC stats covariance matrix for girth for $x_J$>0.4: 
+      mc_stats_covariance_matrix_for_girth_for_$x_j$>0.4.yaml
+    Normalized PbPb Groomed jet radius $R_g$ for $x_J$>0.4: 
+      normalized_pbpb_groomed_jet_radius_$r_g$_for_$x_j$>0.4.yaml
+    Data stats covariance matrix for $R_g$ for $x_J$>0.4: 
+      data_stats_covariance_matrix_for_$r_g$_for_$x_j$>0.4.yaml
+    MC stats covariance matrix for $R_g$ for $x_J$>0.4: 
+      mc_stats_covariance_matrix_for_$r_g$_for_$x_j$>0.4.yaml
+    Normalized PbPb Jet girth for $x_J$>0.8: 
+      normalized_pbpb_jet_girth_for_$x_j$>0.8.yaml
+    Data stats covariance matrix for girth for $x_J$>0.8: 
+      data_stats_covariance_matrix_for_girth_for_$x_j$>0.8.yaml
+    MC stats covariance matrix for girth for $x_J$>0.8: 
+      mc_stats_covariance_matrix_for_girth_for_$x_j$>0.8.yaml
+    Normalized PbPb Groomed jet radius $R_g$ for $x_J$>0.8: 
+      normalized_pbpb_groomed_jet_radius_$r_g$_for_$x_j$>0.8.yaml
+    Data stats covariance matrix for $R_g$ for $x_J$>0.8: 
+      data_stats_covariance_matrix_for_$r_g$_for_$x_j$>0.8.yaml
+    MC stats covariance matrix for $R_g$ for $x_J$>0.8: 
+      mc_stats_covariance_matrix_for_$r_g$_for_$x_j$>0.8.yaml
+    Normalized pp Jet girth for $x_J$>0.4: 
+      normalized_pp_jet_girth_for_$x_j$>0.4.yaml
+    pp Data stats covariance matrix for girth for $x_J$>0.4: 
+      pp_data_stats_covariance_matrix_for_girth_for_$x_j$>0.4.yaml
+    pp MC stats covariance matrix for girth for $x_J$>0.4: 
+      pp_mc_stats_covariance_matrix_for_girth_for_$x_j$>0.4.yaml
+    Normalized pp Groomed jet radius $R_g$ for $x_J$>0.4: 
+      normalized_pp_groomed_jet_radius_$r_g$_for_$x_j$>0.4.yaml
+    pp Data stats covariance matrix for $R_g$ for $x_J$>0.4: 
+      pp_data_stats_covariance_matrix_for_$r_g$_for_$x_j$>0.4.yaml
+    pp MC stats covariance matrix for $R_g$ for $x_J$>0.4: 
+      pp_mc_stats_covariance_matrix_for_$r_g$_for_$x_j$>0.4.yaml
+    Normalized pp Jet girth for $x_J$>0.8: 
+      normalized_pp_jet_girth_for_$x_j$>0.8.yaml
+    pp Data stats covariance matrix for girth for $x_J$>0.8: 
+      pp_data_stats_covariance_matrix_for_girth_for_$x_j$>0.8.yaml
+    pp MC stats covariance matrix for girth for $x_J$>0.8: 
+      pp_mc_stats_covariance_matrix_for_girth_for_$x_j$>0.8.yaml
+    Normalized pp Groomed jet radius $R_g$ for $x_J$>0.8: 
+      normalized_pp_groomed_jet_radius_$r_g$_for_$x_j$>0.8.yaml
+    pp Data stats covariance matrix for $R_g$ for $x_J$>0.8: 
+      pp_data_stats_covariance_matrix_for_$r_g$_for_$x_j$>0.8.yaml
+    pp MC stats covariance matrix for $R_g$ for $x_J$>0.8: 
+      pp_mc_stats_covariance_matrix_for_$r_g$_for_$x_j$>0.8.yaml
+    Ratio of yields for Jet girth for $x_J$>0.4: 
+      ratio_of_yields_for_jet_girth_for_$x_j$>0.4.yaml
+    Ratio of yields for Groomed jet radius $R_g$ for $x_J$>0.4: 
+      ratio_of_yields_for_groomed_jet_radius_$r_g$_for_$x_j$>0.4.yaml
+    Ratio of yields for Jet girth for $x_J$>0.8: 
+      ratio_of_yields_for_jet_girth_for_$x_j$>0.8.yaml
+    Ratio of yields for Groomed jet radius $R_g$ for $x_J$>0.8: 
+      ratio_of_yields_for_groomed_jet_radius_$r_g$_for_$x_j$>0.8.yaml
+5020/gamma_trigger_jet/xi_cms:
+- directory: 5020/gamma_trigger_jet/xi_cms/HEPData-ins1648162-v1-yaml
+  inspire_hep_id: 1648162
+  version: 1
+  tables_to_filenames:
+    Table 1: data1.yaml
+    Table 2: data2.yaml
+    Table 3: data3.yaml
+    Table 4: data4.yaml
+    Table 5: data5.yaml
+    Table 6: data6.yaml
+    Table 7: data7.yaml
+    Table 8: data8.yaml
+    Table 9: data9.yaml
+    Table 10: data10.yaml
+    Table 11: data11.yaml
+    Table 12: data12.yaml
+    Table 13: data13.yaml
+    Table 14: data14.yaml
+    Table 15: data15.yaml
+    Table 16: data16.yaml
+5020/gamma_trigger_jet/xj_gamma_atlas:
+- directory: 5020/gamma_trigger_jet/xj_gamma_atlas/HEPData-ins1694678-v1-yaml
+  inspire_hep_id: 1694678
+  version: 1
+  tables_to_filenames:
+    Table 1: data1.yaml
+    Table 2: data2.yaml
+    Table 3: data3.yaml
+    Table 4: data4.yaml
+    Table 5: data_aux1.yaml
+    Table 6: data_aux2.yaml
+5020/gamma_trigger_jet/xj_gamma_cms:
+- directory: 5020/gamma_trigger_jet/xj_gamma_cms/HEPData-ins1638996-v1-yaml
+  inspire_hep_id: 1638996
+  version: 1
+  tables_to_filenames:
+    Table 1: tab1.yaml
+    Table 2: fig2.yaml
+    Table 3: fig3.yaml
+    Table 4: fig4.yaml
+    Table 5: fig5.yaml
+    Table 6: fig6.yaml
+    Table 7: fig7.yaml
+5020/hadron/pt_ch_alice:
+- directory: 5020/hadron/pt_ch_alice/HEPData-ins1657384-v1-yaml
+  inspire_hep_id: 1657384
+  version: 1
+  tables_to_filenames:
+    Table 1: Fig3_PbPb_2760GeV.yaml
+    Table 2: Fig3_PbPb_5020GeV.yaml
+    Table 3: Fig3_pPb_5020GeV.yaml
+    Table 4: Fig3_pp.yaml
+    Table 5: Fig4.yaml
+    Table 6: Fig5.yaml
+    Table 7: Fig6_PbPb_2760GeV.yaml
+    Table 8: Fig6_PbPb_5020GeV.yaml
+    Table 9: Fig7_pPb_5020GeV.yaml
+5020/hadron/pt_ch_atlas:
+- directory: 5020/hadron/pt_ch_atlas/HEPData-ins2601282-v1-yaml
+  inspire_hep_id: 2601282
+  version: 1
+  tables_to_filenames:
+    Overview: dummy.yaml
+    Table 1: Table1.yaml
+    Table 2: Table2.yaml
+    Table 3: Table3.yaml
+    Table 4: Table4.yaml
+    Table 5: Table5.yaml
+    Table 6: Table6.yaml
+    Table 7: Table7.yaml
+    Table 8: Table8.yaml
+    Table 9: Table9.yaml
+    Table 10: Table10.yaml
+    Table 11: Table11.yaml
+    Table 12: Table12.yaml
+    Table 13: Table13.yaml
+    Table 14: Table14.yaml
+    Table 15: Table15.yaml
+    Table 16: Table16.yaml
+    Table 17: Table17.yaml
+    Table 18: Table18.yaml
+    Table 19: Table19.yaml
+    Table 20: Table20.yaml
+    Table 21: Table21.yaml
+    Table 22: Table22.yaml
+    Table 23: Table23.yaml
+    Table 24: Table24.yaml
+    Table 25: Table25.yaml
+    Table 26: Table26.yaml
+    Table 27: Table27.yaml
+    Table 28: Table28.yaml
+    Table 29: Table29.yaml
+    Table 30: Table30.yaml
+    Table 31: Table31.yaml
+    Table 32: Table32.yaml
+    Table 33: Table33.yaml
+    Table 34: Table34.yaml
+    Table 35: Table35.yaml
+    Table 36: Table36.yaml
+    Table 37: Table37.yaml
+    Table 38: Table38.yaml
+    Table 39: Table39.yaml
+    Table 40: Table40.yaml
+    Table 41: Table41.yaml
+    Table 42: Table42.yaml
+    Table 43: Table43.yaml
+    Table 44: Table44.yaml
+    Table 45: Table45.yaml
+    Table 46: Table46.yaml
+    Table 47: Table47.yaml
+    Table 48: Table48.yaml
+    Table 49: Table49.yaml
+    Table 50: Table50.yaml
+    Table 51: Table51.yaml
+    Table 52: Table52.yaml
+    Table 53: Table53.yaml
+    Table 54: Table54.yaml
+    Table 55: Table55.yaml
+    Table 56: Table56.yaml
+    Table 57: Table57.yaml
+    Table 58: Table58.yaml
+    Table 59: Table59.yaml
+    Table 60: Table60.yaml
+    Table 61: Table61.yaml
+    Table 62: Table62.yaml
+    Table 63: Table63.yaml
+    Table 64: Table64.yaml
+    Table 65: Table65.yaml
+    Table 66: Table66.yaml
+    Table 67: Table67.yaml
+    Table 68: Table68.yaml
+    Table 69: Table69.yaml
+    Table 70: Table70.yaml
+    Table 71: Table71.yaml
+    Table 72: Table72.yaml
+    Table 73: Table73.yaml
+    Table 74: Table74.yaml
+    Table 75: Table75.yaml
+    Table 76: Table76.yaml
+    Table 77: Table77.yaml
+    Table 78: Table78.yaml
+    Table 79: Table79.yaml
+    Table 80: Table80.yaml
+    Table 81: Table81.yaml
+    Table 82: Table82.yaml
+    Table 83: Table83.yaml
+    Table 84: Table84.yaml
+    Table 85: Table85.yaml
+    Table 86: Table86.yaml
+    Table 87: Table87.yaml
+    Table 88: Table88.yaml
+    Table 89: Table89.yaml
+    Table 90: Table90.yaml
+    Table 91: Table91.yaml
+    Table 92: Table92.yaml
+    Table 93: Table93.yaml
+    Table 94: Table94.yaml
+    Table 95: Table95.yaml
+    Table 96: Table96.yaml
+    Table 97: Table97.yaml
+    Table 98: Table98.yaml
+    Table 99: Table99.yaml
+    Table 100: Table100.yaml
+    Table 101: Table101.yaml
+    Table 102: Table102.yaml
+    Table 103: Table103.yaml
+    Table 104: Table104.yaml
+    Table 105: Table105.yaml
+    Table 106: Table106.yaml
+    Table 107: Table107.yaml
+    Table 108: Table108.yaml
+    Table 109: Table109.yaml
+    Table 110: Table110.yaml
+    Table 111: Table111.yaml
+    Table 112: Table112.yaml
+    Table 113: Table113.yaml
+    Table 114: Table114.yaml
+    Table 115: Table115.yaml
+    Table 116: Table116.yaml
+    Table 117: Table117.yaml
+    Table 118: Table118.yaml
+    Table 119: Table119.yaml
+    Table 120: Table120.yaml
+    Table 121: Table121.yaml
+    Table 122: Table122.yaml
+    Table 123: Table123.yaml
+    Table 124: Table124.yaml
+    Table 125: Table125.yaml
+    Table 126: Table126.yaml
+    Table 127: Table127.yaml
+    Table 128: Table128.yaml
+    Table 129: Table129.yaml
+    Table 130: Table130.yaml
+    Table 131: Table131.yaml
+    Table 132: Table132.yaml
+    Table 133: Table133.yaml
+    Table 134: Table134.yaml
+    Table 135: Table135.yaml
+    Table 136: Table136.yaml
+    Table 137: Table137.yaml
+    Table 138: Table138.yaml
+    Table 139: Table139.yaml
+5020/hadron/pt_ch_cms:
+- directory: 5020/hadron/pt_ch_cms/HEPData-ins1496050-v2-yaml
+  inspire_hep_id: 1496050
+  version: 2
+  tables_to_filenames:
+    Table 1: data1.yaml
+    Table 2: data2.yaml
+    Table 3: data3.yaml
+    Table 4: data4.yaml
+    Table 5: data5.yaml
+    Table 6: data6.yaml
+    Table 7: data7.yaml
+    Table 8: data8.yaml
+    Table 9: data9.yaml
+    Table 10: data10.yaml
+    Table 11: data11.yaml
+    Table 12: data12.yaml
+    Table 13: data13.yaml
+    Table 14: data14.yaml
+    Table 15: data15.yaml
+    Table 16: data16.yaml
+5020/hadron/pt_pi_alice:
+- directory: 5020/hadron/pt_pi_alice/HEPData-ins1759506-v1-yaml
+  inspire_hep_id: 1759506
+  version: 1
+  tables_to_filenames:
+    Table 1: table_1.yaml
+    Table 2: table_2.yaml
+    Table 3: table_3.yaml
+    Table 4: table_4.yaml
+    Table 5: table_5.yaml
+    Table 6: table_6.yaml
+    Table 7: table_7.yaml
+    Table 8: table_8.yaml
+    Table 9: table_9.yaml
+    Table 10: table_10.yaml
+    Table 11: table_11.yaml
+    Table 12: table_12.yaml
+    Table 13: table_13.yaml
+    Table 14: table_14.yaml
+    Table 15: table_15.yaml
+    Table 16: table_16.yaml
+    Table 17: table_17.yaml
+5020/hadron_correlation/v2_ep_atlas:
+- directory: 5020/hadron_correlation/v2_ep_atlas/HEPData-ins1686834-v1-yaml
+  inspire_hep_id: 1686834
+  version: 1
+  tables_to_filenames:
+    Table 1: Table1.yaml
+    Table 2: Table2.yaml
+    Table 3: Table3.yaml
+    Table 4: Table4.yaml
+    Table 5: Table5.yaml
+    Table 6: Table6.yaml
+    Table 7: Table7.yaml
+    Table 8: Table8.yaml
+    Table 9: Table9.yaml
+    Table 10: Table10.yaml
+    Table 11: Table11.yaml
+    Table 12: Table12.yaml
+    Table 13: Table13.yaml
+    Table 14: Table14.yaml
+    Table 15: Table15.yaml
+    Table 16: Table16.yaml
+    Table 17: Table17.yaml
+    Table 18: Table18.yaml
+    Table 19: Table19.yaml
+    Table 20: Table20.yaml
+    Table 21: Table21.yaml
+    Table 22: Table22.yaml
+    Table 23: Table23.yaml
+    Table 24: Table24.yaml
+    Table 25: Table25.yaml
+    Table 26: Table26.yaml
+    Table 27: Table27.yaml
+    Table 28: Table28.yaml
+    Table 29: Table29.yaml
+    Table 30: Table30.yaml
+    Table 31: Table31.yaml
+    Table 32: Table32.yaml
+    Table 33: Table33.yaml
+    Table 34: Table34.yaml
+    Table 35: Table35.yaml
+    Table 36: Table36.yaml
+    Table 37: Table37.yaml
+    Table 38: Table38.yaml
+    Table 39: Table39.yaml
+    Table 40: Table40.yaml
+    Table 41: Table41.yaml
+    Table 42: Table42.yaml
+    Table 43: Table43.yaml
+    Table 44: Table44.yaml
+    Table 45: Table45.yaml
+    Table 46: Table46.yaml
+    Table 47: Table47.yaml
+    Table 48: Table48.yaml
+    Table 49: Table49.yaml
+    Table 50: Table50.yaml
+    Table 51: Table51.yaml
+    Table 52: Table52.yaml
+    Table 53: Table53.yaml
+    Table 54: Table54.yaml
+    Table 55: Table55.yaml
+    Table 56: Table56.yaml
+    Table 57: Table57.yaml
+    Table 58: Table58.yaml
+    Table 59: Table59.yaml
+    Table 60: Table60.yaml
+    Table 61: Table61.yaml
+    Table 62: Table62.yaml
+    Table 63: Table63.yaml
+    Table 64: Table64.yaml
+    Table 65: Table65.yaml
+    Table 66: Table66.yaml
+    Table 67: Table67.yaml
+    Table 68: Table68.yaml
+    Table 69: Table69.yaml
+    Table 70: Table70.yaml
+    Table 71: Table71.yaml
+    Table 72: Table72.yaml
+    Table 73: Table73.yaml
+    Table 74: Table74.yaml
+    Table 75: Table75.yaml
+    Table 76: Table76.yaml
+    Table 77: Table77.yaml
+    Table 78: Table78.yaml
+    Table 79: Table79.yaml
+    Table 80: Table80.yaml
+    Table 81: Table81.yaml
+    Table 82: Table82.yaml
+    Table 83: Table83.yaml
+    Table 84: Table84.yaml
+    Table 85: Table85.yaml
+    Table 86: Table86.yaml
+    Table 87: Table87.yaml
+    Table 88: Table88.yaml
+    Table 89: Table89.yaml
+    Table 90: Table90.yaml
+    Table 91: Table91.yaml
+    Table 92: Table92.yaml
+    Table 93: Table93.yaml
+    Table 94: Table94.yaml
+    Table 95: Table95.yaml
+    Table 96: Table96.yaml
+    Table 97: Table97.yaml
+    Table 98: Table98.yaml
+    Table 99: Table99.yaml
+    Table 100: Table100.yaml
+    Table 101: Table101.yaml
+    Table 102: Table102.yaml
+    Table 103: Table103.yaml
+    Table 104: Table104.yaml
+    Table 105: Table105.yaml
+    Table 106: Table106.yaml
+    Table 107: Table107.yaml
+    Table 108: Table108.yaml
+    Table 109: Table109.yaml
+    Table 110: Table110.yaml
+    Table 111: Table111.yaml
+    Table 112: Table112.yaml
+    Table 113: Table113.yaml
+    Table 114: Table114.yaml
+    Table 115: Table115.yaml
+    Table 116: Table116.yaml
+    Table 117: Table117.yaml
+    Table 118: Table118.yaml
+    Table 119: Table119.yaml
+    Table 120: Table120.yaml
+    Table 121: Table121.yaml
+    Table 122: Table122.yaml
+    Table 123: Table123.yaml
+    Table 124: Table124.yaml
+    Table 125: Table125.yaml
+    Table 126: Table126.yaml
+    Table 127: Table127.yaml
+    Table 128: Table128.yaml
+    Table 129: Table129.yaml
+    Table 130: Table130.yaml
+    Table 131: Table131.yaml
+    Table 132: Table132.yaml
+    Table 133: Table133.yaml
+    Table 134: Table134.yaml
+    Table 135: Table135.yaml
+    Table 136: Table136.yaml
+    Table 137: Table137.yaml
+    Table 138: Table138.yaml
+    Table 139: Table139.yaml
+    Table 140: Table140.yaml
+    Table 141: Table141.yaml
+    Table 142: Table142.yaml
+    Table 143: Table143.yaml
+    Table 144: Table144.yaml
+    Table 145: Table145.yaml
+    Table 146: Table146.yaml
+    Table 147: Table147.yaml
+    Table 148: Table148.yaml
+    Table 149: Table149.yaml
+    Table 150: Table150.yaml
+    Table 151: Table151.yaml
+    Table 152: Table152.yaml
+    Table 153: Table153.yaml
+    Table 154: Table154.yaml
+    Table 155: Table155.yaml
+    Table 156: Table156.yaml
+    Table 157: Table157.yaml
+    Table 158: Table158.yaml
+    Table 159: Table159.yaml
+    Table 160: Table160.yaml
+    Table 161: Table161.yaml
+    Table 162: Table162.yaml
+    Table 163: Table163.yaml
+    Table 164: Table164.yaml
+    Table 165: Table165.yaml
+    Table 166: Table166.yaml
+    Table 167: Table167.yaml
+    Table 168: Table168.yaml
+    Table 169: Table169.yaml
+    Table 170: Table170.yaml
+    Table 171: Table171.yaml
+    Table 172: Table172.yaml
+    Table 173: Table173.yaml
+    Table 174: Table174.yaml
+    Table 175: Table175.yaml
+    Table 176: Table176.yaml
+    Table 177: Table177.yaml
+    Table 178: Table178.yaml
+    Table 179: Table179.yaml
+    Table 180: Table180.yaml
+    Table 181: Table181.yaml
+    Table 182: Table182.yaml
+    Table 183: Table183.yaml
+    Table 184: Table184.yaml
+    Table 185: Table185.yaml
+    Table 186: Table186.yaml
+    Table 187: Table187.yaml
+    Table 188: Table188.yaml
+    Table 189: Table189.yaml
+    Table 190: Table190.yaml
+    Table 191: Table191.yaml
+    Table 192: Table192.yaml
+    Table 193: Table193.yaml
+    Table 194: Table194.yaml
+    Table 195: Table195.yaml
+    Table 196: Table196.yaml
+    Table 197: Table197.yaml
+    Table 198: Table198.yaml
+    Table 199: Table199.yaml
+    Table 200: Table200.yaml
+    Table 201: Table201.yaml
+    Table 202: Table202.yaml
+    Table 203: Table203.yaml
+    Table 204: Table204.yaml
+    Table 205: Table205.yaml
+    Table 206: Table206.yaml
+    Table 207: Table207.yaml
+    Table 208: Table208.yaml
+    Table 209: Table209.yaml
+    Table 210: Table210.yaml
+    Table 211: Table211.yaml
+    Table 212: Table212.yaml
+    Table 213: Table213.yaml
+    Table 214: Table214.yaml
+    Table 215: Table215.yaml
+    Table 216: Table216.yaml
+    Table 217: Table217.yaml
+    Table 218: Table218.yaml
+    Table 219: Table219.yaml
+    Table 220: Table220.yaml
+    Table 221: Table221.yaml
+    Table 222: Table222.yaml
+    Table 223: Table223.yaml
+    Table 224: Table224.yaml
+    Table 225: Table225.yaml
+    Table 226: Table226.yaml
+    Table 227: Table227.yaml
+    Table 228: Table228.yaml
+    Table 229: Table229.yaml
+    Table 230: Table230.yaml
+    Table 231: Table231.yaml
+    Table 232: Table232.yaml
+    Table 233: Table233.yaml
+    Table 234: Table234.yaml
+    Table 235: Table235.yaml
+    Table 236: Table236.yaml
+    Table 237: Table237.yaml
+    Table 238: Table238.yaml
+    Table 239: Table239.yaml
+    Table 240: Table240.yaml
+    Table 241: Table241.yaml
+    Table 242: Table242.yaml
+    Table 243: Table243.yaml
+    Table 244: Table244.yaml
+    Table 245: Table245.yaml
+    Table 246: Table246.yaml
+    Table 247: Table247.yaml
+    Table 248: Table248.yaml
+    Table 249: Table249.yaml
+    Table 250: Table250.yaml
+    Table 251: Table251.yaml
+    Table 252: Table252.yaml
+    Table 253: Table253.yaml
+    Table 254: Table254.yaml
+    Table 255: Table255.yaml
+    Table 256: Table256.yaml
+    Table 257: Table257.yaml
+    Table 258: Table258.yaml
+    Table 259: Table259.yaml
+    Table 260: Table260.yaml
+    Table 261: Table261.yaml
+    Table 262: Table262.yaml
+    Table 263: Table263.yaml
+    Table 264: Table264.yaml
+    Table 265: Table265.yaml
+    Table 266: Table266.yaml
+    Table 267: Table267.yaml
+    Table 268: Table268.yaml
+    Table 269: Table269.yaml
+    Table 270: Table270.yaml
+    Table 271: Table271.yaml
+    Table 272: Table272.yaml
+    Table 273: Table273.yaml
+    Table 274: Table274.yaml
+    Table 275: Table275.yaml
+    Table 276: Table276.yaml
+    Table 277: Table277.yaml
+    Table 278: Table278.yaml
+    Table 279: Table279.yaml
+    Table 280: Table280.yaml
+    Table 281: Table281.yaml
+    Table 282: Table282.yaml
+    Table 283: Table283.yaml
+    Table 284: Table284.yaml
+    Table 285: Table285.yaml
+    Table 286: Table286.yaml
+    Table 287: Table287.yaml
+    Table 288: Table288.yaml
+    Table 289: Table289.yaml
+    Table 290: Table290.yaml
+    Table 291: Table291.yaml
+    Table 292: Table292.yaml
+    Table 293: Table293.yaml
+    Table 294: Table294.yaml
+    Table 295: Table295.yaml
+    Table 296: Table296.yaml
+    Table 297: Table297.yaml
+    Table 298: Table298.yaml
+    Table 299: Table299.yaml
+    Table 300: Table300.yaml
+    Table 301: Table301.yaml
+    Table 302: Table302.yaml
+    Table 303: Table303.yaml
+    Table 304: Table304.yaml
+    Table 305: Table305.yaml
+    Table 306: Table306.yaml
+    Table 307: Table307.yaml
+    Table 308: Table308.yaml
+    Table 309: Table309.yaml
+    Table 310: Table310.yaml
+    Table 311: Table311.yaml
+    Table 312: Table312.yaml
+    Table 313: Table313.yaml
+    Table 314: Table314.yaml
+    Table 315: Table315.yaml
+    Table 316: Table316.yaml
+    Table 317: Table317.yaml
+    Table 318: Table318.yaml
+    Table 319: Table319.yaml
+    Table 320: Table320.yaml
+    Table 321: Table321.yaml
+    Table 322: Table322.yaml
+    Table 323: Table323.yaml
+    Table 324: Table324.yaml
+    Table 325: Table325.yaml
+    Table 326: Table326.yaml
+    Table 327: Table327.yaml
+    Table 328: Table328.yaml
+    Table 329: Table329.yaml
+    Table 330: Table330.yaml
+    Table 331: Table331.yaml
+    Table 332: Table332.yaml
+    Table 333: Table333.yaml
+    Table 334: Table334.yaml
+    Table 335: Table335.yaml
+    Table 336: Table336.yaml
+    Table 337: Table337.yaml
+    Table 338: Table338.yaml
+    Table 339: Table339.yaml
+    Table 340: Table340.yaml
+    Table 341: Table341.yaml
+    Table 342: Table342.yaml
+    Table 343: Table343.yaml
+    Table 344: Table344.yaml
+    Table 345: Table345.yaml
+    Table 346: Table346.yaml
+    Table 347: Table347.yaml
+    Table 348: Table348.yaml
+    Table 349: Table349.yaml
+    Table 350: Table350.yaml
+    Table 351: Table351.yaml
+    Table 352: Table352.yaml
+    Table 353: Table353.yaml
+    Table 354: Table354.yaml
+    Table 355: Table355.yaml
+    Table 356: Table356.yaml
+    Table 357: Table357.yaml
+    Table 358: Table358.yaml
+    Table 359: Table359.yaml
+    Table 360: Table360.yaml
+    Table 361: Table361.yaml
+    Table 362: Table362.yaml
+    Table 363: Table363.yaml
+    Table 364: Table364.yaml
+    Table 365: Table365.yaml
+    Table 366: Table366.yaml
+    Table 367: Table367.yaml
+    Table 368: Table368.yaml
+    Table 369: Table369.yaml
+    Table 370: Table370.yaml
+    Table 371: Table371.yaml
+    Table 372: Table372.yaml
+    Table 373: Table373.yaml
+    Table 374: Table374.yaml
+    Table 375: Table375.yaml
+    Table 376: Table376.yaml
+    Table 377: Table377.yaml
+    Table 378: Table378.yaml
+    Table 379: Table379.yaml
+    Table 380: Table380.yaml
+    Table 381: Table381.yaml
+    Table 382: Table382.yaml
+    Table 383: Table383.yaml
+    Table 384: Table384.yaml
+    Table 385: Table385.yaml
+    Table 386: Table386.yaml
+    Table 387: Table387.yaml
+    Table 388: Table388.yaml
+    Table 389: Table389.yaml
+    Table 390: Table390.yaml
+    Table 391: Table391.yaml
+    Table 392: Table392.yaml
+    Table 393: Table393.yaml
+    Table 394: Table394.yaml
+    Table 395: Table395.yaml
+    Table 396: Table396.yaml
+    Table 397: Table397.yaml
+    Table 398: Table398.yaml
+    Table 399: Table399.yaml
+    Table 400: Table400.yaml
+    Table 401: Table401.yaml
+    Table 402: Table402.yaml
+    Table 403: Table403.yaml
+    Table 404: Table404.yaml
+    Table 405: Table405.yaml
+    Table 406: Table406.yaml
+    Table 407: Table407.yaml
+    Table 408: Table408.yaml
+    Table 409: Table409.yaml
+    Table 410: Table410.yaml
+    Table 411: Table411.yaml
+    Table 412: Table412.yaml
+    Table 413: Table413.yaml
+    Table 414: Table414.yaml
+    Table 415: Table415.yaml
+    Table 416: Table416.yaml
+    Table 417: Table417.yaml
+    Table 418: Table418.yaml
+    Table 419: Table419.yaml
+    Table 420: Table420.yaml
+    Table 421: Table421.yaml
+    Table 422: Table422.yaml
+    Table 423: Table423.yaml
+    Table 424: Table424.yaml
+    Table 425: Table425.yaml
+    Table 426: Table426.yaml
+    Table 427: Table427.yaml
+    Table 428: Table428.yaml
+    Table 429: Table429.yaml
+    Table 430: Table430.yaml
+    Table 431: Table431.yaml
+    Table 432: Table432.yaml
+    Table 433: Table433.yaml
+    Table 434: Table434.yaml
+    Table 435: Table435.yaml
+    Table 436: Table436.yaml
+    Table 437: Table437.yaml
+    Table 438: Table438.yaml
+    Table 439: Table439.yaml
+    Table 440: Table440.yaml
+    Table 441: Table441.yaml
+    Table 442: Table442.yaml
+    Table 443: Table443.yaml
+    Table 444: Table444.yaml
+    Table 445: Table445.yaml
+    Table 446: Table446.yaml
+    Table 447: Table447.yaml
+    Table 448: Table448.yaml
+    Table 449: Table449.yaml
+    Table 450: Table450.yaml
+    Table 451: Table451.yaml
+    Table 452: Table452.yaml
+    Table 453: Table453.yaml
+    Table 454: Table454.yaml
+    Table 455: Table455.yaml
+    Table 456: Table456.yaml
+5020/hadron_correlation/v2_four_particle_cumulants_alice:
+- directory: 
+    5020/hadron_correlation/v2_four_particle_cumulants_alice/HEPData-ins1666817-v1-yaml
+  inspire_hep_id: 1666817
+  version: 1
+  tables_to_filenames:
+    Table 1: v22Deta1_502TeV.yaml
+    Table 2: v24_502TeV.yaml
+    Table 3: v32Deta1_502TeV.yaml
+    Table 4: v42Deta1_502TeV.yaml
+    Table 5: v52Deta1_502TeV.yaml
+    Table 6: v62Deta1_502TeV.yaml
+    Table 7: v22Deta1_276TeV.yaml
+    Table 8: v24_276TeV.yaml
+    Table 9: v32Deta1_276TeV.yaml
+    Table 10: v42Deta1_276TeV.yaml
+    Table 11: v22Deta1_RatioEnergies.yaml
+    Table 12: v24_RatioEnergies.yaml
+    Table 13: v32Deta1_RatioEnergies.yaml
+    Table 14: v42Deta1_RatioEnergies.yaml
+    Table 15: v22Deta1_502TeVdif_cen0.yaml
+    Table 16: v22Deta1_276TeVdif_cen0.yaml
+    Table 17: v32Deta1_502TeVdif_cen0.yaml
+    Table 18: v32Deta1_276TeVdif_cen0.yaml
+    Table 19: v42Deta1_502TeVdif_cen0.yaml
+    Table 20: v42Deta1_276TeVdif_cen0.yaml
+    Table 21: v52Deta1_276TeVdif_cen0.yaml
+    Table 22: v62Deta1_276TeVdif_cen0.yaml
+    Table 23: v22Deta1_502TeVdif_cen1.yaml
+    Table 24: v22Deta1_276TeVdif_cen1.yaml
+    Table 25: v32Deta1_502TeVdif_cen1.yaml
+    Table 26: v32Deta1_276TeVdif_cen1.yaml
+    Table 27: v42Deta1_502TeVdif_cen1.yaml
+    Table 28: v42Deta1_276TeVdif_cen1.yaml
+    Table 29: v52Deta1_276TeVdif_cen1.yaml
+    Table 30: v62Deta1_276TeVdif_cen1.yaml
+    Table 31: v24_502TeVdif_cen1.yaml
+    Table 32: v24_276TeVdif_cen1.yaml
+    Table 33: v22Deta1_502TeVdif_cen2.yaml
+    Table 34: v22Deta1_276TeVdif_cen2.yaml
+    Table 35: v32Deta1_502TeVdif_cen2.yaml
+    Table 36: v32Deta1_276TeVdif_cen2.yaml
+    Table 37: v42Deta1_502TeVdif_cen2.yaml
+    Table 38: v42Deta1_276TeVdif_cen2.yaml
+    Table 39: v52Deta1_276TeVdif_cen2.yaml
+    Table 40: v62Deta1_276TeVdif_cen2.yaml
+    Table 41: v24_502TeVdif_cen2.yaml
+    Table 42: v24_276TeVdif_cen2.yaml
+    Table 43: v22Deta1_502TeVdif_cen3.yaml
+    Table 44: v22Deta1_276TeVdif_cen3.yaml
+    Table 45: v32Deta1_502TeVdif_cen3.yaml
+    Table 46: v32Deta1_276TeVdif_cen3.yaml
+    Table 47: v42Deta1_502TeVdif_cen3.yaml
+    Table 48: v42Deta1_276TeVdif_cen3.yaml
+    Table 49: v52Deta1_276TeVdif_cen3.yaml
+    Table 50: v62Deta1_276TeVdif_cen3.yaml
+    Table 51: v24_502TeVdif_cen3.yaml
+    Table 52: v24_276TeVdif_cen3.yaml
+    Table 53: v22Deta1_502TeVdif_cen4.yaml
+    Table 54: v22Deta1_276TeVdif_cen4.yaml
+    Table 55: v32Deta1_502TeVdif_cen4.yaml
+    Table 56: v32Deta1_276TeVdif_cen4.yaml
+    Table 57: v42Deta1_502TeVdif_cen4.yaml
+    Table 58: v42Deta1_276TeVdif_cen4.yaml
+    Table 59: v52Deta1_276TeVdif_cen4.yaml
+    Table 60: v62Deta1_276TeVdif_cen4.yaml
+    Table 61: v24_502TeVdif_cen4.yaml
+    Table 62: v24_276TeVdif_cen4.yaml
+    Table 63: v22Deta1_502TeVdif_cen5.yaml
+    Table 64: v22Deta1_276TeVdif_cen5.yaml
+    Table 65: v32Deta1_502TeVdif_cen5.yaml
+    Table 66: v32Deta1_276TeVdif_cen5.yaml
+    Table 67: v42Deta1_502TeVdif_cen5.yaml
+    Table 68: v42Deta1_276TeVdif_cen5.yaml
+    Table 69: v52Deta1_276TeVdif_cen5.yaml
+    Table 70: v62Deta1_276TeVdif_cen5.yaml
+    Table 71: v24_502TeVdif_cen5.yaml
+    Table 72: v24_276TeVdif_cen5.yaml
+    Table 73: v22Deta1_502TeVdif_cen6.yaml
+    Table 74: v22Deta1_276TeVdif_cen6.yaml
+    Table 75: v32Deta1_502TeVdif_cen6.yaml
+    Table 76: v32Deta1_276TeVdif_cen6.yaml
+    Table 77: v42Deta1_502TeVdif_cen6.yaml
+    Table 78: v42Deta1_276TeVdif_cen6.yaml
+    Table 79: v52Deta1_276TeVdif_cen6.yaml
+    Table 80: v24_502TeVdif_cen6.yaml
+    Table 81: v24_276TeVdif_cen6.yaml
+    Table 82: v22Deta1_502TeVdif_cen7.yaml
+    Table 83: v22Deta1_276TeVdif_cen7.yaml
+    Table 84: v32Deta1_502TeVdif_cen7.yaml
+    Table 85: v32Deta1_276TeVdif_cen7.yaml
+    Table 86: v42Deta1_276TeVdif_cen7.yaml
+    Table 87: v24_502TeVdif_cen7.yaml
+    Table 88: v24_276TeVdif_cen7.yaml
+    Table 89: v22Deta2_502TeVdif_cen0.yaml
+    Table 90: v22Deta2_276TeVdif_cen0.yaml
+    Table 91: v32Deta2_502TeVdif_cen0.yaml
+    Table 92: v32Deta2_276TeVdif_cen0.yaml
+    Table 93: v42Deta2_502TeVdif_cen0.yaml
+    Table 94: v42Deta2_276TeVdif_cen0.yaml
+    Table 95: v22Deta2_502TeVdif_cen1.yaml
+    Table 96: v22Deta2_276TeVdif_cen1.yaml
+    Table 97: v32Deta2_502TeVdif_cen1.yaml
+    Table 98: v32Deta2_276TeVdif_cen1.yaml
+    Table 99: v42Deta2_502TeVdif_cen1.yaml
+    Table 100: v42Deta2_276TeVdif_cen1.yaml
+    Table 101: v22Deta2_502TeVdif_cen2.yaml
+    Table 102: v22Deta2_276TeVdif_cen2.yaml
+    Table 103: v32Deta2_502TeVdif_cen2.yaml
+    Table 104: v32Deta2_276TeVdif_cen2.yaml
+    Table 105: v42Deta2_502TeVdif_cen2.yaml
+    Table 106: v42Deta2_276TeVdif_cen2.yaml
+    Table 107: v22Deta2_502TeVdif_cen3.yaml
+    Table 108: v22Deta2_276TeVdif_cen3.yaml
+    Table 109: v32Deta2_502TeVdif_cen3.yaml
+    Table 110: v32Deta2_276TeVdif_cen3.yaml
+    Table 111: v42Deta2_502TeVdif_cen3.yaml
+    Table 112: v42Deta2_276TeVdif_cen3.yaml
+    Table 113: v22Deta2_502TeVdif_cen4.yaml
+    Table 114: v22Deta2_276TeVdif_cen4.yaml
+    Table 115: v32Deta2_502TeVdif_cen4.yaml
+    Table 116: v32Deta2_276TeVdif_cen4.yaml
+    Table 117: v42Deta2_502TeVdif_cen4.yaml
+    Table 118: v42Deta2_276TeVdif_cen4.yaml
+    Table 119: v22Deta2_502TeVdif_cen5.yaml
+    Table 120: v22Deta2_276TeVdif_cen5.yaml
+    Table 121: v32Deta2_502TeVdif_cen5.yaml
+    Table 122: v32Deta2_276TeVdif_cen5.yaml
+    Table 123: v42Deta2_502TeVdif_cen5.yaml
+    Table 124: v42Deta2_276TeVdif_cen5.yaml
+    Table 125: v22Deta2_502TeVdif_cen6.yaml
+    Table 126: v22Deta2_276TeVdif_cen6.yaml
+    Table 127: v32Deta2_502TeVdif_cen6.yaml
+    Table 128: v32Deta2_276TeVdif_cen6.yaml
+    Table 129: v42Deta2_502TeVdif_cen6.yaml
+    Table 130: v42Deta2_276TeVdif_cen6.yaml
+    Table 131: v22Deta2_502TeVdif_cen7.yaml
+    Table 132: v22Deta2_276TeVdif_cen7.yaml
+    Table 133: v32Deta2_502TeVdif_cen7.yaml
+    Table 134: v32Deta2_276TeVdif_cen7.yaml
+    Table 135: v42Deta2_502TeVdif_cen7.yaml
+    Table 137: v22Deta1_RatioEnergiesdif_cen1.yaml
+    Table 138: v32Deta1_RatioEnergiesdif_cen1.yaml
+    Table 139: v42Deta1_RatioEnergiesdif_cen1.yaml
+    Table 140: v22Deta1_RatioEnergiesdif_cen3.yaml
+    Table 141: v32Deta1_RatioEnergiesdif_cen3.yaml
+    Table 142: v42Deta1_RatioEnergiesdif_cen3.yaml
+    Table 143: v22Deta1_RatioEnergiesdif_cen5.yaml
+    Table 144: v32Deta1_RatioEnergiesdif_cen5.yaml
+    Table 145: v42Deta1_RatioEnergiesdif_cen5.yaml
+    Table 146: v4RatioTo2030_502TeVdif_cen0.yaml
+    Table 147: v4RatioTo2030_502TeVdif_cen1.yaml
+    Table 148: v4RatioTo2030_502TeVdif_cen2.yaml
+    Table 149: v4RatioTo2030_502TeVdif_cen3.yaml
+    Table 150: v4RatioTo2030_502TeVdif_cen4.yaml
+    Table 151: v4RatioTo2030_502TeVdif_cen5.yaml
+    Table 152: v4RatioTo2030_502TeVdif_cen6.yaml
+    Table 153: v3RatioTo2030_502TeVdif_cen0.yaml
+    Table 154: v3RatioTo2030_502TeVdif_cen1.yaml
+    Table 155: v3RatioTo2030_502TeVdif_cen2.yaml
+    Table 156: v3RatioTo2030_502TeVdif_cen3.yaml
+    Table 157: v3RatioTo2030_502TeVdif_cen4.yaml
+    Table 158: v3RatioTo2030_502TeVdif_cen5.yaml
+    Table 159: v3RatioTo2030_502TeVdif_cen6.yaml
+    Table 160: v3RatioTo2030_502TeVdif_cen7.yaml
+    Table 161: v2RatioTo2030_502TeVdif_cen0.yaml
+    Table 162: v2RatioTo2030_502TeVdif_cen1.yaml
+    Table 163: v2RatioTo2030_502TeVdif_cen2.yaml
+    Table 164: v2RatioTo2030_502TeVdif_cen3.yaml
+    Table 165: v2RatioTo2030_502TeVdif_cen4.yaml
+    Table 166: v2RatioTo2030_502TeVdif_cen5.yaml
+    Table 167: v2RatioTo2030_502TeVdif_cen6.yaml
+    Table 168: v2RatioTo2030_502TeVdif_cen7.yaml
+    Table 169: v4Overv3To4Over3_502TeVdif_cen0.yaml
+    Table 170: v4Overv3To4Over3_502TeVdif_cen1.yaml
+    Table 171: v4Overv3To4Over3_502TeVdif_cen2.yaml
+    Table 172: v4Overv3To4Over3_502TeVdif_cen3.yaml
+    Table 173: v4Overv3To4Over3_502TeVdif_cen4.yaml
+    Table 174: v4Overv3To4Over3_502TeVdif_cen5.yaml
+    Table 175: v4Overv3To4Over3_502TeVdif_cen6.yaml
+    Table 176: v4Overv3To4Over3_502TeVdif_cen7.yaml
+    Table 177: v4Overv2To4Over2_502TeVdif_cen0.yaml
+    Table 178: v4Overv2To4Over2_502TeVdif_cen1.yaml
+    Table 179: v4Overv2To4Over2_502TeVdif_cen2.yaml
+    Table 180: v4Overv2To4Over2_502TeVdif_cen3.yaml
+    Table 181: v4Overv2To4Over2_502TeVdif_cen4.yaml
+    Table 182: v4Overv2To4Over2_502TeVdif_cen5.yaml
+    Table 183: v4Overv2To4Over2_502TeVdif_cen6.yaml
+    Table 184: v4Overv2To4Over2_502TeVdif_cen7.yaml
+    Table 185: v3Overv2To3Over2_502TeVdif_cen0.yaml
+    Table 186: v3Overv2To3Over2_502TeVdif_cen1.yaml
+    Table 187: v3Overv2To3Over2_502TeVdif_cen2.yaml
+    Table 188: v3Overv2To3Over2_502TeVdif_cen3.yaml
+    Table 189: v3Overv2To3Over2_502TeVdif_cen4.yaml
+    Table 190: v3Overv2To3Over2_502TeVdif_cen5.yaml
+    Table 191: v3Overv2To3Over2_502TeVdif_cen6.yaml
+    Table 192: v3Overv2To3Over2_502TeVdif_cen7.yaml
+    Table 193: v22_502TeV.yaml
+    Table 194: v24_502TeV.yaml
+    Table 195: v26_502TeV.yaml
+    Table 196: v28_502TeV.yaml
+    Table 197: v22_276TeV.yaml
+    Table 198: v24_276TeV.yaml
+    Table 199: v26_276TeV.yaml
+    Table 200: v28_276TeV.yaml
+    Table 201: c22_502TeV.yaml
+    Table 202: c24_502TeV.yaml
+    Table 203: c26_502TeV.yaml
+    Table 204: c28_502TeV.yaml
+    Table 205: c22_276TeV.yaml
+    Table 206: c24_276TeV.yaml
+    Table 207: c26_276TeV.yaml
+    Table 208: c28_276TeV.yaml
+    Table 209: v26Overv24_502TeV.yaml
+    Table 210: v26Overv24_276TeV.yaml
+    Table 211: v28Overv24_502TeV.yaml
+    Table 212: v28Overv24_276TeV.yaml
+    Table 213: v28Overv26_502TeV.yaml
+    Table 214: v24Minusv26_502TeV.yaml
+    Table 215: v26Minusv28_502TeV.yaml
+    Table 216: gamma1exp_502TeV.yaml
+    Table 217: grKappa.yaml
+    Table 218: grAlpha.yaml
+    Table 219: grEps0.yaml
+    Table 220: Pv2_EP_cen1.yaml
+    Table 221: Pv2_EP_cen5.yaml
+    Table 222: Pv2_EP_cen9.yaml
+    Table 223: Pv2_EP_cen0.yaml
+    Table 224: Pv2_EP_cen2.yaml
+    Table 225: Pv2_EP_cen3.yaml
+    Table 226: Pv2_EP_cen4.yaml
+    Table 227: Pv2_EP_cen6.yaml
+    Table 228: Pv2_EP_cen7.yaml
+    Table 229: Pv2_EP_cen8.yaml
+    Table 230: Pv2_EP_cen10.yaml
+    Table 231: Pv2_EP_cen11.yaml
+5020/hadron_correlation/v2_four_particle_cumulants_cms:
+- directory: 
+    5020/hadron_correlation/v2_four_particle_cumulants_cms/HEPData-ins1511868-v1-yaml
+  inspire_hep_id: 1511868
+  version: 1
+  tables_to_filenames:
+    Table 1: data1.yaml
+    Table 2: data2.yaml
+    Table 3: data3.yaml
+    Table 4: data4.yaml
+    Table 5: data5.yaml
+    Table 6: data6.yaml
+    Table 7: data7.yaml
+    Table 8: data8.yaml
+    Table 9: data9.yaml
+    Table 10: data10.yaml
+    Table 11: data11.yaml
+    Table 12: data12.yaml
+    Table 13: data13.yaml
+    Table 14: data14.yaml
+    Table 15: data15.yaml
+    Table 16: data16.yaml
+    Table 17: data17.yaml
+    Table 18: data18.yaml
+    Table 19: data19.yaml
+    Table 20: data20.yaml
+    Table 21: data21.yaml
+    Table 22: data22.yaml
+5020/hadron_correlation/v2_sp_alice:
+- directory: 5020/hadron_correlation/v2_sp_alice/HEPData-ins1666817-v1-yaml
+  inspire_hep_id: 1666817
+  version: 1
+  tables_to_filenames:
+    Table 1: v22Deta1_502TeV.yaml
+    Table 2: v24_502TeV.yaml
+    Table 3: v32Deta1_502TeV.yaml
+    Table 4: v42Deta1_502TeV.yaml
+    Table 5: v52Deta1_502TeV.yaml
+    Table 6: v62Deta1_502TeV.yaml
+    Table 7: v22Deta1_276TeV.yaml
+    Table 8: v24_276TeV.yaml
+    Table 9: v32Deta1_276TeV.yaml
+    Table 10: v42Deta1_276TeV.yaml
+    Table 11: v22Deta1_RatioEnergies.yaml
+    Table 12: v24_RatioEnergies.yaml
+    Table 13: v32Deta1_RatioEnergies.yaml
+    Table 14: v42Deta1_RatioEnergies.yaml
+    Table 15: v22Deta1_502TeVdif_cen0.yaml
+    Table 16: v22Deta1_276TeVdif_cen0.yaml
+    Table 17: v32Deta1_502TeVdif_cen0.yaml
+    Table 18: v32Deta1_276TeVdif_cen0.yaml
+    Table 19: v42Deta1_502TeVdif_cen0.yaml
+    Table 20: v42Deta1_276TeVdif_cen0.yaml
+    Table 21: v52Deta1_276TeVdif_cen0.yaml
+    Table 22: v62Deta1_276TeVdif_cen0.yaml
+    Table 23: v22Deta1_502TeVdif_cen1.yaml
+    Table 24: v22Deta1_276TeVdif_cen1.yaml
+    Table 25: v32Deta1_502TeVdif_cen1.yaml
+    Table 26: v32Deta1_276TeVdif_cen1.yaml
+    Table 27: v42Deta1_502TeVdif_cen1.yaml
+    Table 28: v42Deta1_276TeVdif_cen1.yaml
+    Table 29: v52Deta1_276TeVdif_cen1.yaml
+    Table 30: v62Deta1_276TeVdif_cen1.yaml
+    Table 31: v24_502TeVdif_cen1.yaml
+    Table 32: v24_276TeVdif_cen1.yaml
+    Table 33: v22Deta1_502TeVdif_cen2.yaml
+    Table 34: v22Deta1_276TeVdif_cen2.yaml
+    Table 35: v32Deta1_502TeVdif_cen2.yaml
+    Table 36: v32Deta1_276TeVdif_cen2.yaml
+    Table 37: v42Deta1_502TeVdif_cen2.yaml
+    Table 38: v42Deta1_276TeVdif_cen2.yaml
+    Table 39: v52Deta1_276TeVdif_cen2.yaml
+    Table 40: v62Deta1_276TeVdif_cen2.yaml
+    Table 41: v24_502TeVdif_cen2.yaml
+    Table 42: v24_276TeVdif_cen2.yaml
+    Table 43: v22Deta1_502TeVdif_cen3.yaml
+    Table 44: v22Deta1_276TeVdif_cen3.yaml
+    Table 45: v32Deta1_502TeVdif_cen3.yaml
+    Table 46: v32Deta1_276TeVdif_cen3.yaml
+    Table 47: v42Deta1_502TeVdif_cen3.yaml
+    Table 48: v42Deta1_276TeVdif_cen3.yaml
+    Table 49: v52Deta1_276TeVdif_cen3.yaml
+    Table 50: v62Deta1_276TeVdif_cen3.yaml
+    Table 51: v24_502TeVdif_cen3.yaml
+    Table 52: v24_276TeVdif_cen3.yaml
+    Table 53: v22Deta1_502TeVdif_cen4.yaml
+    Table 54: v22Deta1_276TeVdif_cen4.yaml
+    Table 55: v32Deta1_502TeVdif_cen4.yaml
+    Table 56: v32Deta1_276TeVdif_cen4.yaml
+    Table 57: v42Deta1_502TeVdif_cen4.yaml
+    Table 58: v42Deta1_276TeVdif_cen4.yaml
+    Table 59: v52Deta1_276TeVdif_cen4.yaml
+    Table 60: v62Deta1_276TeVdif_cen4.yaml
+    Table 61: v24_502TeVdif_cen4.yaml
+    Table 62: v24_276TeVdif_cen4.yaml
+    Table 63: v22Deta1_502TeVdif_cen5.yaml
+    Table 64: v22Deta1_276TeVdif_cen5.yaml
+    Table 65: v32Deta1_502TeVdif_cen5.yaml
+    Table 66: v32Deta1_276TeVdif_cen5.yaml
+    Table 67: v42Deta1_502TeVdif_cen5.yaml
+    Table 68: v42Deta1_276TeVdif_cen5.yaml
+    Table 69: v52Deta1_276TeVdif_cen5.yaml
+    Table 70: v62Deta1_276TeVdif_cen5.yaml
+    Table 71: v24_502TeVdif_cen5.yaml
+    Table 72: v24_276TeVdif_cen5.yaml
+    Table 73: v22Deta1_502TeVdif_cen6.yaml
+    Table 74: v22Deta1_276TeVdif_cen6.yaml
+    Table 75: v32Deta1_502TeVdif_cen6.yaml
+    Table 76: v32Deta1_276TeVdif_cen6.yaml
+    Table 77: v42Deta1_502TeVdif_cen6.yaml
+    Table 78: v42Deta1_276TeVdif_cen6.yaml
+    Table 79: v52Deta1_276TeVdif_cen6.yaml
+    Table 80: v24_502TeVdif_cen6.yaml
+    Table 81: v24_276TeVdif_cen6.yaml
+    Table 82: v22Deta1_502TeVdif_cen7.yaml
+    Table 83: v22Deta1_276TeVdif_cen7.yaml
+    Table 84: v32Deta1_502TeVdif_cen7.yaml
+    Table 85: v32Deta1_276TeVdif_cen7.yaml
+    Table 86: v42Deta1_276TeVdif_cen7.yaml
+    Table 87: v24_502TeVdif_cen7.yaml
+    Table 88: v24_276TeVdif_cen7.yaml
+    Table 89: v22Deta2_502TeVdif_cen0.yaml
+    Table 90: v22Deta2_276TeVdif_cen0.yaml
+    Table 91: v32Deta2_502TeVdif_cen0.yaml
+    Table 92: v32Deta2_276TeVdif_cen0.yaml
+    Table 93: v42Deta2_502TeVdif_cen0.yaml
+    Table 94: v42Deta2_276TeVdif_cen0.yaml
+    Table 95: v22Deta2_502TeVdif_cen1.yaml
+    Table 96: v22Deta2_276TeVdif_cen1.yaml
+    Table 97: v32Deta2_502TeVdif_cen1.yaml
+    Table 98: v32Deta2_276TeVdif_cen1.yaml
+    Table 99: v42Deta2_502TeVdif_cen1.yaml
+    Table 100: v42Deta2_276TeVdif_cen1.yaml
+    Table 101: v22Deta2_502TeVdif_cen2.yaml
+    Table 102: v22Deta2_276TeVdif_cen2.yaml
+    Table 103: v32Deta2_502TeVdif_cen2.yaml
+    Table 104: v32Deta2_276TeVdif_cen2.yaml
+    Table 105: v42Deta2_502TeVdif_cen2.yaml
+    Table 106: v42Deta2_276TeVdif_cen2.yaml
+    Table 107: v22Deta2_502TeVdif_cen3.yaml
+    Table 108: v22Deta2_276TeVdif_cen3.yaml
+    Table 109: v32Deta2_502TeVdif_cen3.yaml
+    Table 110: v32Deta2_276TeVdif_cen3.yaml
+    Table 111: v42Deta2_502TeVdif_cen3.yaml
+    Table 112: v42Deta2_276TeVdif_cen3.yaml
+    Table 113: v22Deta2_502TeVdif_cen4.yaml
+    Table 114: v22Deta2_276TeVdif_cen4.yaml
+    Table 115: v32Deta2_502TeVdif_cen4.yaml
+    Table 116: v32Deta2_276TeVdif_cen4.yaml
+    Table 117: v42Deta2_502TeVdif_cen4.yaml
+    Table 118: v42Deta2_276TeVdif_cen4.yaml
+    Table 119: v22Deta2_502TeVdif_cen5.yaml
+    Table 120: v22Deta2_276TeVdif_cen5.yaml
+    Table 121: v32Deta2_502TeVdif_cen5.yaml
+    Table 122: v32Deta2_276TeVdif_cen5.yaml
+    Table 123: v42Deta2_502TeVdif_cen5.yaml
+    Table 124: v42Deta2_276TeVdif_cen5.yaml
+    Table 125: v22Deta2_502TeVdif_cen6.yaml
+    Table 126: v22Deta2_276TeVdif_cen6.yaml
+    Table 127: v32Deta2_502TeVdif_cen6.yaml
+    Table 128: v32Deta2_276TeVdif_cen6.yaml
+    Table 129: v42Deta2_502TeVdif_cen6.yaml
+    Table 130: v42Deta2_276TeVdif_cen6.yaml
+    Table 131: v22Deta2_502TeVdif_cen7.yaml
+    Table 132: v22Deta2_276TeVdif_cen7.yaml
+    Table 133: v32Deta2_502TeVdif_cen7.yaml
+    Table 134: v32Deta2_276TeVdif_cen7.yaml
+    Table 135: v42Deta2_502TeVdif_cen7.yaml
+    Table 137: v22Deta1_RatioEnergiesdif_cen1.yaml
+    Table 138: v32Deta1_RatioEnergiesdif_cen1.yaml
+    Table 139: v42Deta1_RatioEnergiesdif_cen1.yaml
+    Table 140: v22Deta1_RatioEnergiesdif_cen3.yaml
+    Table 141: v32Deta1_RatioEnergiesdif_cen3.yaml
+    Table 142: v42Deta1_RatioEnergiesdif_cen3.yaml
+    Table 143: v22Deta1_RatioEnergiesdif_cen5.yaml
+    Table 144: v32Deta1_RatioEnergiesdif_cen5.yaml
+    Table 145: v42Deta1_RatioEnergiesdif_cen5.yaml
+    Table 146: v4RatioTo2030_502TeVdif_cen0.yaml
+    Table 147: v4RatioTo2030_502TeVdif_cen1.yaml
+    Table 148: v4RatioTo2030_502TeVdif_cen2.yaml
+    Table 149: v4RatioTo2030_502TeVdif_cen3.yaml
+    Table 150: v4RatioTo2030_502TeVdif_cen4.yaml
+    Table 151: v4RatioTo2030_502TeVdif_cen5.yaml
+    Table 152: v4RatioTo2030_502TeVdif_cen6.yaml
+    Table 153: v3RatioTo2030_502TeVdif_cen0.yaml
+    Table 154: v3RatioTo2030_502TeVdif_cen1.yaml
+    Table 155: v3RatioTo2030_502TeVdif_cen2.yaml
+    Table 156: v3RatioTo2030_502TeVdif_cen3.yaml
+    Table 157: v3RatioTo2030_502TeVdif_cen4.yaml
+    Table 158: v3RatioTo2030_502TeVdif_cen5.yaml
+    Table 159: v3RatioTo2030_502TeVdif_cen6.yaml
+    Table 160: v3RatioTo2030_502TeVdif_cen7.yaml
+    Table 161: v2RatioTo2030_502TeVdif_cen0.yaml
+    Table 162: v2RatioTo2030_502TeVdif_cen1.yaml
+    Table 163: v2RatioTo2030_502TeVdif_cen2.yaml
+    Table 164: v2RatioTo2030_502TeVdif_cen3.yaml
+    Table 165: v2RatioTo2030_502TeVdif_cen4.yaml
+    Table 166: v2RatioTo2030_502TeVdif_cen5.yaml
+    Table 167: v2RatioTo2030_502TeVdif_cen6.yaml
+    Table 168: v2RatioTo2030_502TeVdif_cen7.yaml
+    Table 169: v4Overv3To4Over3_502TeVdif_cen0.yaml
+    Table 170: v4Overv3To4Over3_502TeVdif_cen1.yaml
+    Table 171: v4Overv3To4Over3_502TeVdif_cen2.yaml
+    Table 172: v4Overv3To4Over3_502TeVdif_cen3.yaml
+    Table 173: v4Overv3To4Over3_502TeVdif_cen4.yaml
+    Table 174: v4Overv3To4Over3_502TeVdif_cen5.yaml
+    Table 175: v4Overv3To4Over3_502TeVdif_cen6.yaml
+    Table 176: v4Overv3To4Over3_502TeVdif_cen7.yaml
+    Table 177: v4Overv2To4Over2_502TeVdif_cen0.yaml
+    Table 178: v4Overv2To4Over2_502TeVdif_cen1.yaml
+    Table 179: v4Overv2To4Over2_502TeVdif_cen2.yaml
+    Table 180: v4Overv2To4Over2_502TeVdif_cen3.yaml
+    Table 181: v4Overv2To4Over2_502TeVdif_cen4.yaml
+    Table 182: v4Overv2To4Over2_502TeVdif_cen5.yaml
+    Table 183: v4Overv2To4Over2_502TeVdif_cen6.yaml
+    Table 184: v4Overv2To4Over2_502TeVdif_cen7.yaml
+    Table 185: v3Overv2To3Over2_502TeVdif_cen0.yaml
+    Table 186: v3Overv2To3Over2_502TeVdif_cen1.yaml
+    Table 187: v3Overv2To3Over2_502TeVdif_cen2.yaml
+    Table 188: v3Overv2To3Over2_502TeVdif_cen3.yaml
+    Table 189: v3Overv2To3Over2_502TeVdif_cen4.yaml
+    Table 190: v3Overv2To3Over2_502TeVdif_cen5.yaml
+    Table 191: v3Overv2To3Over2_502TeVdif_cen6.yaml
+    Table 192: v3Overv2To3Over2_502TeVdif_cen7.yaml
+    Table 193: v22_502TeV.yaml
+    Table 194: v24_502TeV.yaml
+    Table 195: v26_502TeV.yaml
+    Table 196: v28_502TeV.yaml
+    Table 197: v22_276TeV.yaml
+    Table 198: v24_276TeV.yaml
+    Table 199: v26_276TeV.yaml
+    Table 200: v28_276TeV.yaml
+    Table 201: c22_502TeV.yaml
+    Table 202: c24_502TeV.yaml
+    Table 203: c26_502TeV.yaml
+    Table 204: c28_502TeV.yaml
+    Table 205: c22_276TeV.yaml
+    Table 206: c24_276TeV.yaml
+    Table 207: c26_276TeV.yaml
+    Table 208: c28_276TeV.yaml
+    Table 209: v26Overv24_502TeV.yaml
+    Table 210: v26Overv24_276TeV.yaml
+    Table 211: v28Overv24_502TeV.yaml
+    Table 212: v28Overv24_276TeV.yaml
+    Table 213: v28Overv26_502TeV.yaml
+    Table 214: v24Minusv26_502TeV.yaml
+    Table 215: v26Minusv28_502TeV.yaml
+    Table 216: gamma1exp_502TeV.yaml
+    Table 217: grKappa.yaml
+    Table 218: grAlpha.yaml
+    Table 219: grEps0.yaml
+    Table 220: Pv2_EP_cen1.yaml
+    Table 221: Pv2_EP_cen5.yaml
+    Table 222: Pv2_EP_cen9.yaml
+    Table 223: Pv2_EP_cen0.yaml
+    Table 224: Pv2_EP_cen2.yaml
+    Table 225: Pv2_EP_cen3.yaml
+    Table 226: Pv2_EP_cen4.yaml
+    Table 227: Pv2_EP_cen6.yaml
+    Table 228: Pv2_EP_cen7.yaml
+    Table 229: Pv2_EP_cen8.yaml
+    Table 230: Pv2_EP_cen10.yaml
+    Table 231: Pv2_EP_cen11.yaml
+5020/hadron_correlation/v2_sp_atlas:
+- directory: 5020/hadron_correlation/v2_sp_atlas/HEPData-ins1686834-v1-yaml
+  inspire_hep_id: 1686834
+  version: 1
+  tables_to_filenames:
+    Table 1: Table1.yaml
+    Table 2: Table2.yaml
+    Table 3: Table3.yaml
+    Table 4: Table4.yaml
+    Table 5: Table5.yaml
+    Table 6: Table6.yaml
+    Table 7: Table7.yaml
+    Table 8: Table8.yaml
+    Table 9: Table9.yaml
+    Table 10: Table10.yaml
+    Table 11: Table11.yaml
+    Table 12: Table12.yaml
+    Table 13: Table13.yaml
+    Table 14: Table14.yaml
+    Table 15: Table15.yaml
+    Table 16: Table16.yaml
+    Table 17: Table17.yaml
+    Table 18: Table18.yaml
+    Table 19: Table19.yaml
+    Table 20: Table20.yaml
+    Table 21: Table21.yaml
+    Table 22: Table22.yaml
+    Table 23: Table23.yaml
+    Table 24: Table24.yaml
+    Table 25: Table25.yaml
+    Table 26: Table26.yaml
+    Table 27: Table27.yaml
+    Table 28: Table28.yaml
+    Table 29: Table29.yaml
+    Table 30: Table30.yaml
+    Table 31: Table31.yaml
+    Table 32: Table32.yaml
+    Table 33: Table33.yaml
+    Table 34: Table34.yaml
+    Table 35: Table35.yaml
+    Table 36: Table36.yaml
+    Table 37: Table37.yaml
+    Table 38: Table38.yaml
+    Table 39: Table39.yaml
+    Table 40: Table40.yaml
+    Table 41: Table41.yaml
+    Table 42: Table42.yaml
+    Table 43: Table43.yaml
+    Table 44: Table44.yaml
+    Table 45: Table45.yaml
+    Table 46: Table46.yaml
+    Table 47: Table47.yaml
+    Table 48: Table48.yaml
+    Table 49: Table49.yaml
+    Table 50: Table50.yaml
+    Table 51: Table51.yaml
+    Table 52: Table52.yaml
+    Table 53: Table53.yaml
+    Table 54: Table54.yaml
+    Table 55: Table55.yaml
+    Table 56: Table56.yaml
+    Table 57: Table57.yaml
+    Table 58: Table58.yaml
+    Table 59: Table59.yaml
+    Table 60: Table60.yaml
+    Table 61: Table61.yaml
+    Table 62: Table62.yaml
+    Table 63: Table63.yaml
+    Table 64: Table64.yaml
+    Table 65: Table65.yaml
+    Table 66: Table66.yaml
+    Table 67: Table67.yaml
+    Table 68: Table68.yaml
+    Table 69: Table69.yaml
+    Table 70: Table70.yaml
+    Table 71: Table71.yaml
+    Table 72: Table72.yaml
+    Table 73: Table73.yaml
+    Table 74: Table74.yaml
+    Table 75: Table75.yaml
+    Table 76: Table76.yaml
+    Table 77: Table77.yaml
+    Table 78: Table78.yaml
+    Table 79: Table79.yaml
+    Table 80: Table80.yaml
+    Table 81: Table81.yaml
+    Table 82: Table82.yaml
+    Table 83: Table83.yaml
+    Table 84: Table84.yaml
+    Table 85: Table85.yaml
+    Table 86: Table86.yaml
+    Table 87: Table87.yaml
+    Table 88: Table88.yaml
+    Table 89: Table89.yaml
+    Table 90: Table90.yaml
+    Table 91: Table91.yaml
+    Table 92: Table92.yaml
+    Table 93: Table93.yaml
+    Table 94: Table94.yaml
+    Table 95: Table95.yaml
+    Table 96: Table96.yaml
+    Table 97: Table97.yaml
+    Table 98: Table98.yaml
+    Table 99: Table99.yaml
+    Table 100: Table100.yaml
+    Table 101: Table101.yaml
+    Table 102: Table102.yaml
+    Table 103: Table103.yaml
+    Table 104: Table104.yaml
+    Table 105: Table105.yaml
+    Table 106: Table106.yaml
+    Table 107: Table107.yaml
+    Table 108: Table108.yaml
+    Table 109: Table109.yaml
+    Table 110: Table110.yaml
+    Table 111: Table111.yaml
+    Table 112: Table112.yaml
+    Table 113: Table113.yaml
+    Table 114: Table114.yaml
+    Table 115: Table115.yaml
+    Table 116: Table116.yaml
+    Table 117: Table117.yaml
+    Table 118: Table118.yaml
+    Table 119: Table119.yaml
+    Table 120: Table120.yaml
+    Table 121: Table121.yaml
+    Table 122: Table122.yaml
+    Table 123: Table123.yaml
+    Table 124: Table124.yaml
+    Table 125: Table125.yaml
+    Table 126: Table126.yaml
+    Table 127: Table127.yaml
+    Table 128: Table128.yaml
+    Table 129: Table129.yaml
+    Table 130: Table130.yaml
+    Table 131: Table131.yaml
+    Table 132: Table132.yaml
+    Table 133: Table133.yaml
+    Table 134: Table134.yaml
+    Table 135: Table135.yaml
+    Table 136: Table136.yaml
+    Table 137: Table137.yaml
+    Table 138: Table138.yaml
+    Table 139: Table139.yaml
+    Table 140: Table140.yaml
+    Table 141: Table141.yaml
+    Table 142: Table142.yaml
+    Table 143: Table143.yaml
+    Table 144: Table144.yaml
+    Table 145: Table145.yaml
+    Table 146: Table146.yaml
+    Table 147: Table147.yaml
+    Table 148: Table148.yaml
+    Table 149: Table149.yaml
+    Table 150: Table150.yaml
+    Table 151: Table151.yaml
+    Table 152: Table152.yaml
+    Table 153: Table153.yaml
+    Table 154: Table154.yaml
+    Table 155: Table155.yaml
+    Table 156: Table156.yaml
+    Table 157: Table157.yaml
+    Table 158: Table158.yaml
+    Table 159: Table159.yaml
+    Table 160: Table160.yaml
+    Table 161: Table161.yaml
+    Table 162: Table162.yaml
+    Table 163: Table163.yaml
+    Table 164: Table164.yaml
+    Table 165: Table165.yaml
+    Table 166: Table166.yaml
+    Table 167: Table167.yaml
+    Table 168: Table168.yaml
+    Table 169: Table169.yaml
+    Table 170: Table170.yaml
+    Table 171: Table171.yaml
+    Table 172: Table172.yaml
+    Table 173: Table173.yaml
+    Table 174: Table174.yaml
+    Table 175: Table175.yaml
+    Table 176: Table176.yaml
+    Table 177: Table177.yaml
+    Table 178: Table178.yaml
+    Table 179: Table179.yaml
+    Table 180: Table180.yaml
+    Table 181: Table181.yaml
+    Table 182: Table182.yaml
+    Table 183: Table183.yaml
+    Table 184: Table184.yaml
+    Table 185: Table185.yaml
+    Table 186: Table186.yaml
+    Table 187: Table187.yaml
+    Table 188: Table188.yaml
+    Table 189: Table189.yaml
+    Table 190: Table190.yaml
+    Table 191: Table191.yaml
+    Table 192: Table192.yaml
+    Table 193: Table193.yaml
+    Table 194: Table194.yaml
+    Table 195: Table195.yaml
+    Table 196: Table196.yaml
+    Table 197: Table197.yaml
+    Table 198: Table198.yaml
+    Table 199: Table199.yaml
+    Table 200: Table200.yaml
+    Table 201: Table201.yaml
+    Table 202: Table202.yaml
+    Table 203: Table203.yaml
+    Table 204: Table204.yaml
+    Table 205: Table205.yaml
+    Table 206: Table206.yaml
+    Table 207: Table207.yaml
+    Table 208: Table208.yaml
+    Table 209: Table209.yaml
+    Table 210: Table210.yaml
+    Table 211: Table211.yaml
+    Table 212: Table212.yaml
+    Table 213: Table213.yaml
+    Table 214: Table214.yaml
+    Table 215: Table215.yaml
+    Table 216: Table216.yaml
+    Table 217: Table217.yaml
+    Table 218: Table218.yaml
+    Table 219: Table219.yaml
+    Table 220: Table220.yaml
+    Table 221: Table221.yaml
+    Table 222: Table222.yaml
+    Table 223: Table223.yaml
+    Table 224: Table224.yaml
+    Table 225: Table225.yaml
+    Table 226: Table226.yaml
+    Table 227: Table227.yaml
+    Table 228: Table228.yaml
+    Table 229: Table229.yaml
+    Table 230: Table230.yaml
+    Table 231: Table231.yaml
+    Table 232: Table232.yaml
+    Table 233: Table233.yaml
+    Table 234: Table234.yaml
+    Table 235: Table235.yaml
+    Table 236: Table236.yaml
+    Table 237: Table237.yaml
+    Table 238: Table238.yaml
+    Table 239: Table239.yaml
+    Table 240: Table240.yaml
+    Table 241: Table241.yaml
+    Table 242: Table242.yaml
+    Table 243: Table243.yaml
+    Table 244: Table244.yaml
+    Table 245: Table245.yaml
+    Table 246: Table246.yaml
+    Table 247: Table247.yaml
+    Table 248: Table248.yaml
+    Table 249: Table249.yaml
+    Table 250: Table250.yaml
+    Table 251: Table251.yaml
+    Table 252: Table252.yaml
+    Table 253: Table253.yaml
+    Table 254: Table254.yaml
+    Table 255: Table255.yaml
+    Table 256: Table256.yaml
+    Table 257: Table257.yaml
+    Table 258: Table258.yaml
+    Table 259: Table259.yaml
+    Table 260: Table260.yaml
+    Table 261: Table261.yaml
+    Table 262: Table262.yaml
+    Table 263: Table263.yaml
+    Table 264: Table264.yaml
+    Table 265: Table265.yaml
+    Table 266: Table266.yaml
+    Table 267: Table267.yaml
+    Table 268: Table268.yaml
+    Table 269: Table269.yaml
+    Table 270: Table270.yaml
+    Table 271: Table271.yaml
+    Table 272: Table272.yaml
+    Table 273: Table273.yaml
+    Table 274: Table274.yaml
+    Table 275: Table275.yaml
+    Table 276: Table276.yaml
+    Table 277: Table277.yaml
+    Table 278: Table278.yaml
+    Table 279: Table279.yaml
+    Table 280: Table280.yaml
+    Table 281: Table281.yaml
+    Table 282: Table282.yaml
+    Table 283: Table283.yaml
+    Table 284: Table284.yaml
+    Table 285: Table285.yaml
+    Table 286: Table286.yaml
+    Table 287: Table287.yaml
+    Table 288: Table288.yaml
+    Table 289: Table289.yaml
+    Table 290: Table290.yaml
+    Table 291: Table291.yaml
+    Table 292: Table292.yaml
+    Table 293: Table293.yaml
+    Table 294: Table294.yaml
+    Table 295: Table295.yaml
+    Table 296: Table296.yaml
+    Table 297: Table297.yaml
+    Table 298: Table298.yaml
+    Table 299: Table299.yaml
+    Table 300: Table300.yaml
+    Table 301: Table301.yaml
+    Table 302: Table302.yaml
+    Table 303: Table303.yaml
+    Table 304: Table304.yaml
+    Table 305: Table305.yaml
+    Table 306: Table306.yaml
+    Table 307: Table307.yaml
+    Table 308: Table308.yaml
+    Table 309: Table309.yaml
+    Table 310: Table310.yaml
+    Table 311: Table311.yaml
+    Table 312: Table312.yaml
+    Table 313: Table313.yaml
+    Table 314: Table314.yaml
+    Table 315: Table315.yaml
+    Table 316: Table316.yaml
+    Table 317: Table317.yaml
+    Table 318: Table318.yaml
+    Table 319: Table319.yaml
+    Table 320: Table320.yaml
+    Table 321: Table321.yaml
+    Table 322: Table322.yaml
+    Table 323: Table323.yaml
+    Table 324: Table324.yaml
+    Table 325: Table325.yaml
+    Table 326: Table326.yaml
+    Table 327: Table327.yaml
+    Table 328: Table328.yaml
+    Table 329: Table329.yaml
+    Table 330: Table330.yaml
+    Table 331: Table331.yaml
+    Table 332: Table332.yaml
+    Table 333: Table333.yaml
+    Table 334: Table334.yaml
+    Table 335: Table335.yaml
+    Table 336: Table336.yaml
+    Table 337: Table337.yaml
+    Table 338: Table338.yaml
+    Table 339: Table339.yaml
+    Table 340: Table340.yaml
+    Table 341: Table341.yaml
+    Table 342: Table342.yaml
+    Table 343: Table343.yaml
+    Table 344: Table344.yaml
+    Table 345: Table345.yaml
+    Table 346: Table346.yaml
+    Table 347: Table347.yaml
+    Table 348: Table348.yaml
+    Table 349: Table349.yaml
+    Table 350: Table350.yaml
+    Table 351: Table351.yaml
+    Table 352: Table352.yaml
+    Table 353: Table353.yaml
+    Table 354: Table354.yaml
+    Table 355: Table355.yaml
+    Table 356: Table356.yaml
+    Table 357: Table357.yaml
+    Table 358: Table358.yaml
+    Table 359: Table359.yaml
+    Table 360: Table360.yaml
+    Table 361: Table361.yaml
+    Table 362: Table362.yaml
+    Table 363: Table363.yaml
+    Table 364: Table364.yaml
+    Table 365: Table365.yaml
+    Table 366: Table366.yaml
+    Table 367: Table367.yaml
+    Table 368: Table368.yaml
+    Table 369: Table369.yaml
+    Table 370: Table370.yaml
+    Table 371: Table371.yaml
+    Table 372: Table372.yaml
+    Table 373: Table373.yaml
+    Table 374: Table374.yaml
+    Table 375: Table375.yaml
+    Table 376: Table376.yaml
+    Table 377: Table377.yaml
+    Table 378: Table378.yaml
+    Table 379: Table379.yaml
+    Table 380: Table380.yaml
+    Table 381: Table381.yaml
+    Table 382: Table382.yaml
+    Table 383: Table383.yaml
+    Table 384: Table384.yaml
+    Table 385: Table385.yaml
+    Table 386: Table386.yaml
+    Table 387: Table387.yaml
+    Table 388: Table388.yaml
+    Table 389: Table389.yaml
+    Table 390: Table390.yaml
+    Table 391: Table391.yaml
+    Table 392: Table392.yaml
+    Table 393: Table393.yaml
+    Table 394: Table394.yaml
+    Table 395: Table395.yaml
+    Table 396: Table396.yaml
+    Table 397: Table397.yaml
+    Table 398: Table398.yaml
+    Table 399: Table399.yaml
+    Table 400: Table400.yaml
+    Table 401: Table401.yaml
+    Table 402: Table402.yaml
+    Table 403: Table403.yaml
+    Table 404: Table404.yaml
+    Table 405: Table405.yaml
+    Table 406: Table406.yaml
+    Table 407: Table407.yaml
+    Table 408: Table408.yaml
+    Table 409: Table409.yaml
+    Table 410: Table410.yaml
+    Table 411: Table411.yaml
+    Table 412: Table412.yaml
+    Table 413: Table413.yaml
+    Table 414: Table414.yaml
+    Table 415: Table415.yaml
+    Table 416: Table416.yaml
+    Table 417: Table417.yaml
+    Table 418: Table418.yaml
+    Table 419: Table419.yaml
+    Table 420: Table420.yaml
+    Table 421: Table421.yaml
+    Table 422: Table422.yaml
+    Table 423: Table423.yaml
+    Table 424: Table424.yaml
+    Table 425: Table425.yaml
+    Table 426: Table426.yaml
+    Table 427: Table427.yaml
+    Table 428: Table428.yaml
+    Table 429: Table429.yaml
+    Table 430: Table430.yaml
+    Table 431: Table431.yaml
+    Table 432: Table432.yaml
+    Table 433: Table433.yaml
+    Table 434: Table434.yaml
+    Table 435: Table435.yaml
+    Table 436: Table436.yaml
+    Table 437: Table437.yaml
+    Table 438: Table438.yaml
+    Table 439: Table439.yaml
+    Table 440: Table440.yaml
+    Table 441: Table441.yaml
+    Table 442: Table442.yaml
+    Table 443: Table443.yaml
+    Table 444: Table444.yaml
+    Table 445: Table445.yaml
+    Table 446: Table446.yaml
+    Table 447: Table447.yaml
+    Table 448: Table448.yaml
+    Table 449: Table449.yaml
+    Table 450: Table450.yaml
+    Table 451: Table451.yaml
+    Table 452: Table452.yaml
+    Table 453: Table453.yaml
+    Table 454: Table454.yaml
+    Table 455: Table455.yaml
+    Table 456: Table456.yaml
+5020/hadron_correlation/v2_sp_cms:
+- directory: 5020/hadron_correlation/v2_sp_cms/HEPData-ins1511868-v1-yaml
+  inspire_hep_id: 1511868
+  version: 1
+  tables_to_filenames:
+    Table 1: data1.yaml
+    Table 2: data2.yaml
+    Table 3: data3.yaml
+    Table 4: data4.yaml
+    Table 5: data5.yaml
+    Table 6: data6.yaml
+    Table 7: data7.yaml
+    Table 8: data8.yaml
+    Table 9: data9.yaml
+    Table 10: data10.yaml
+    Table 11: data11.yaml
+    Table 12: data12.yaml
+    Table 13: data13.yaml
+    Table 14: data14.yaml
+    Table 15: data15.yaml
+    Table 16: data16.yaml
+    Table 17: data17.yaml
+    Table 18: data18.yaml
+    Table 19: data19.yaml
+    Table 20: data20.yaml
+    Table 21: data21.yaml
+    Table 22: data22.yaml
+5020/hadron_trigger_chjet/IAA_pt_alice:
+- directory: 5020/hadron_trigger_chjet/IAA_pt_alice/HEPData-ins2693336-v1-yaml
+  inspire_hep_id: 2693336
+  version: 1
+  tables_to_filenames:
+    Table 1: hepDeltaRecoilpp.yaml
+    Table 2: hepDeltaRecoilPbPb.yaml
+    Table 3: hepIAA.yaml
+    Table 4: hepDeltaRecoilDphippR02.yaml
+    Table 5: hepDeltaRecoilDphippR04.yaml
+    Table 6: hepDeltaRecoilDphippR05.yaml
+    Table 7: hepDeltaRecoilDphiPbPbR02.yaml
+    Table 8: hepDeltaRecoilDphiPbPbR04.yaml
+    Table 9: hepDeltaRecoilDphiPbPbR05.yaml
+    Table 10: hepIAADphiR02.yaml
+    Table 11: hepIAADphiR04.yaml
+    Table 12: hepIAADphiR05.yaml
+    Table 13: hepDeltaRecoilR0204.yaml
+    Table 14: hepDeltaRecoilR0205.yaml
+    Table 15: hepDeltaRecoilR0405.yaml
+    Table 16: hepIAATTscanR02.yaml
+    Table 17: hepIAATTscanR04.yaml
+5020/hadron_trigger_chjet/dphi_alice:
+- directory: 5020/hadron_trigger_chjet/dphi_alice/HEPData-ins2693336-v1-yaml
+  inspire_hep_id: 2693336
+  version: 1
+  tables_to_filenames:
+    Table 1: hepDeltaRecoilpp.yaml
+    Table 2: hepDeltaRecoilPbPb.yaml
+    Table 3: hepIAA.yaml
+    Table 4: hepDeltaRecoilDphippR02.yaml
+    Table 5: hepDeltaRecoilDphippR04.yaml
+    Table 6: hepDeltaRecoilDphippR05.yaml
+    Table 7: hepDeltaRecoilDphiPbPbR02.yaml
+    Table 8: hepDeltaRecoilDphiPbPbR04.yaml
+    Table 9: hepDeltaRecoilDphiPbPbR05.yaml
+    Table 10: hepIAADphiR02.yaml
+    Table 11: hepIAADphiR04.yaml
+    Table 12: hepIAADphiR05.yaml
+    Table 13: hepDeltaRecoilR0204.yaml
+    Table 14: hepDeltaRecoilR0205.yaml
+    Table 15: hepDeltaRecoilR0405.yaml
+    Table 16: hepIAATTscanR02.yaml
+    Table 17: hepIAATTscanR04.yaml
+5020/inclusive_chjet/angularity_alice:
+- directory: 5020/inclusive_chjet/angularity_alice/HEPData-ins2845788-v1-yaml
+  inspire_hep_id: 2845788
+  version: 1
+  tables_to_filenames:
+    Table 1: table_1.yaml
+    Table 2: table_2.yaml
+    Table 3: table_3.yaml
+    Table 4: table_4.yaml
+    Table 5: table_5.yaml
+    Table 6: table_6.yaml
+    Table 7: table_7.yaml
+    Table 8: table_8.yaml
+    Table 9: table_9.yaml
+    Table 10: table_10.yaml
+    Table 11: table_11.yaml
+    Table 12: table_12.yaml
+    Table 13: table_13.yaml
+    Table 14: table_14.yaml
+    Table 15: table_15.yaml
+    Table 16: table_16.yaml
+    Table 17: table_17.yaml
+    Table 18: table_18.yaml
+    Table 19: table_19.yaml
+    Table 20: table_20.yaml
+    Table 21: table_21.yaml
+    Table 22: table_22.yaml
+    Table 23: table_23.yaml
+    Table 24: table_24.yaml
+    Table 25: table_25.yaml
+    Table 26: table_26.yaml
+    Table 27: table_27.yaml
+    Table 28: table_28.yaml
+    Table 29: table_29.yaml
+    Table 30: table_30.yaml
+    Table 31: table_31.yaml
+    Table 32: table_32.yaml
+    Table 33: table_33.yaml
+    Table 34: table_34.yaml
+    Table 35: table_35.yaml
+    Table 36: table_36.yaml
+    Table 37: table_37.yaml
+    Table 38: table_38.yaml
+    Table 39: table_39.yaml
+    Table 40: table_40.yaml
+    Table 41: table_41.yaml
+    Table 42: table_42.yaml
+    Table 43: table_43.yaml
+    Table 44: table_44.yaml
+    Table 45: table_45.yaml
+    Table 46: table_46.yaml
+5020/inclusive_chjet/ktg_alice:
+- directory: 5020/inclusive_chjet/ktg_alice/HEPData-ins2831271-v1-yaml
+  inspire_hep_id: 2831271
+  version: 1
+  tables_to_filenames:
+    Table 1: table_1.yaml
+    Table 2: table_2.yaml
+    Table 3: table_3.yaml
+    Table 4: table_4.yaml
+    Table 5: table_5.yaml
+    Table 6: table_6.yaml
+    Table 7: table_7.yaml
+    Table 8: table_8.yaml
+    Table 9: table_9.yaml
+    Table 10: table_10.yaml
+5020/inclusive_chjet/mass_alice:
+- directory: 5020/inclusive_chjet/mass_alice/HEPData-ins2845788-v1-yaml
+  inspire_hep_id: 2845788
+  version: 1
+  tables_to_filenames:
+    Table 1: table_1.yaml
+    Table 2: table_2.yaml
+    Table 3: table_3.yaml
+    Table 4: table_4.yaml
+    Table 5: table_5.yaml
+    Table 6: table_6.yaml
+    Table 7: table_7.yaml
+    Table 8: table_8.yaml
+    Table 9: table_9.yaml
+    Table 10: table_10.yaml
+    Table 11: table_11.yaml
+    Table 12: table_12.yaml
+    Table 13: table_13.yaml
+    Table 14: table_14.yaml
+    Table 15: table_15.yaml
+    Table 16: table_16.yaml
+    Table 17: table_17.yaml
+    Table 18: table_18.yaml
+    Table 19: table_19.yaml
+    Table 20: table_20.yaml
+    Table 21: table_21.yaml
+    Table 22: table_22.yaml
+    Table 23: table_23.yaml
+    Table 24: table_24.yaml
+    Table 25: table_25.yaml
+    Table 26: table_26.yaml
+    Table 27: table_27.yaml
+    Table 28: table_28.yaml
+    Table 29: table_29.yaml
+    Table 30: table_30.yaml
+    Table 31: table_31.yaml
+    Table 32: table_32.yaml
+    Table 33: table_33.yaml
+    Table 34: table_34.yaml
+    Table 35: table_35.yaml
+    Table 36: table_36.yaml
+    Table 37: table_37.yaml
+    Table 38: table_38.yaml
+    Table 39: table_39.yaml
+    Table 40: table_40.yaml
+    Table 41: table_41.yaml
+    Table 42: table_42.yaml
+    Table 43: table_43.yaml
+    Table 44: table_44.yaml
+    Table 45: table_45.yaml
+    Table 46: table_46.yaml
+5020/inclusive_chjet/pt_alice:
+- directory: 5020/inclusive_chjet/pt_alice/HEPData-ins2637686-v1-yaml
+  inspire_hep_id: 2637686
+  version: 1
+  tables_to_filenames:
+    Figure 1a: figure_1a.yaml
+    Figure 1b: figure_1b.yaml
+    Figure 2a: figure_2a.yaml
+    Figure 2b top: figure_2b_top.yaml
+    Figure 2b bottom: figure_2b_bottom.yaml
+    Figure 3a top R020: figure_3a_top_r020.yaml
+    Figure 3a top R040: figure_3a_top_r040.yaml
+    Figure 3a top R060: figure_3a_top_r060.yaml
+    Figure 3b top R020: figure_3b_top_r020.yaml
+    Figure 3b top R040: figure_3b_top_r040.yaml
+    Figure 3b top R060: figure_3b_top_r060.yaml
+    Figure 3a bottom: figure_3a_bottom.yaml
+    Figure 3b bottom: figure_3b_bottom.yaml
+    Figure 4a top ML: figure_4a_top_ml.yaml
+    Figure 4a top AB: figure_4a_top_ab.yaml
+    Figure 4b top AB: figure_4b_top_ab.yaml
+    Figure 4b top ML: figure_4b_top_ml.yaml
+    Figure 4c top ML: figure_4c_top_ml.yaml
+    Figure 4a middle ML: figure_4a_middle_ml.yaml
+    Figure 4a middle AB: figure_4a_middle_ab.yaml
+    Figure 4b middle ML: figure_4b_middle_ml.yaml
+    Figure 4b middle AB: figure_4b_middle_ab.yaml
+    Figure 4c middle AB: figure_4c_middle_ab.yaml
+    Figure 4a bottom AB: figure_4a_bottom_ab.yaml
+    Figure 4b bottom AB: figure_4b_bottom_ab.yaml
+    Figure 4c bottom AB: figure_4c_bottom_ab.yaml
+    Figure 7a pp: figure_7a_pp.yaml
+    Figure 7a PbPb Central: figure_7a_pbpb_central.yaml
+    Figure 7a PbPb Semi Central: figure_7a_pbpb_semi_central.yaml
+    Figure 7b pp: figure_7b_pp.yaml
+    Figure 7b PbPb Central: figure_7b_pbpb_central.yaml
+    Figure 7b PbPb Semi Central: figure_7b_pbpb_semi_central.yaml
+    Figure 8 top left: figure_8_top_left.yaml
+    Figure 8 top right: figure_8_top_right.yaml
+    Figure 8 bottom left: figure_8_bottom_left.yaml
+    Figure 8 bottom right: figure_8_bottom_right.yaml
+5020/inclusive_chjet/tg_alice:
+- directory: 5020/inclusive_chjet/tg_alice/HEPData-ins1893479-v1-yaml
+  inspire_hep_id: 1893479
+  version: 1
+  tables_to_filenames:
+    Table 1: table_1.yaml
+    Table 2: table_2.yaml
+    Table 3: table_3.yaml
+    Table 13: table_13.yaml
+    Table 14: table_14.yaml
+    Table 15: table_15.yaml
+    Table 7: table_7.yaml
+    Table 8: table_8.yaml
+    Table 9: table_9.yaml
+    Table 4: table_4.yaml
+    Table 5: table_5.yaml
+    Table 6: table_6.yaml
+    Table 10: table_10.yaml
+    Table 11: table_11.yaml
+    Table 12: table_12.yaml
+    Table 16: table_16.yaml
+    Table 17: table_17.yaml
+    Table 18: table_18.yaml
+5020/inclusive_chjet/zg_alice:
+- directory: 5020/inclusive_chjet/zg_alice/HEPData-ins1893479-v1-yaml
+  inspire_hep_id: 1893479
+  version: 1
+  tables_to_filenames:
+    Table 1: table_1.yaml
+    Table 2: table_2.yaml
+    Table 3: table_3.yaml
+    Table 13: table_13.yaml
+    Table 14: table_14.yaml
+    Table 15: table_15.yaml
+    Table 7: table_7.yaml
+    Table 8: table_8.yaml
+    Table 9: table_9.yaml
+    Table 4: table_4.yaml
+    Table 5: table_5.yaml
+    Table 6: table_6.yaml
+    Table 10: table_10.yaml
+    Table 11: table_11.yaml
+    Table 12: table_12.yaml
+    Table 16: table_16.yaml
+    Table 17: table_17.yaml
+    Table 18: table_18.yaml
+5020/inclusive_chjet/zr_alice:
+- directory: 5020/inclusive_chjet/zr_alice/HEPData-ins2070434-v1-yaml
+  inspire_hep_id: 2070434
+  version: 1
+  tables_to_filenames:
+    Table 1: table_1.yaml
+    Table 2: table_2.yaml
+    Table 3: table_3.yaml
+    Table 4: table_4.yaml
+    Table 5: table_5.yaml
+    Table 6: table_6.yaml
+    Table 7: table_7.yaml
+    Table 8: table_8.yaml
+    Table 9: table_9.yaml
+    Table 10: table_10.yaml
+    Table 11: table_11.yaml
+    Table 12: table_12.yaml
+    Table 13: table_13.yaml
+5020/inclusive_jet/Dpt_atlas:
+- directory: 5020/inclusive_jet/Dpt_atlas/HEPData-ins1673177-v2-yaml
+  inspire_hep_id: 1673177
+  version: 2
+  tables_to_filenames:
+    Table 0: Table0.yaml
+    Table 1: Table1.yaml
+    Table 2: Table2.yaml
+    Table 3: Table3.yaml
+    Table 4: Table4.yaml
+    Table 5: Table5.yaml
+    Table 6: Table6.yaml
+    Table 7: Table7.yaml
+    Table 8: Table8.yaml
+    Table 9: Table9.yaml
+    Table 10: Table10.yaml
+    Table 11: Table11.yaml
+    Table 12: Table12.yaml
+    Table 13: Table13.yaml
+    Table 14: Table14.yaml
+    Table 15: Table15.yaml
+    Table 16: Table16.yaml
+    Table 17: Table17.yaml
+    Table 18: Table18.yaml
+    Table 19: Table19.yaml
+    Table 20: Table20.yaml
+    Table 21: Table21.yaml
+    Table 22: Table22.yaml
+    Table 23: Table23.yaml
+    Table 24: Table24.yaml
+    Table 25: Table25.yaml
+    Table 26: Table26.yaml
+    Table 27: Table27.yaml
+    Table 28: Table28.yaml
+    Table 29: Table29.yaml
+    Table 30: Table30.yaml
+    Table 31: Table31.yaml
+    Table 32: Table32.yaml
+    Table 33: Table33.yaml
+    Table 34: Table34.yaml
+    Table 35: Table35.yaml
+    Table 36: Table36.yaml
+    Table 37: Table37.yaml
+    Table 38: Table38.yaml
+    Table 39: Table39.yaml
+    Table 40: Table40.yaml
+    Table 41: Table41.yaml
+    Table 42: Table42.yaml
+    Table 43: Table43.yaml
+    Table 44: Table44.yaml
+    Table 45: Table45.yaml
+    Table 46: Table46.yaml
+    Table 47: Table47.yaml
+    Table 48: Table48.yaml
+    Table 49: Table49.yaml
+    Table 50: Table50.yaml
+    Table 51: Table51.yaml
+    Table 52: Table52.yaml
+    Table 53: Table53.yaml
+    Table 54: Table54.yaml
+    Table 55: Table55.yaml
+    Table 56: Table56.yaml
+    Table 57: Table57.yaml
+    Table 58: Table58.yaml
+    Table 59: Table59.yaml
+    Table 60: Table60.yaml
+    Table 61: Table61.yaml
+    Table 62: Table62.yaml
+    Table 63: Table63.yaml
+    Table 64: Table64.yaml
+    Table 65: Table65.yaml
+    Table 66: Table66.yaml
+    Table 67: Table67.yaml
+    Table 68: Table68.yaml
+    Table 69: Table69.yaml
+    Table 70: Table70.yaml
+    Table 71: Table71.yaml
+    Table 72: Table72.yaml
+    Table 73: Table73.yaml
+    Table 74: Table74.yaml
+    Table 75: Table75.yaml
+    Table 76: Table76.yaml
+    Table 77: Table77.yaml
+    Table 78: Table78.yaml
+    Table 79: Table79.yaml
+    Table 80: Table80.yaml
+    Table 81: Table81.yaml
+    Table 82: Table82.yaml
+    Table 83: Table83.yaml
+    Table 84: Table84.yaml
+    Table 85: Table85.yaml
+    Table 86: Table86.yaml
+    Table 87: Table87.yaml
+    Table 88: Table88.yaml
+5020/inclusive_jet/Dz_atlas:
+- directory: 5020/inclusive_jet/Dz_atlas/HEPData-ins1673177-v2-yaml
+  inspire_hep_id: 1673177
+  version: 2
+  tables_to_filenames:
+    Table 0: Table0.yaml
+    Table 1: Table1.yaml
+    Table 2: Table2.yaml
+    Table 3: Table3.yaml
+    Table 4: Table4.yaml
+    Table 5: Table5.yaml
+    Table 6: Table6.yaml
+    Table 7: Table7.yaml
+    Table 8: Table8.yaml
+    Table 9: Table9.yaml
+    Table 10: Table10.yaml
+    Table 11: Table11.yaml
+    Table 12: Table12.yaml
+    Table 13: Table13.yaml
+    Table 14: Table14.yaml
+    Table 15: Table15.yaml
+    Table 16: Table16.yaml
+    Table 17: Table17.yaml
+    Table 18: Table18.yaml
+    Table 19: Table19.yaml
+    Table 20: Table20.yaml
+    Table 21: Table21.yaml
+    Table 22: Table22.yaml
+    Table 23: Table23.yaml
+    Table 24: Table24.yaml
+    Table 25: Table25.yaml
+    Table 26: Table26.yaml
+    Table 27: Table27.yaml
+    Table 28: Table28.yaml
+    Table 29: Table29.yaml
+    Table 30: Table30.yaml
+    Table 31: Table31.yaml
+    Table 32: Table32.yaml
+    Table 33: Table33.yaml
+    Table 34: Table34.yaml
+    Table 35: Table35.yaml
+    Table 36: Table36.yaml
+    Table 37: Table37.yaml
+    Table 38: Table38.yaml
+    Table 39: Table39.yaml
+    Table 40: Table40.yaml
+    Table 41: Table41.yaml
+    Table 42: Table42.yaml
+    Table 43: Table43.yaml
+    Table 44: Table44.yaml
+    Table 45: Table45.yaml
+    Table 46: Table46.yaml
+    Table 47: Table47.yaml
+    Table 48: Table48.yaml
+    Table 49: Table49.yaml
+    Table 50: Table50.yaml
+    Table 51: Table51.yaml
+    Table 52: Table52.yaml
+    Table 53: Table53.yaml
+    Table 54: Table54.yaml
+    Table 55: Table55.yaml
+    Table 56: Table56.yaml
+    Table 57: Table57.yaml
+    Table 58: Table58.yaml
+    Table 59: Table59.yaml
+    Table 60: Table60.yaml
+    Table 61: Table61.yaml
+    Table 62: Table62.yaml
+    Table 63: Table63.yaml
+    Table 64: Table64.yaml
+    Table 65: Table65.yaml
+    Table 66: Table66.yaml
+    Table 67: Table67.yaml
+    Table 68: Table68.yaml
+    Table 69: Table69.yaml
+    Table 70: Table70.yaml
+    Table 71: Table71.yaml
+    Table 72: Table72.yaml
+    Table 73: Table73.yaml
+    Table 74: Table74.yaml
+    Table 75: Table75.yaml
+    Table 76: Table76.yaml
+    Table 77: Table77.yaml
+    Table 78: Table78.yaml
+    Table 79: Table79.yaml
+    Table 80: Table80.yaml
+    Table 81: Table81.yaml
+    Table 82: Table82.yaml
+    Table 83: Table83.yaml
+    Table 84: Table84.yaml
+    Table 85: Table85.yaml
+    Table 86: Table86.yaml
+    Table 87: Table87.yaml
+    Table 88: Table88.yaml
+5020/inclusive_jet/axis_cms:
+- directory: 5020/inclusive_jet/axis_cms/HEPData-ins2890802-v1-yaml
+  inspire_hep_id: 2890802
+  version: 1
+  tables_to_filenames:
+    Table 1: fig1.yaml
+    Table 2: fig2.yaml
+    Table 3: fig3.yaml
+    Table 4: fig4.yaml
+5020/inclusive_jet/charge_cms:
+- directory: 5020/inclusive_jet/charge_cms/HEPData-ins1789224-v1-yaml
+  inspire_hep_id: 1789224
+  version: 1
+  tables_to_filenames:
+    Table 1: data1.yaml
+    Table 2a: data2a.yaml
+    Table 2b: data2b.yaml
+    Table 2c: data2c.yaml
+    Table 3: data3.yaml
+    Table 4a: data4a.yaml
+    Table 4b: data4b.yaml
+    Table 5: data5.yaml
+    Table 6: data6.yaml
+    Table 7: data7.yaml
+    Table 8: data8.yaml
+    Table 9: data10.yaml
+    Table 10: data11.yaml
+    Table 11: data13.yaml
+5020/inclusive_jet/eec_cms:
+- directory: 5020/inclusive_jet/eec_cms/HEPData-ins2904406-v2-yaml
+  inspire_hep_id: 2904406
+  version: 2
+  tables_to_filenames:
+    Figure 2-1: figure_2-1.yaml
+    Figure 2-2: figure_2-2.yaml
+    Figure 2-3: figure_2-3.yaml
+    Figure 2-4: figure_2-4.yaml
+    Figure 2-5: figure_2-5.yaml
+    Figure 2-6: figure_2-6.yaml
+    Figure 2-7: figure_2-7.yaml
+    Figure 2-8: figure_2-8.yaml
+    Figure 3-1: figure_3-1.yaml
+    Figure 3-2: figure_3-2.yaml
+    Figure 3-3: figure_3-3.yaml
+    Figure 3-4: figure_3-4.yaml
+    Figure 3-5: figure_3-5.yaml
+    Figure 3-6: figure_3-6.yaml
+    Figure 3-7: figure_3-7.yaml
+    Figure 3-8: figure_3-8.yaml
+    Figure 4-1: figure_4-1.yaml
+    Figure 4-2: figure_4-2.yaml
+    Figure 4-3: figure_4-3.yaml
+    Figure 4-4: figure_4-4.yaml
+    Figure 4-5: figure_4-5.yaml
+    Figure 4-6: figure_4-6.yaml
+    Figure 4-7: figure_4-7.yaml
+    Figure 4-8: figure_4-8.yaml
+    Figure 5-1: figure_5-1.yaml
+    Figure 5-2: figure_5-2.yaml
+    Figure 5-3: figure_5-3.yaml
+    Figure 5-4: figure_5-4.yaml
+    Figure 5-5: figure_5-5.yaml
+    Figure 5-6: figure_5-6.yaml
+    Figure 5-7: figure_5-7.yaml
+    Figure 5-8: figure_5-8.yaml
+    Figure A27-0: figure_a27-0.yaml
+    Figure A27-1: figure_a27-1.yaml
+    Figure A28-0: figure_a28-0.yaml
+    Figure A28-1: figure_a28-1.yaml
+    Figure A29-0: figure_a29-0.yaml
+    Figure A29-1: figure_a29-1.yaml
+    Figure A30-0: figure_a30-0.yaml
+    Figure A30-1: figure_a30-1.yaml
+5020/inclusive_jet/mg_cms:
+- directory: 5020/inclusive_jet/mg_cms/HEPData-ins1672962-v1-yaml
+  inspire_hep_id: 1672962
+  version: 1
+  tables_to_filenames:
+    Figure 1a: Figure1a.yaml
+    Figure 1b: Figure1b.yaml
+    Figure 2a: Figure2a.yaml
+    Figure 2b: Figure2b.yaml
+    Figure 3a: Figure3a.yaml
+    Figure 3b: Figure3b.yaml
+    Figure 4a: Figure4a.yaml
+    Figure 4b: Figure4b.yaml
+    Figure 5a: Figure5a.yaml
+    Figure 5b: Figure5b.yaml
+    Figure 6a: Figure6a.yaml
+    Figure 6b: Figure6b.yaml
+5020/inclusive_jet/pt_alice:
+- directory: 5020/inclusive_jet/pt_alice/HEPData-ins1755387-v2-yaml
+  inspire_hep_id: 1755387
+  version: 2
+  tables_to_filenames:
+    Table 1: Fig1_Left_01.yaml
+    Table 2: Fig1_Left_02.yaml
+    Table 3: Fig1_Left_03.yaml
+    Table 4: Fig1_Left_04.yaml
+    Table 5: Fig1_Left_05.yaml
+    Table 6: Fig1_Left_06.yaml
+    Table 7: Fig2_01.yaml
+    Table 8: Fig2_02.yaml
+    Table 9: Fig2_03.yaml
+    Table 10: Fig2_04.yaml
+    Table 11: Fig2_05.yaml
+    Table 12: Fig2_06.yaml
+    Table 13: Fig3_Bottom_01-02.yaml
+    Table 14: Fig3_Bottom_01-03.yaml
+    Table 15: Fig3_Bottom_01-04.yaml
+    Table 16: Fig3_Bottom_01-05.yaml
+    Table 17: Fig3_Bottom_01-06.yaml
+    Table 18: Fig3_Top_02-03.yaml
+    Table 19: Fig3_Top_02-04.yaml
+    Table 20: Fig3_Top_02-05.yaml
+    Table 21: Fig3_Top_02-06.yaml
+    Table 22: Fig4_Left_pp.yaml
+    Table 23: Fig4_Left_PbPb.yaml
+    Table 24: Fig4_Right_pp.yaml
+    Table 25: Fig4_Right_PbPb.yaml
+    Table 26: Fig5_Left_0-5.yaml
+    Table 27: Fig5_Left_0-7.yaml
+    Table 28: Fig5_Left_5-7.yaml
+    Table 29: Fig5_Right.yaml
+    Table 30: Fig6_TopLeft.yaml
+    Table 31: Fig6_TopRight.yaml
+    Table 32: Fig6_BottomLeft.yaml
+    Table 33: Fig6_BottomRight.yaml
+5020/inclusive_jet/pt_atlas:
+- directory: 5020/inclusive_jet/pt_atlas/HEPData-ins1673184-v1-yaml
+  inspire_hep_id: 1673184
+  version: 1
+  tables_to_filenames:
+    Table 1: Npart_Taa.yaml
+    Table 2: JES.yaml
+    Table 3: JER.yaml
+    Table 4: ppCrossX_y0.yaml
+    Table 5: ppCrossX_y1.yaml
+    Table 6: ppCrossX_y2.yaml
+    Table 7: ppCrossX_y3.yaml
+    Table 8: ppCrossX_y4.yaml
+    Table 9: ppCrossX_y5.yaml
+    Table 10: ppCrossX_y6.yaml
+    Table 11: jetYields_c0_y0.yaml
+    Table 12: jetYields_c1_y0.yaml
+    Table 13: jetYields_c2_y0.yaml
+    Table 14: jetYields_c3_y0.yaml
+    Table 15: jetYields_c4_y0.yaml
+    Table 16: jetYields_c5_y0.yaml
+    Table 17: jetYields_c6_y0.yaml
+    Table 18: jetYields_c7_y0.yaml
+    Table 19: raa_c0_y0.yaml
+    Table 20: raa_c1_y0.yaml
+    Table 21: raa_c2_y0.yaml
+    Table 22: raa_c3_y0.yaml
+    Table 23: raa_c4_y0.yaml
+    Table 24: raa_c5_y0.yaml
+    Table 25: raa_c6_y0.yaml
+    Table 26: raa_c7_y0.yaml
+    Table 27: raa_doubleRatio_c0_y0.yaml
+    Table 28: cov_stat_c0_y0.yaml
+    Table 29: cov_stat_c1_y0.yaml
+    Table 30: cov_stat_c2_y0.yaml
+    Table 31: cov_stat_c3_y0.yaml
+    Table 32: cov_stat_c4_y0.yaml
+    Table 33: cov_stat_c5_y0.yaml
+    Table 34: cov_stat_c6_y0.yaml
+    Table 35: cov_stat_c7_y0.yaml
+5020/inclusive_jet/pt_cms:
+- directory: 5020/inclusive_jet/pt_cms/HEPData-ins1848440-v1-yaml
+  inspire_hep_id: 1848440
+  version: 1
+  tables_to_filenames:
+    Figure 5-1: Table5-1.yaml
+    Figure 5-2: Table5-2.yaml
+    Figure 5-3: Table5-3.yaml
+    Figure 5-4: Table5-4.yaml
+    Figure 5-5: Table5-5.yaml
+    Figure 5-6: Table5-6.yaml
+    Figure 6: Table6.yaml
+    Figure 7-1: Table7-1.yaml
+    Figure 7-2: Table7-2.yaml
+    Figure 7-3: Table7-3.yaml
+    Figure 7-4: Table7-4.yaml
+    Figure 7-5: Table7-5.yaml
+    Figure 7-6: Table7-6.yaml
+    Figure 8-1: Table8-1.yaml
+    Figure 8-2: Table8-2.yaml
+    Figure 8-3: Table8-3.yaml
+    Figure 8-4: Table8-4.yaml
+    Figure 8-5: Table8-5.yaml
+5020/inclusive_jet/pt_y_atlas:
+- directory: 5020/inclusive_jet/pt_y_atlas/HEPData-ins1673184-v1-yaml
+  inspire_hep_id: 1673184
+  version: 1
+  tables_to_filenames:
+    Table 1: Npart_Taa.yaml
+    Table 2: JES.yaml
+    Table 3: JER.yaml
+    Table 4: ppCrossX_y0.yaml
+    Table 5: ppCrossX_y1.yaml
+    Table 6: ppCrossX_y2.yaml
+    Table 7: ppCrossX_y3.yaml
+    Table 8: ppCrossX_y4.yaml
+    Table 9: ppCrossX_y5.yaml
+    Table 10: ppCrossX_y6.yaml
+    Table 11: jetYields_c0_y0.yaml
+    Table 12: jetYields_c1_y0.yaml
+    Table 13: jetYields_c2_y0.yaml
+    Table 14: jetYields_c3_y0.yaml
+    Table 15: jetYields_c4_y0.yaml
+    Table 16: jetYields_c5_y0.yaml
+    Table 17: jetYields_c6_y0.yaml
+    Table 18: jetYields_c7_y0.yaml
+    Table 19: raa_c0_y0.yaml
+    Table 20: raa_c1_y0.yaml
+    Table 21: raa_c2_y0.yaml
+    Table 22: raa_c3_y0.yaml
+    Table 23: raa_c4_y0.yaml
+    Table 24: raa_c5_y0.yaml
+    Table 25: raa_c6_y0.yaml
+    Table 26: raa_c7_y0.yaml
+    Table 27: raa_doubleRatio_c0_y0.yaml
+    Table 28: cov_stat_c0_y0.yaml
+    Table 29: cov_stat_c1_y0.yaml
+    Table 30: cov_stat_c2_y0.yaml
+    Table 31: cov_stat_c3_y0.yaml
+    Table 32: cov_stat_c4_y0.yaml
+    Table 33: cov_stat_c5_y0.yaml
+    Table 34: cov_stat_c6_y0.yaml
+    Table 35: cov_stat_c7_y0.yaml
+5020/inclusive_jet/zg_cms:
+- directory: 5020/inclusive_jet/zg_cms/HEPData-ins1620905-v1-yaml
+  inspire_hep_id: 1620905
+  version: 1
+  tables_to_filenames:
+    Table 1: data1.yaml
+    Table 2: data2.yaml
+    Table 3: data3.yaml
+    Table 4: data4.yaml
+    Table 5: data5.yaml
+    Table 6: data6.yaml
+    Table 7: data7.yaml
+    Table 8: data8.yaml
+    Table 9: data9.yaml
+    Table 10: data10.yaml
+    Table 11: data11.yaml
+    Table 12: data12.yaml
+    Table 13: data13.yaml
+    Table 14: data14.yaml
+    Table 15: data15.yaml
+    Table 16: data16.yaml
+5020/z_trigger_hadron/delta_N_cms:
+- directory: 5020/z_trigger_hadron/delta_N_cms/HEPData-ins2945894-v1-yaml
+  inspire_hep_id: 2945894
+  version: 1
+  tables_to_filenames:
+    $\Delta\phi_{ch,Z}$ spectra in pp for $1 < p_T < 2$ GeV: 
+      $\delta\phi_{ch,z}$_spectra_in_pp_for_$1_<_p_t_<_2$_gev.yaml
+    $\Delta\phi_{ch,Z}$ spectra in pp for $2 < p_T < 4$ GeV: 
+      $\delta\phi_{ch,z}$_spectra_in_pp_for_$2_<_p_t_<_4$_gev.yaml
+    $\Delta\phi_{ch,Z}$ spectra in pp for $4 < p_T < 10$ GeV: 
+      $\delta\phi_{ch,z}$_spectra_in_pp_for_$4_<_p_t_<_10$_gev.yaml
+    $\Delta\phi_{ch,Z}$ in PbPb 0-30% for $1 < p_T < 2$ GeV: 
+      $\delta\phi_{ch,z}$_in_pbpb_0-30%_for_$1_<_p_t_<_2$_gev.yaml
+    $\Delta\phi_{ch,Z}$ in PbPb 0-30% for $2 < p_T < 4$ GeV: 
+      $\delta\phi_{ch,z}$_in_pbpb_0-30%_for_$2_<_p_t_<_4$_gev.yaml
+    $\Delta\phi_{ch,Z}$ in PbPb 0-30% for $4 < p_T < 10$ GeV: 
+      $\delta\phi_{ch,z}$_in_pbpb_0-30%_for_$4_<_p_t_<_10$_gev.yaml
+    $\Delta\phi_{ch,Z}$ in PbPb 30-50% for $1 < p_T < 2$ GeV: 
+      $\delta\phi_{ch,z}$_in_pbpb_30-50%_for_$1_<_p_t_<_2$_gev.yaml
+    $\Delta\phi_{ch,Z}$ in PbPb 30-50% for $2 < p_T < 4$ GeV: 
+      $\delta\phi_{ch,z}$_in_pbpb_30-50%_for_$2_<_p_t_<_4$_gev.yaml
+    $\Delta\phi_{ch,Z}$ in PbPb 30-50% for $4 < p_T < 10$ GeV: 
+      $\delta\phi_{ch,z}$_in_pbpb_30-50%_for_$4_<_p_t_<_10$_gev.yaml
+    $\Delta\phi_{ch,Z}$ in PbPb 50-90% for $1 < p_T < 2$ GeV: 
+      $\delta\phi_{ch,z}$_in_pbpb_50-90%_for_$1_<_p_t_<_2$_gev.yaml
+    $\Delta\phi_{ch,Z}$ in PbPb 50-90% for $2 < p_T < 4$ GeV: 
+      $\delta\phi_{ch,z}$_in_pbpb_50-90%_for_$2_<_p_t_<_4$_gev.yaml
+    $\Delta\phi_{ch,Z}$ in PbPb 50-90% for $4 < p_T < 10$ GeV: 
+      $\delta\phi_{ch,z}$_in_pbpb_50-90%_for_$4_<_p_t_<_10$_gev.yaml
+    $\Delta\phi_{ch,Z}$ in PbPb 0-90% for $1 < p_T < 2$ GeV: 
+      $\delta\phi_{ch,z}$_in_pbpb_0-90%_for_$1_<_p_t_<_2$_gev.yaml
+    $\Delta\phi_{ch,Z}$ in PbPb 0-90% for $2 < p_T < 4$ GeV: 
+      $\delta\phi_{ch,z}$_in_pbpb_0-90%_for_$2_<_p_t_<_4$_gev.yaml
+    $\Delta\phi_{ch,Z}$ in PbPb 0-90% for $4 < p_T < 10$ GeV: 
+      $\delta\phi_{ch,z}$_in_pbpb_0-90%_for_$4_<_p_t_<_10$_gev.yaml
+    $\Delta y_{ch,Z}$ spectra in pp for $1 < p_T < 2$ GeV: 
+      $\delta_y_{ch,z}$_spectra_in_pp_for_$1_<_p_t_<_2$_gev.yaml
+    $\Delta y_{ch,Z}$ spectra in pp for $2 < p_T < 4$ GeV: 
+      $\delta_y_{ch,z}$_spectra_in_pp_for_$2_<_p_t_<_4$_gev.yaml
+    $\Delta y_{ch,Z}$ spectra in pp for $4 < p_T < 10$ GeV: 
+      $\delta_y_{ch,z}$_spectra_in_pp_for_$4_<_p_t_<_10$_gev.yaml
+    $\Delta y_{ch,Z}$ in PbPb 0-30% for $1 < p_T < 2$ GeV: 
+      $\delta_y_{ch,z}$_in_pbpb_0-30%_for_$1_<_p_t_<_2$_gev.yaml
+    $\Delta y_{ch,Z}$ in PbPb 0-30% for $2 < p_T < 4$ GeV: 
+      $\delta_y_{ch,z}$_in_pbpb_0-30%_for_$2_<_p_t_<_4$_gev.yaml
+    $\Delta y_{ch,Z}$ in PbPb 0-30% for $4 < p_T < 10$ GeV: 
+      $\delta_y_{ch,z}$_in_pbpb_0-30%_for_$4_<_p_t_<_10$_gev.yaml
+    $\Delta y_{ch,Z}$ in PbPb 30-50% for $1 < p_T < 2$ GeV: 
+      $\delta_y_{ch,z}$_in_pbpb_30-50%_for_$1_<_p_t_<_2$_gev.yaml
+    $\Delta y_{ch,Z}$ in PbPb 30-50% for $2 < p_T < 4$ GeV: 
+      $\delta_y_{ch,z}$_in_pbpb_30-50%_for_$2_<_p_t_<_4$_gev.yaml
+    $\Delta y_{ch,Z}$ in PbPb 30-50% for $4 < p_T < 10$ GeV: 
+      $\delta_y_{ch,z}$_in_pbpb_30-50%_for_$4_<_p_t_<_10$_gev.yaml
+    $\Delta y_{ch,Z}$ in PbPb 50-90% for $1 < p_T < 2$ GeV: 
+      $\delta_y_{ch,z}$_in_pbpb_50-90%_for_$1_<_p_t_<_2$_gev.yaml
+    $\Delta y_{ch,Z}$ in PbPb 50-90% for $2 < p_T < 4$ GeV: 
+      $\delta_y_{ch,z}$_in_pbpb_50-90%_for_$2_<_p_t_<_4$_gev.yaml
+    $\Delta y_{ch,Z}$ in PbPb 50-90% for $4 < p_T < 10$ GeV: 
+      $\delta_y_{ch,z}$_in_pbpb_50-90%_for_$4_<_p_t_<_10$_gev.yaml
+    $\Delta y_{ch,Z}$ in PbPb 0-90% for $1 < p_T < 2$ GeV: 
+      $\delta_y_{ch,z}$_in_pbpb_0-90%_for_$1_<_p_t_<_2$_gev.yaml
+    $\Delta y_{ch,Z}$ in PbPb 0-90% for $2 < p_T < 4$ GeV: 
+      $\delta_y_{ch,z}$_in_pbpb_0-90%_for_$2_<_p_t_<_4$_gev.yaml
+    $\Delta y_{ch,Z}$ in PbPb 0-90% for $4 < p_T < 10$ GeV: 
+      $\delta_y_{ch,z}$_in_pbpb_0-90%_for_$4_<_p_t_<_10$_gev.yaml
+5020/z_trigger_hadron/dphi_cms:
+- directory: 5020/z_trigger_hadron/dphi_cms/HEPData-ins1850859-v1-yaml
+  inspire_hep_id: 1850859
+  version: 1
+  tables_to_filenames:
+    Table 1: data1.yaml
+    Table 2: data2.yaml
+    Table 3: data3.yaml
+    Table 4: data4.yaml
+    Table 5: data5.yaml
+    Table 6: data6.yaml
+    Table 7: data7.yaml
+    Table 8: data8.yaml
+    Table 9: data9.yaml
+    Table 10: data10.yaml
+    Table 11: data11.yaml
+    Table 12: data12.yaml
+    Table 13: data13.yaml
+    Table 14: data14.yaml
+    Table 15: data15.yaml
+    Table 16: data16.yaml
+    Table 17: data17.yaml
+    Table 18: data18.yaml
+    Table 19: data19.yaml
+    Table 20: data20.yaml
+    Table 21: data21.yaml
+    Table 22: data22.yaml
+    Table 23: data23.yaml
+    Table 24: data24.yaml
+    Table 25: data25.yaml
+    Table 26: data26.yaml
+    Table 27: data27.yaml
+    Table 28: data28.yaml
+5020/z_trigger_hadron/xi_cms:
+- directory: 5020/z_trigger_hadron/xi_cms/HEPData-ins1850859-v1-yaml
+  inspire_hep_id: 1850859
+  version: 1
+  tables_to_filenames:
+    Table 1: data1.yaml
+    Table 2: data2.yaml
+    Table 3: data3.yaml
+    Table 4: data4.yaml
+    Table 5: data5.yaml
+    Table 6: data6.yaml
+    Table 7: data7.yaml
+    Table 8: data8.yaml
+    Table 9: data9.yaml
+    Table 10: data10.yaml
+    Table 11: data11.yaml
+    Table 12: data12.yaml
+    Table 13: data13.yaml
+    Table 14: data14.yaml
+    Table 15: data15.yaml
+    Table 16: data16.yaml
+    Table 17: data17.yaml
+    Table 18: data18.yaml
+    Table 19: data19.yaml
+    Table 20: data20.yaml
+    Table 21: data21.yaml
+    Table 22: data22.yaml
+    Table 23: data23.yaml
+    Table 24: data24.yaml
+    Table 25: data25.yaml
+    Table 26: data26.yaml
+    Table 27: data27.yaml
+    Table 28: data28.yaml
+5020/z_trigger_jet/dphi_cms:
+- directory: 5020/z_trigger_jet/dphi_cms/HEPData-ins1512112-v1-yaml
+  inspire_hep_id: 1512112
+  version: 1
+  tables_to_filenames:
+    Table 1: data1.yaml
+    Table 2: data2.yaml
+    Table 3: data3.yaml
+    Table 4: data4.yaml
+    Table 5: data5.yaml
+    Table 6: data6.yaml
+    Table 7: data7.yaml
+    Table 8: data8.yaml
+    Table 9: data9.yaml
+5020/z_trigger_jet/xj_z_cms:
+- directory: 5020/z_trigger_jet/xj_z_cms/HEPData-ins1512112-v1-yaml
+  inspire_hep_id: 1512112
+  version: 1
+  tables_to_filenames:
+    Table 1: data1.yaml
+    Table 2: data2.yaml
+    Table 3: data3.yaml
+    Table 4: data4.yaml
+    Table 5: data5.yaml
+    Table 6: data6.yaml
+    Table 7: data7.yaml
+    Table 8: data8.yaml
+    Table 9: data9.yaml
