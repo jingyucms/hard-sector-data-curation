@@ -1,0 +1,212 @@
+dependent_variables:
+- header: {name: '$\frac{1}{\sigma} \frac{d\sigma}{d\lambda_{\alpha}}$'}
+  qualifiers:
+  - {name: RE, value: P P --> jet+X}
+  - {name: SQRT(S), units: TeV, value: 5.02}
+  - {name: ETARAP, value: '|0.9-R|'}
+  - {name: jet radius, value: 0.2}
+  - {name: jet method, value: 'Anti-$k_{T}$'}
+  values:
+  - errors:
+    - {label: stat, symerror: 0.019}
+    - {label: 'sys,unfolding', symerror: 3.8%}
+    - {label: 'sys,trkeff', symerror: -14%}
+    - {label: 'sys,random_mass', symerror: 1.6%}
+    - {label: 'sys,generator', symerror: 15%}
+    value: 0.775
+  - errors:
+    - {label: stat, symerror: 0.017}
+    - {label: 'sys,unfolding', symerror: 2.4%}
+    - {label: 'sys,trkeff', symerror: -10%}
+    - {label: 'sys,random_mass', symerror: 1.7%}
+    - {label: 'sys,generator', symerror: 13%}
+    value: 0.45
+  - errors:
+    - {label: stat, symerror: 0.023}
+    - {label: 'sys,unfolding', symerror: 2.9%}
+    - {label: 'sys,trkeff', symerror: -8.7%}
+    - {label: 'sys,random_mass', symerror: 0.38%}
+    - {label: 'sys,generator', symerror: 11%}
+    value: 0.735
+  - errors:
+    - {label: stat, symerror: 0.027}
+    - {label: 'sys,unfolding', symerror: 2.2%}
+    - {label: 'sys,trkeff', symerror: -7.4%}
+    - {label: 'sys,random_mass', symerror: 0.28%}
+    - {label: 'sys,generator', symerror: 15%}
+    value: 0.95
+  - errors:
+    - {label: stat, symerror: 0.029}
+    - {label: 'sys,unfolding', symerror: 2.2%}
+    - {label: 'sys,trkeff', symerror: -7.2%}
+    - {label: 'sys,random_mass', symerror: 1.2%}
+    - {label: 'sys,generator', symerror: 8.9%}
+    value: 1.26
+  - errors:
+    - {label: stat, symerror: 0.031}
+    - {label: 'sys,unfolding', symerror: 2%}
+    - {label: 'sys,trkeff', symerror: -5.7%}
+    - {label: 'sys,random_mass', symerror: 2%}
+    - {label: 'sys,generator', symerror: 9.4%}
+    value: 1.52
+  - errors:
+    - {label: stat, symerror: 0.037}
+    - {label: 'sys,unfolding', symerror: 1.9%}
+    - {label: 'sys,trkeff', symerror: -4.5%}
+    - {label: 'sys,random_mass', symerror: 0.067%}
+    - {label: 'sys,generator', symerror: 5.8%}
+    value: 1.78
+  - errors:
+    - {label: stat, symerror: 0.043}
+    - {label: 'sys,unfolding', symerror: 2.1%}
+    - {label: 'sys,trkeff', symerror: -4.4%}
+    - {label: 'sys,random_mass', symerror: 1.5%}
+    - {label: 'sys,generator', symerror: 6%}
+    value: 2.18
+  - errors:
+    - {label: stat, symerror: 0.043}
+    - {label: 'sys,unfolding', symerror: 1.3%}
+    - {label: 'sys,trkeff', symerror: -2.8%}
+    - {label: 'sys,random_mass', symerror: 0.44%}
+    - {label: 'sys,generator', symerror: 4.6%}
+    value: 2.43
+  - errors:
+    - {label: stat, symerror: 0.04}
+    - {label: 'sys,unfolding', symerror: 0.96%}
+    - {label: 'sys,trkeff', symerror: -2.2%}
+    - {label: 'sys,random_mass', symerror: 1.1%}
+    - {label: 'sys,generator', symerror: 4.5%}
+    value: 2.66
+  - errors:
+    - {label: stat, symerror: 0.039}
+    - {label: 'sys,unfolding', symerror: 1.2%}
+    - {label: 'sys,trkeff', symerror: -1.5%}
+    - {label: 'sys,random_mass', symerror: 0.29%}
+    - {label: 'sys,generator', symerror: 2.3%}
+    value: 2.86
+  - errors:
+    - {label: stat, symerror: 0.046}
+    - {label: 'sys,unfolding', symerror: 1.3%}
+    - {label: 'sys,trkeff', symerror: -1.1%}
+    - {label: 'sys,random_mass', symerror: 1.4%}
+    - {label: 'sys,generator', symerror: 1.9%}
+    value: 3.13
+  - errors:
+    - {label: stat, symerror: 0.044}
+    - {label: 'sys,unfolding', symerror: 0.32%}
+    - {label: 'sys,trkeff', symerror: -0.29%}
+    - {label: 'sys,random_mass', symerror: 0.95%}
+    - {label: 'sys,generator', symerror: 1.9%}
+    value: 3.07
+  - errors:
+    - {label: stat, symerror: 0.039}
+    - {label: 'sys,unfolding', symerror: 0.78%}
+    - {label: 'sys,trkeff', symerror: 0.36%}
+    - {label: 'sys,random_mass', symerror: 0.52%}
+    - {label: 'sys,generator', symerror: -0.45%}
+    value: 3.08
+  - errors:
+    - {label: stat, symerror: 0.046}
+    - {label: 'sys,unfolding', symerror: 1.3%}
+    - {label: 'sys,trkeff', symerror: 0.66%}
+    - {label: 'sys,random_mass', symerror: 1.1%}
+    - {label: 'sys,generator', symerror: -0.98%}
+    value: 3.11
+  - errors:
+    - {label: stat, symerror: 0.051}
+    - {label: 'sys,unfolding', symerror: 0.8%}
+    - {label: 'sys,trkeff', symerror: 1.8%}
+    - {label: 'sys,random_mass', symerror: 0.96%}
+    - {label: 'sys,generator', symerror: -3.2%}
+    value: 2.91
+  - errors:
+    - {label: stat, symerror: 0.041}
+    - {label: 'sys,unfolding', symerror: 1%}
+    - {label: 'sys,trkeff', symerror: 2.2%}
+    - {label: 'sys,random_mass', symerror: 2.3%}
+    - {label: 'sys,generator', symerror: -2.5%}
+    value: 2.76
+  - errors:
+    - {label: stat, symerror: 0.048}
+    - {label: 'sys,unfolding', symerror: 1.2%}
+    - {label: 'sys,trkeff', symerror: 3.1%}
+    - {label: 'sys,random_mass', symerror: 1.3%}
+    - {label: 'sys,generator', symerror: -1%}
+    value: 2.53
+  - errors:
+    - {label: stat, symerror: 0.045}
+    - {label: 'sys,unfolding', symerror: 2.2%}
+    - {label: 'sys,trkeff', symerror: 3.2%}
+    - {label: 'sys,random_mass', symerror: 1.5%}
+    - {label: 'sys,generator', symerror: -4.6%}
+    value: 2.2
+  - errors:
+    - {label: stat, symerror: 0.034}
+    - {label: 'sys,unfolding', symerror: 1.6%}
+    - {label: 'sys,trkeff', symerror: 3.3%}
+    - {label: 'sys,random_mass', symerror: 0.67%}
+    - {label: 'sys,generator', symerror: -4.5%}
+    value: 2.0
+  - errors:
+    - {label: stat, symerror: 0.033}
+    - {label: 'sys,unfolding', symerror: 2.1%}
+    - {label: 'sys,trkeff', symerror: 4%}
+    - {label: 'sys,random_mass', symerror: 1.5%}
+    - {label: 'sys,generator', symerror: -5.9%}
+    value: 1.74
+  - errors:
+    - {label: stat, symerror: 0.029}
+    - {label: 'sys,unfolding', symerror: 2.4%}
+    - {label: 'sys,trkeff', symerror: 4.9%}
+    - {label: 'sys,random_mass', symerror: 0.77%}
+    - {label: 'sys,generator', symerror: -11%}
+    value: 1.42
+  - errors:
+    - {label: stat, symerror: 0.024}
+    - {label: 'sys,unfolding', symerror: 1.6%}
+    - {label: 'sys,trkeff', symerror: 4.7%}
+    - {label: 'sys,random_mass', symerror: 0.25%}
+    - {label: 'sys,generator', symerror: -14%}
+    value: 1.19
+  - errors:
+    - {label: stat, symerror: 0.017}
+    - {label: 'sys,unfolding', symerror: 2.1%}
+    - {label: 'sys,trkeff', symerror: 5.2%}
+    - {label: 'sys,random_mass', symerror: 1.7%}
+    - {label: 'sys,generator', symerror: -13%}
+    value: 0.788
+  - errors:
+    - {label: stat, symerror: 0.0049}
+    - {label: 'sys,unfolding', symerror: 1.8%}
+    - {label: 'sys,trkeff', symerror: 6.1%}
+    - {label: 'sys,random_mass', symerror: 1.1%}
+    - {label: 'sys,generator', symerror: -17%}
+    value: 0.167
+independent_variables:
+- header: {name: '$\lambda_{{\alpha}}$'}
+  values:
+  - {high: 0.03, low: 0.0}
+  - {high: 0.06, low: 0.03}
+  - {high: 0.08, low: 0.06}
+  - {high: 0.1, low: 0.08}
+  - {high: 0.12, low: 0.1}
+  - {high: 0.14, low: 0.12}
+  - {high: 0.16, low: 0.14}
+  - {high: 0.18, low: 0.16}
+  - {high: 0.2, low: 0.18}
+  - {high: 0.22, low: 0.2}
+  - {high: 0.24, low: 0.22}
+  - {high: 0.26, low: 0.24}
+  - {high: 0.28, low: 0.26}
+  - {high: 0.3, low: 0.28}
+  - {high: 0.32, low: 0.3}
+  - {high: 0.34, low: 0.32}
+  - {high: 0.36, low: 0.34}
+  - {high: 0.38, low: 0.36}
+  - {high: 0.4, low: 0.38}
+  - {high: 0.42, low: 0.4}
+  - {high: 0.44, low: 0.42}
+  - {high: 0.46, low: 0.44}
+  - {high: 0.48, low: 0.46}
+  - {high: 0.52, low: 0.48}
+  - {high: 0.65, low: 0.52}

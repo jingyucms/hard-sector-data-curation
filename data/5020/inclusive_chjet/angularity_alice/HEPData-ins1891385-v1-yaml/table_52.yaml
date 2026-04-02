@@ -1,0 +1,68 @@
+dependent_variables:
+- header: {name: '$\frac{1}{\sigma} \frac{d\sigma}{d\lambda_{\alpha}}$'}
+  qualifiers:
+  - {name: RE, value: P P --> jet+X}
+  - {name: SQRT(S), units: TeV, value: 5.02}
+  - {name: ETARAP, value: '|0.9-R|'}
+  - {name: jet radius, value: 0.2}
+  - {name: jet method, value: 'Anti-$k_{T}$'}
+  values:
+  - errors:
+    - {label: stat, symerror: 1.8}
+    - {label: 'sys,unfolding', symerror: 4.7%}
+    - {label: 'sys,trkeff', symerror: -11%}
+    - {label: 'sys,random_mass', symerror: 3.8%}
+    - {label: 'sys,generator', symerror: -1.7%}
+    value: 19.4
+  - errors:
+    - {label: stat, symerror: 1.2}
+    - {label: 'sys,unfolding', symerror: 3.3%}
+    - {label: 'sys,trkeff', symerror: -5.2%}
+    - {label: 'sys,random_mass', symerror: 2.3%}
+    - {label: 'sys,generator', symerror: -0.33%}
+    value: 15.0
+  - errors:
+    - {label: stat, symerror: 0.83}
+    - {label: 'sys,unfolding', symerror: 2.2%}
+    - {label: 'sys,trkeff', symerror: -3.3%}
+    - {label: 'sys,random_mass', symerror: 0.29%}
+    - {label: 'sys,generator', symerror: -3%}
+    value: 12.7
+  - errors:
+    - {label: stat, symerror: 0.67}
+    - {label: 'sys,unfolding', symerror: 2.6%}
+    - {label: 'sys,trkeff', symerror: 1.3%}
+    - {label: 'sys,random_mass', symerror: 1.5%}
+    - {label: 'sys,generator', symerror: 3.2%}
+    value: 7.79
+  - errors:
+    - {label: stat, symerror: 0.43}
+    - {label: 'sys,unfolding', symerror: 2.9%}
+    - {label: 'sys,trkeff', symerror: 4.4%}
+    - {label: 'sys,random_mass', symerror: 0.56%}
+    - {label: 'sys,generator', symerror: 0.37%}
+    value: 4.81
+  - errors:
+    - {label: stat, symerror: 0.23}
+    - {label: 'sys,unfolding', symerror: 4.1%}
+    - {label: 'sys,trkeff', symerror: 6.9%}
+    - {label: 'sys,random_mass', symerror: 1%}
+    - {label: 'sys,generator', symerror: -2.7%}
+    value: 2.21
+  - errors:
+    - {label: stat, symerror: 0.06}
+    - {label: 'sys,unfolding', symerror: 2.9%}
+    - {label: 'sys,trkeff', symerror: 4%}
+    - {label: 'sys,random_mass', symerror: 2.9%}
+    - {label: 'sys,generator', symerror: 6.1%}
+    value: 0.459
+independent_variables:
+- header: {name: '$\lambda_{{\alpha}}$'}
+  values:
+  - {high: 0.01, low: 0.0}
+  - {high: 0.02, low: 0.01}
+  - {high: 0.04, low: 0.02}
+  - {high: 0.06, low: 0.04}
+  - {high: 0.08, low: 0.06}
+  - {high: 0.12, low: 0.08}
+  - {high: 0.25, low: 0.12}

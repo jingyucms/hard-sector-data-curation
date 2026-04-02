@@ -1,0 +1,37 @@
+dependent_variables:
+- header: {name: '$\frac{1}{\sigma_{\rm inc}} \frac{d\sigma}{d\Delta R_{\rm axis}}$'}
+  qualifiers:
+  - {name: RE, value: P P --> jet+X}
+  - {name: SQRT(S), units: TeV, value: 5.02}
+  - {name: ABS(ETARAP), value: 0.9-R}
+  - {name: jet radius, value: 0.4}
+  - {name: jet method, value: 'Anti-$k_{T}$'}
+  values:
+  - errors:
+    - {label: stat, symerror: 2.6}
+    - {label: syst, symerror: 0.92}
+    value: 16.7
+  - errors:
+    - {label: stat, symerror: 2.2}
+    - {label: syst, symerror: 0.56}
+    value: 22.1
+  - errors:
+    - {label: stat, symerror: 2.0}
+    - {label: syst, symerror: 0.27}
+    value: 11.0
+  - errors:
+    - {label: stat, symerror: 0.5}
+    - {label: syst, symerror: 0.16}
+    value: 4.63
+  - errors:
+    - {label: stat, symerror: 0.15}
+    - {label: syst, symerror: 0.056}
+    value: 0.781
+independent_variables:
+- header: {name: '$\Delta R_{\rm axis}$'}
+  values:
+  - {high: 0.01, low: 0.0}
+  - {high: 0.03, low: 0.01}
+  - {high: 0.04, low: 0.03}
+  - {high: 0.08, low: 0.04}
+  - {high: 0.2, low: 0.08}

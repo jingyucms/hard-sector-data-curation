@@ -1,0 +1,102 @@
+dependent_variables:
+- header: {name: '$\frac{1}{\sigma_{\rm inc}} \frac{d\sigma}{d\Delta R_{\rm axis}}$'}
+  qualifiers:
+  - {name: RE, value: P P --> jet+X}
+  - {name: SQRT(S), units: TeV, value: 5.02}
+  - {name: ABS(ETARAP), value: 0.9-R}
+  - {name: jet radius, value: 0.4}
+  - {name: jet method, value: 'Anti-$k_{T}$'}
+  values:
+  - errors:
+    - {label: stat, symerror: 0.54}
+    - {label: syst, symerror: 3.5}
+    value: 68.2
+  - errors:
+    - {label: stat, symerror: 0.41}
+    - {label: syst, symerror: 0.63}
+    value: 19.1
+  - errors:
+    - {label: stat, symerror: 0.26}
+    - {label: syst, symerror: 0.4}
+    value: 20.0
+  - errors:
+    - {label: stat, symerror: 0.24}
+    - {label: syst, symerror: 0.19}
+    value: 19.9
+  - errors:
+    - {label: stat, symerror: 0.25}
+    - {label: syst, symerror: 0.33}
+    value: 17.9
+  - errors:
+    - {label: stat, symerror: 0.19}
+    - {label: syst, symerror: 0.64}
+    value: 15.2
+  - errors:
+    - {label: stat, symerror: 0.17}
+    - {label: syst, symerror: 0.5}
+    value: 12.6
+  - errors:
+    - {label: stat, symerror: 0.15}
+    - {label: syst, symerror: 0.59}
+    value: 10.2
+  - errors:
+    - {label: stat, symerror: 0.13}
+    - {label: syst, symerror: 0.36}
+    value: 8.47
+  - errors:
+    - {label: stat, symerror: 0.067}
+    - {label: syst, symerror: 0.26}
+    value: 6.26
+  - errors:
+    - {label: stat, symerror: 0.063}
+    - {label: syst, symerror: 0.16}
+    value: 4.12
+  - errors:
+    - {label: stat, symerror: 0.057}
+    - {label: syst, symerror: 0.11}
+    value: 2.62
+  - errors:
+    - {label: stat, symerror: 0.036}
+    - {label: syst, symerror: 0.099}
+    value: 1.63
+  - errors:
+    - {label: stat, symerror: 0.037}
+    - {label: syst, symerror: 0.083}
+    value: 0.988
+  - errors:
+    - {label: stat, symerror: 0.025}
+    - {label: syst, symerror: 0.039}
+    value: 0.56
+  - errors:
+    - {label: stat, symerror: 0.012}
+    - {label: syst, symerror: 0.027}
+    value: 0.23
+  - errors:
+    - {label: stat, symerror: 0.0089}
+    - {label: syst, symerror: 0.011}
+    value: 0.0979
+  - errors:
+    - {label: stat, symerror: 0.0046}
+    - {label: syst, symerror: 0.0045}
+    value: 0.0511
+independent_variables:
+- header: {name: '$\Delta R_{\rm axis}$'}
+  values:
+  - {high: 0.00375, low: 0.0}
+  - {high: 0.00625, low: 0.00375}
+  - {high: 0.01, low: 0.00625}
+  - {high: 0.015, low: 0.01}
+  - {high: 0.02, low: 0.015}
+  - {high: 0.025, low: 0.02}
+  - {high: 0.03, low: 0.025}
+  - {high: 0.035, low: 0.03}
+  - {high: 0.04, low: 0.035}
+  - {high: 0.05, low: 0.04}
+  - {high: 0.06, low: 0.05}
+  - {high: 0.07, low: 0.06}
+  - {high: 0.08, low: 0.07}
+  - {high: 0.09, low: 0.08}
+  - {high: 0.1, low: 0.09}
+  - {high: 0.11, low: 0.1}
+  - {high: 0.12, low: 0.11}
+  - {high: 0.14, low: 0.12}

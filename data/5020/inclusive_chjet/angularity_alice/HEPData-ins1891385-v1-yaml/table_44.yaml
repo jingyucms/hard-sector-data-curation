@@ -1,0 +1,92 @@
+dependent_variables:
+- header: {name: '$\frac{1}{\sigma} \frac{d\sigma}{d\lambda_{\alpha}}$'}
+  qualifiers:
+  - {name: RE, value: P P --> jet+X}
+  - {name: SQRT(S), units: TeV, value: 5.02}
+  - {name: ETARAP, value: '|0.9-R|'}
+  - {name: jet radius, value: 0.2}
+  - {name: jet method, value: 'Anti-$k_{T}$'}
+  values:
+  - errors:
+    - {label: stat, symerror: 0.58}
+    - {label: 'sys,unfolding', symerror: 1.5%}
+    - {label: 'sys,trkeff', symerror: -11%}
+    - {label: 'sys,random_mass', symerror: 1.4%}
+    - {label: 'sys,generator', symerror: -1.2%}
+    value: 13.5
+  - errors:
+    - {label: stat, symerror: 0.4}
+    - {label: 'sys,unfolding', symerror: 2%}
+    - {label: 'sys,trkeff', symerror: -4.9%}
+    - {label: 'sys,random_mass', symerror: 0.28%}
+    - {label: 'sys,generator', symerror: -3%}
+    value: 11.1
+  - errors:
+    - {label: stat, symerror: 0.57}
+    - {label: 'sys,unfolding', symerror: 2%}
+    - {label: 'sys,trkeff', symerror: -3.8%}
+    - {label: 'sys,random_mass', symerror: 1.1%}
+    - {label: 'sys,generator', symerror: -3.6%}
+    value: 11.0
+  - errors:
+    - {label: stat, symerror: 0.45}
+    - {label: 'sys,unfolding', symerror: 0.68%}
+    - {label: 'sys,trkeff', symerror: -1.3%}
+    - {label: 'sys,random_mass', symerror: 0.004%}
+    - {label: 'sys,generator', symerror: -0.96%}
+    value: 9.69
+  - errors:
+    - {label: stat, symerror: 0.4}
+    - {label: 'sys,unfolding', symerror: 0.35%}
+    - {label: 'sys,trkeff', symerror: -1%}
+    - {label: 'sys,random_mass', symerror: 2.3%}
+    - {label: 'sys,generator', symerror: 0.93%}
+    value: 8.77
+  - errors:
+    - {label: stat, symerror: 0.42}
+    - {label: 'sys,unfolding', symerror: 0.96%}
+    - {label: 'sys,trkeff', symerror: -0.45%}
+    - {label: 'sys,random_mass', symerror: 2.6%}
+    - {label: 'sys,generator', symerror: -1.7%}
+    value: 8.27
+  - errors:
+    - {label: stat, symerror: 0.24}
+    - {label: 'sys,unfolding', symerror: 1.1%}
+    - {label: 'sys,trkeff', symerror: 0.86%}
+    - {label: 'sys,random_mass', symerror: 0.73%}
+    - {label: 'sys,generator', symerror: 0.61%}
+    value: 6.65
+  - errors:
+    - {label: stat, symerror: 0.21}
+    - {label: 'sys,unfolding', symerror: 0.58%}
+    - {label: 'sys,trkeff', symerror: 2.6%}
+    - {label: 'sys,random_mass', symerror: 0.53%}
+    - {label: 'sys,generator', symerror: 0.82%}
+    value: 4.52
+  - errors:
+    - {label: stat, symerror: 0.091}
+    - {label: 'sys,unfolding', symerror: 2.7%}
+    - {label: 'sys,trkeff', symerror: 4.8%}
+    - {label: 'sys,random_mass', symerror: 0.65%}
+    - {label: 'sys,generator', symerror: 2.6%}
+    value: 2.16
+  - errors:
+    - {label: stat, symerror: 0.029}
+    - {label: 'sys,unfolding', symerror: 4.2%}
+    - {label: 'sys,trkeff', symerror: 5.7%}
+    - {label: 'sys,random_mass', symerror: 0.34%}
+    - {label: 'sys,generator', symerror: 6.2%}
+    value: 0.432
+independent_variables:
+- header: {name: '$\lambda_{{\alpha}}$'}
+  values:
+  - {high: 0.01, low: 0.0}
+  - {high: 0.02, low: 0.01}
+  - {high: 0.03, low: 0.02}
+  - {high: 0.04, low: 0.03}
+  - {high: 0.05, low: 0.04}
+  - {high: 0.06, low: 0.05}
+  - {high: 0.08, low: 0.06}
+  - {high: 0.1, low: 0.08}
+  - {high: 0.15, low: 0.1}
+  - {high: 0.25, low: 0.15}

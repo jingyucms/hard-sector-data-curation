@@ -1,0 +1,60 @@
+dependent_variables:
+- header: {name: '$\frac{1}{\sigma_{inc}} \frac{d\sigma}{d\lambda_{\alpha,g}}$'}
+  qualifiers:
+  - {name: RE, value: P P --> jet+X}
+  - {name: SQRT(S), units: TeV, value: 5.02}
+  - {name: ETARAP, value: '|0.9-R|'}
+  - {name: jet radius, value: 0.2}
+  - {name: jet method, value: 'Anti-$k_{T}$'}
+  values:
+  - errors:
+    - {label: stat, symerror: 0.2}
+    - {label: 'sys,unfolding', symerror: 14%}
+    - {label: 'sys,trkeff', symerror: -7.2%}
+    - {label: 'sys,random_mass', symerror: 0.18%}
+    - {label: 'sys,generator', symerror: -4.3%}
+    value: 1.04
+  - errors:
+    - {label: stat, symerror: 33.0}
+    - {label: 'sys,unfolding', symerror: 6.7%}
+    - {label: 'sys,trkeff', symerror: -4.1%}
+    - {label: 'sys,random_mass', symerror: 0.21%}
+    - {label: 'sys,generator', symerror: -2.1%}
+    value: 321.0
+  - errors:
+    - {label: stat, symerror: 7.2}
+    - {label: 'sys,unfolding', symerror: 4.3%}
+    - {label: 'sys,trkeff', symerror: 0.22%}
+    - {label: 'sys,random_mass', symerror: 0.51%}
+    - {label: 'sys,generator', symerror: 5.8%}
+    value: 66.3
+  - errors:
+    - {label: stat, symerror: 1.5}
+    - {label: 'sys,unfolding', symerror: 4.8%}
+    - {label: 'sys,trkeff', symerror: 3.2%}
+    - {label: 'sys,random_mass', symerror: 2.9%}
+    - {label: 'sys,generator', symerror: -6.4%}
+    value: 10.7
+  - errors:
+    - {label: stat, symerror: 0.53}
+    - {label: 'sys,unfolding', symerror: 6.9%}
+    - {label: 'sys,trkeff', symerror: 1.8%}
+    - {label: 'sys,random_mass', symerror: 14%}
+    - {label: 'sys,generator', symerror: -1.7%}
+    value: 2.55
+  - errors:
+    - {label: stat, symerror: 0.23}
+    - {label: 'sys,unfolding', symerror: 6.8%}
+    - {label: 'sys,trkeff', symerror: 0.045%}
+    - {label: 'sys,random_mass', symerror: 11%}
+    - {label: 'sys,generator', symerror: -1.2%}
+    value: 1.09
+independent_variables:
+- header: {name: '$\lambda_{\alpha,g}$'}
+  values:
+  - {high: 0.0, low: -0.1}
+  - {high: 0.001, low: 0.0}
+  - {high: 0.005, low: 0.001}
+  - {high: 0.02, low: 0.005}
+  - {high: 0.05, low: 0.02}
+  - {high: 0.1, low: 0.05}

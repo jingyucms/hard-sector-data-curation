@@ -11,6 +11,29 @@
     Table6: Table6.yaml
     Table7: Table7.yaml
     Table8: Table8.yaml
+200/gamma_trigger_chjet/dphi_star:
+- directory: 200/gamma_trigger_chjet/dphi_star/HEPData-ins2919952-v1-yaml
+  inspire_hep_id: 2919952
+  version: 1
+  tables_to_filenames:
+    Table1: Table1.yaml
+    Table2: Table2.yaml
+    Table3: Table3.yaml
+    Table4: Table4.yaml
+    Table5: Table5.yaml
+    Table6: Table6.yaml
+    Table7: Table7.yaml
+    Table8: Table8.yaml
+    Table9: Table9.yaml
+    Table10: Table10.yaml
+    Table11: Table11.yaml
+    Table12: Table12.yaml
+    Table13: Table13.yaml
+    Table14: Table14.yaml
+    Table15: Table15.yaml
+    Table16: Table16.yaml
+    Table17: Table17.yaml
+    Table18: Table18.yaml
 200/gamma_trigger_hadron/IAA_pt_phenix:
 - directory: 200/gamma_trigger_hadron/IAA_pt_phenix/HEPData-ins1798493-v1-yaml
   inspire_hep_id: 1798493
@@ -1455,6 +1478,16 @@
     Figure 1-1: figure_1-1.yaml
     Figure 1-2: figure_1-2.yaml
     Figure 2: figure_2.yaml
+5020/gamma_trigger_jet/axis_cms:
+- directory: 5020/gamma_trigger_jet/axis_cms/HEPData-ins3122090-v1-yaml
+  inspire_hep_id: 3122090
+  version: 1
+  tables_to_filenames:
+    Table 1: Figure1.yaml
+    Table 2: Figure2.yaml
+    Supplemental Table 1: SupFigure1.yaml
+    Supplemental Table 2: SupFigure2.yaml
+    Supplemental Table 3: SupFigure3.yaml
 5020/gamma_trigger_jet/g_cms:
 - directory: 5020/gamma_trigger_jet/g_cms/HEPData-ins1648162-v1-yaml
   inspire_hep_id: 1648162
@@ -1476,6 +1509,66 @@
     Table 14: data14.yaml
     Table 15: data15.yaml
     Table 16: data16.yaml
+- directory: 5020/gamma_trigger_jet/g_cms/HEPData-ins2783507-v1-yaml
+  inspire_hep_id: 2783507
+  version: 1
+  tables_to_filenames:
+    Normalized PbPb Jet girth for $x_J$>0.4: 
+      normalized_pbpb_jet_girth_for_$x_j$>0.4.yaml
+    Data stats covariance matrix for girth for $x_J$>0.4: 
+      data_stats_covariance_matrix_for_girth_for_$x_j$>0.4.yaml
+    MC stats covariance matrix for girth for $x_J$>0.4: 
+      mc_stats_covariance_matrix_for_girth_for_$x_j$>0.4.yaml
+    Normalized PbPb Groomed jet radius $R_g$ for $x_J$>0.4: 
+      normalized_pbpb_groomed_jet_radius_$r_g$_for_$x_j$>0.4.yaml
+    Data stats covariance matrix for $R_g$ for $x_J$>0.4: 
+      data_stats_covariance_matrix_for_$r_g$_for_$x_j$>0.4.yaml
+    MC stats covariance matrix for $R_g$ for $x_J$>0.4: 
+      mc_stats_covariance_matrix_for_$r_g$_for_$x_j$>0.4.yaml
+    Normalized PbPb Jet girth for $x_J$>0.8: 
+      normalized_pbpb_jet_girth_for_$x_j$>0.8.yaml
+    Data stats covariance matrix for girth for $x_J$>0.8: 
+      data_stats_covariance_matrix_for_girth_for_$x_j$>0.8.yaml
+    MC stats covariance matrix for girth for $x_J$>0.8: 
+      mc_stats_covariance_matrix_for_girth_for_$x_j$>0.8.yaml
+    Normalized PbPb Groomed jet radius $R_g$ for $x_J$>0.8: 
+      normalized_pbpb_groomed_jet_radius_$r_g$_for_$x_j$>0.8.yaml
+    Data stats covariance matrix for $R_g$ for $x_J$>0.8: 
+      data_stats_covariance_matrix_for_$r_g$_for_$x_j$>0.8.yaml
+    MC stats covariance matrix for $R_g$ for $x_J$>0.8: 
+      mc_stats_covariance_matrix_for_$r_g$_for_$x_j$>0.8.yaml
+    Normalized pp Jet girth for $x_J$>0.4: 
+      normalized_pp_jet_girth_for_$x_j$>0.4.yaml
+    pp Data stats covariance matrix for girth for $x_J$>0.4: 
+      pp_data_stats_covariance_matrix_for_girth_for_$x_j$>0.4.yaml
+    pp MC stats covariance matrix for girth for $x_J$>0.4: 
+      pp_mc_stats_covariance_matrix_for_girth_for_$x_j$>0.4.yaml
+    Normalized pp Groomed jet radius $R_g$ for $x_J$>0.4: 
+      normalized_pp_groomed_jet_radius_$r_g$_for_$x_j$>0.4.yaml
+    pp Data stats covariance matrix for $R_g$ for $x_J$>0.4: 
+      pp_data_stats_covariance_matrix_for_$r_g$_for_$x_j$>0.4.yaml
+    pp MC stats covariance matrix for $R_g$ for $x_J$>0.4: 
+      pp_mc_stats_covariance_matrix_for_$r_g$_for_$x_j$>0.4.yaml
+    Normalized pp Jet girth for $x_J$>0.8: 
+      normalized_pp_jet_girth_for_$x_j$>0.8.yaml
+    pp Data stats covariance matrix for girth for $x_J$>0.8: 
+      pp_data_stats_covariance_matrix_for_girth_for_$x_j$>0.8.yaml
+    pp MC stats covariance matrix for girth for $x_J$>0.8: 
+      pp_mc_stats_covariance_matrix_for_girth_for_$x_j$>0.8.yaml
+    Normalized pp Groomed jet radius $R_g$ for $x_J$>0.8: 
+      normalized_pp_groomed_jet_radius_$r_g$_for_$x_j$>0.8.yaml
+    pp Data stats covariance matrix for $R_g$ for $x_J$>0.8: 
+      pp_data_stats_covariance_matrix_for_$r_g$_for_$x_j$>0.8.yaml
+    pp MC stats covariance matrix for $R_g$ for $x_J$>0.8: 
+      pp_mc_stats_covariance_matrix_for_$r_g$_for_$x_j$>0.8.yaml
+    Ratio of yields for Jet girth for $x_J$>0.4: 
+      ratio_of_yields_for_jet_girth_for_$x_j$>0.4.yaml
+    Ratio of yields for Groomed jet radius $R_g$ for $x_J$>0.4: 
+      ratio_of_yields_for_groomed_jet_radius_$r_g$_for_$x_j$>0.4.yaml
+    Ratio of yields for Jet girth for $x_J$>0.8: 
+      ratio_of_yields_for_jet_girth_for_$x_j$>0.8.yaml
+    Ratio of yields for Groomed jet radius $R_g$ for $x_J$>0.8: 
+      ratio_of_yields_for_groomed_jet_radius_$r_g$_for_$x_j$>0.8.yaml
 5020/gamma_trigger_jet/pt_atlas:
 - directory: 5020/gamma_trigger_jet/pt_atlas/HEPData-ins2648097-v1-yaml
   inspire_hep_id: 2648097
@@ -3291,6 +3384,74 @@
     Table 16: hepIAATTscanR02.yaml
     Table 17: hepIAATTscanR04.yaml
 5020/inclusive_chjet/angularity_alice:
+- directory: 5020/inclusive_chjet/angularity_alice/HEPData-ins1891385-v1-yaml
+  inspire_hep_id: 1891385
+  version: 1
+  tables_to_filenames:
+    Table 1: table_1.yaml
+    Table 2: table_2.yaml
+    Table 3: table_3.yaml
+    Table 4: table_4.yaml
+    Table 5: table_5.yaml
+    Table 6: table_6.yaml
+    Table 7: table_7.yaml
+    Table 8: table_8.yaml
+    Table 9: table_9.yaml
+    Table 10: table_10.yaml
+    Table 11: table_11.yaml
+    Table 12: table_12.yaml
+    Table 13: table_13.yaml
+    Table 14: table_14.yaml
+    Table 15: table_15.yaml
+    Table 16: table_16.yaml
+    Table 17: table_17.yaml
+    Table 18: table_18.yaml
+    Table 19: table_19.yaml
+    Table 20: table_20.yaml
+    Table 21: table_21.yaml
+    Table 22: table_22.yaml
+    Table 23: table_23.yaml
+    Table 24: table_24.yaml
+    Table 25: table_25.yaml
+    Table 26: table_26.yaml
+    Table 27: table_27.yaml
+    Table 28: table_28.yaml
+    Table 29: table_29.yaml
+    Table 30: table_30.yaml
+    Table 31: table_31.yaml
+    Table 32: table_32.yaml
+    Table 33: table_33.yaml
+    Table 34: table_34.yaml
+    Table 35: table_35.yaml
+    Table 36: table_36.yaml
+    Table 37: table_37.yaml
+    Table 38: table_38.yaml
+    Table 39: table_39.yaml
+    Table 40: table_40.yaml
+    Table 41: table_41.yaml
+    Table 42: table_42.yaml
+    Table 43: table_43.yaml
+    Table 44: table_44.yaml
+    Table 45: table_45.yaml
+    Table 46: table_46.yaml
+    Table 47: table_47.yaml
+    Table 48: table_48.yaml
+    Table 49: table_49.yaml
+    Table 50: table_50.yaml
+    Table 51: table_51.yaml
+    Table 52: table_52.yaml
+    Table 53: table_53.yaml
+    Table 54: table_54.yaml
+    Table 55: table_55.yaml
+    Table 56: table_56.yaml
+    Table 57: table_57.yaml
+    Table 58: table_58.yaml
+    Table 59: table_59.yaml
+    Table 60: table_60.yaml
+    Table 61: table_61.yaml
+    Table 62: table_62.yaml
+    Table 63: table_63.yaml
+    Table 64: table_64.yaml
 - directory: 5020/inclusive_chjet/angularity_alice/HEPData-ins2845788-v1-yaml
   inspire_hep_id: 2845788
   version: 1
@@ -3341,6 +3502,153 @@
     Table 44: table_44.yaml
     Table 45: table_45.yaml
     Table 46: table_46.yaml
+5020/inclusive_chjet/axis_alice:
+- directory: 5020/inclusive_chjet/axis_alice/HEPData-ins2182727-v1-yaml
+  inspire_hep_id: 2182727
+  version: 1
+  tables_to_filenames:
+    Table 1: table_1.yaml
+    Table 2: table_2.yaml
+    Table 3: table_3.yaml
+    Table 4: table_4.yaml
+    Table 5: table_5.yaml
+    Table 6: table_6.yaml
+    Table 7: table_7.yaml
+    Table 8: table_8.yaml
+    Table 9: table_9.yaml
+    Table 10: table_10.yaml
+    Table 11: table_11.yaml
+    Table 12: table_12.yaml
+    Table 13: table_13.yaml
+    Table 14: table_14.yaml
+    Table 15: table_15.yaml
+    Table 16: table_16.yaml
+    Table 17: table_17.yaml
+    Table 18: table_18.yaml
+    Table 19: table_19.yaml
+    Table 20: table_20.yaml
+    Table 21: table_21.yaml
+    Table 22: table_22.yaml
+    Table 23: table_23.yaml
+    Table 24: table_24.yaml
+    Table 25: table_25.yaml
+    Table 26: table_26.yaml
+    Table 27: table_27.yaml
+    Table 28: table_28.yaml
+    Table 29: table_29.yaml
+    Table 30: table_30.yaml
+    Table 31: table_31.yaml
+    Table 32: table_32.yaml
+    Table 33: table_33.yaml
+    Table 34: table_34.yaml
+    Table 35: table_35.yaml
+    Table 36: table_36.yaml
+    Table 37: table_37.yaml
+    Table 38: table_38.yaml
+    Table 39: table_39.yaml
+    Table 40: table_40.yaml
+    Table 41: table_41.yaml
+    Table 42: table_42.yaml
+    Table 43: table_43.yaml
+    Table 44: table_44.yaml
+    Table 45: table_45.yaml
+    Table 46: table_46.yaml
+    Table 47: table_47.yaml
+    Table 48: table_48.yaml
+    Table 49: table_49.yaml
+    Table 50: table_50.yaml
+    Table 51: table_51.yaml
+    Table 52: table_52.yaml
+    Table 53: table_53.yaml
+    Table 54: table_54.yaml
+    Table 55: table_55.yaml
+    Table 56: table_56.yaml
+    Table 57: table_57.yaml
+    Table 58: table_58.yaml
+    Table 59: table_59.yaml
+    Table 60: table_60.yaml
+    Table 61: table_61.yaml
+    Table 62: table_62.yaml
+    Table 63: table_63.yaml
+    Table 64: table_64.yaml
+    Table 65: table_65.yaml
+    Table 66: table_66.yaml
+    Table 67: table_67.yaml
+    Table 68: table_68.yaml
+    Table 69: table_69.yaml
+    Table 70: table_70.yaml
+    Table 71: table_71.yaml
+    Table 72: table_72.yaml
+    Table 73: table_73.yaml
+    Table 74: table_74.yaml
+    Table 75: table_75.yaml
+    Table 76: table_76.yaml
+    Table 77: table_77.yaml
+    Table 78: table_78.yaml
+    Table 79: table_79.yaml
+    Table 80: table_80.yaml
+    Table 81: table_81.yaml
+    Table 82: table_82.yaml
+    Table 83: table_83.yaml
+    Table 84: table_84.yaml
+    Table 85: table_85.yaml
+    Table 86: table_86.yaml
+    Table 87: table_87.yaml
+    Table 88: table_88.yaml
+    Table 89: table_89.yaml
+    Table 90: table_90.yaml
+    Table 91: table_91.yaml
+    Table 92: table_92.yaml
+    Table 93: table_93.yaml
+    Table 94: table_94.yaml
+    Table 95: table_95.yaml
+    Table 96: table_96.yaml
+    Table 97: table_97.yaml
+    Table 98: table_98.yaml
+    Table 99: table_99.yaml
+    Table 100: table_100.yaml
+    Table 101: table_101.yaml
+    Table 102: table_102.yaml
+    Table 103: table_103.yaml
+    Table 104: table_104.yaml
+    Table 105: table_105.yaml
+    Table 106: table_106.yaml
+- directory: 5020/inclusive_chjet/axis_alice/HEPData-ins2648610-v1-yaml
+  inspire_hep_id: 2648610
+  version: 1
+  tables_to_filenames:
+    Table 1: table_1.yaml
+    Table 2: table_2.yaml
+    Table 3: table_3.yaml
+    Table 4: table_4.yaml
+    Table 5: table_5.yaml
+    Table 6: table_6.yaml
+    Table 7: table_7.yaml
+    Table 8: table_8.yaml
+    Table 9: table_9.yaml
+    Table 10: table_10.yaml
+    Table 11: table_11.yaml
+    Table 12: table_12.yaml
+    Table 13: table_13.yaml
+    Table 14: table_14.yaml
+    Table 15: table_15.yaml
+    Table 16: table_16.yaml
+    Table 17: table_17.yaml
+    Table 18: table_18.yaml
+    Table 19: table_19.yaml
+    Table 20: table_20.yaml
+    Table 21: table_21.yaml
+    Table 22: table_22.yaml
+    Table 23: table_23.yaml
+    Table 24: table_24.yaml
+    Table 25: table_25.yaml
+    Table 26: table_26.yaml
+    Table 27: table_27.yaml
+    Table 28: table_28.yaml
+    Table 29: table_29.yaml
+    Table 30: table_30.yaml
+    Table 31: table_31.yaml
+    Table 32: table_32.yaml
 5020/inclusive_chjet/ktg_alice:
 - directory: 5020/inclusive_chjet/ktg_alice/HEPData-ins2831271-v1-yaml
   inspire_hep_id: 2831271

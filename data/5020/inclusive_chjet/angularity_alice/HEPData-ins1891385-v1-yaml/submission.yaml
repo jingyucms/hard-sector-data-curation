@@ -1,0 +1,1028 @@
+comment: ''
+data_license: {description: The content can be shared and adapted but you must             give
+    appropriate credit and cannot restrict access to others., name: cc-by-4.0, url: 'https://creativecommons.org/licenses/by/4.0/'}
+hepdata_doi: 10.17182/hepdata.129149.v1
+---
+data_file: table_1.yaml
+description: |-
+  Jet angularity $\lambda_{\alpha}$ for $\alpha = 1$.
+  $20<p_{\mathrm{T}}^{\mathrm{ch jet}}<40$.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 1. upper left
+name: Table 1
+table_doi: 10.17182/hepdata.129149.v1/t1
+---
+data_file: table_2.yaml
+description: |-
+  Jet angularity $\lambda_{\alpha}$ for $\alpha = 1.5$.
+  $20<p_{\mathrm{T}}^{\mathrm{ch jet}}<40$.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 1. upper left
+name: Table 2
+table_doi: 10.17182/hepdata.129149.v1/t2
+---
+data_file: table_3.yaml
+description: |-
+  Jet angularity $\lambda_{\alpha}$ for $\alpha = 2$.
+  $20<p_{\mathrm{T}}^{\mathrm{ch jet}}<40$.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 1. upper left
+name: Table 3
+table_doi: 10.17182/hepdata.129149.v1/t3
+---
+data_file: table_4.yaml
+description: |-
+  Jet angularity $\lambda_{\alpha}$ for $\alpha = 3$.
+  $20<p_{\mathrm{T}}^{\mathrm{ch jet}}<40$.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 1. upper left
+name: Table 4
+table_doi: 10.17182/hepdata.129149.v1/t4
+---
+data_file: table_5.yaml
+description: |-
+  Groomed jet angularity $\lambda_{\alpha,g}$ for $\alpha = 1$.
+  $20<p_{\mathrm{T}}^{\mathrm{ch jet}}<40$, Soft Drop $z_{\mathrm{cut}}=0.2, \beta=0$.
+
+  Note: The first bin corresponds to the Soft Drop untagged fraction.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 3. upper left
+name: Table 5
+table_doi: 10.17182/hepdata.129149.v1/t5
+---
+data_file: table_6.yaml
+description: |-
+  Groomed jet angularity $\lambda_{\alpha,g}$ for $\alpha = 1.5$.
+  $20<p_{\mathrm{T}}^{\mathrm{ch jet}}<40$, Soft Drop $z_{\mathrm{cut}}=0.2, \beta=0$.
+
+  Note: The first bin corresponds to the Soft Drop untagged fraction.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 3. upper left
+name: Table 6
+table_doi: 10.17182/hepdata.129149.v1/t6
+---
+data_file: table_7.yaml
+description: |-
+  Groomed jet angularity $\lambda_{\alpha,g}$ for $\alpha = 2$.
+  $20<p_{\mathrm{T}}^{\mathrm{ch jet}}<40$, Soft Drop $z_{\mathrm{cut}}=0.2, \beta=0$.
+
+  Note: The first bin corresponds to the Soft Drop untagged fraction.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 3. upper left
+name: Table 7
+table_doi: 10.17182/hepdata.129149.v1/t7
+---
+data_file: table_8.yaml
+description: |-
+  Groomed jet angularity $\lambda_{\alpha,g}$ for $\alpha = 3$.
+  $20<p_{\mathrm{T}}^{\mathrm{ch jet}}<40$, Soft Drop $z_{\mathrm{cut}}=0.2, \beta=0$.
+
+  Note: The first bin corresponds to the Soft Drop untagged fraction.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 3. upper left
+name: Table 8
+table_doi: 10.17182/hepdata.129149.v1/t8
+---
+data_file: table_9.yaml
+description: |-
+  Jet angularity $\lambda_{\alpha}$ for $\alpha = 1$.
+  $40<p_{\mathrm{T}}^{\mathrm{ch jet}}<60$.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 1. upper right
+name: Table 9
+table_doi: 10.17182/hepdata.129149.v1/t9
+---
+data_file: table_10.yaml
+description: |-
+  Jet angularity $\lambda_{\alpha}$ for $\alpha = 1.5$.
+  $40<p_{\mathrm{T}}^{\mathrm{ch jet}}<60$.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 1. upper right
+name: Table 10
+table_doi: 10.17182/hepdata.129149.v1/t10
+---
+data_file: table_11.yaml
+description: |-
+  Jet angularity $\lambda_{\alpha}$ for $\alpha = 2$.
+  $40<p_{\mathrm{T}}^{\mathrm{ch jet}}<60$.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 1. upper right
+name: Table 11
+table_doi: 10.17182/hepdata.129149.v1/t11
+---
+data_file: table_12.yaml
+description: |-
+  Jet angularity $\lambda_{\alpha}$ for $\alpha = 3$.
+  $40<p_{\mathrm{T}}^{\mathrm{ch jet}}<60$.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 1. upper right
+name: Table 12
+table_doi: 10.17182/hepdata.129149.v1/t12
+---
+data_file: table_13.yaml
+description: |-
+  Groomed jet angularity $\lambda_{\alpha,g}$ for $\alpha = 1$.
+  $40<p_{\mathrm{T}}^{\mathrm{ch jet}}<60$, Soft Drop $z_{\mathrm{cut}}=0.2, \beta=0$.
+
+  Note: The first bin corresponds to the Soft Drop untagged fraction.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 3. upper right
+name: Table 13
+table_doi: 10.17182/hepdata.129149.v1/t13
+---
+data_file: table_14.yaml
+description: |-
+  Groomed jet angularity $\lambda_{\alpha,g}$ for $\alpha = 1.5$.
+  $40<p_{\mathrm{T}}^{\mathrm{ch jet}}<60$, Soft Drop $z_{\mathrm{cut}}=0.2, \beta=0$.
+
+  Note: The first bin corresponds to the Soft Drop untagged fraction.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 3. upper right
+name: Table 14
+table_doi: 10.17182/hepdata.129149.v1/t14
+---
+data_file: table_15.yaml
+description: |-
+  Groomed jet angularity $\lambda_{\alpha,g}$ for $\alpha = 2$.
+  $40<p_{\mathrm{T}}^{\mathrm{ch jet}}<60$, Soft Drop $z_{\mathrm{cut}}=0.2, \beta=0$.
+
+  Note: The first bin corresponds to the Soft Drop untagged fraction.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 3. upper right
+name: Table 15
+table_doi: 10.17182/hepdata.129149.v1/t15
+---
+data_file: table_16.yaml
+description: |-
+  Groomed jet angularity $\lambda_{\alpha,g}$ for $\alpha = 3$.
+  $40<p_{\mathrm{T}}^{\mathrm{ch jet}}<60$, Soft Drop $z_{\mathrm{cut}}=0.2, \beta=0$.
+
+  Note: The first bin corresponds to the Soft Drop untagged fraction.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 3. upper right
+name: Table 16
+table_doi: 10.17182/hepdata.129149.v1/t16
+---
+data_file: table_17.yaml
+description: |-
+  Jet angularity $\lambda_{\alpha}$ for $\alpha = 1$.
+  $60<p_{\mathrm{T}}^{\mathrm{ch jet}}<80$.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 1. lower left
+name: Table 17
+table_doi: 10.17182/hepdata.129149.v1/t17
+---
+data_file: table_18.yaml
+description: |-
+  Jet angularity $\lambda_{\alpha}$ for $\alpha = 1.5$.
+  $60<p_{\mathrm{T}}^{\mathrm{ch jet}}<80$.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 1. lower left
+name: Table 18
+table_doi: 10.17182/hepdata.129149.v1/t18
+---
+data_file: table_19.yaml
+description: |-
+  Jet angularity $\lambda_{\alpha}$ for $\alpha = 2$.
+  $60<p_{\mathrm{T}}^{\mathrm{ch jet}}<80$.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 1. lower left
+name: Table 19
+table_doi: 10.17182/hepdata.129149.v1/t19
+---
+data_file: table_20.yaml
+description: |-
+  Jet angularity $\lambda_{\alpha}$ for $\alpha = 3$.
+  $60<p_{\mathrm{T}}^{\mathrm{ch jet}}<80$.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 1. lower left
+name: Table 20
+table_doi: 10.17182/hepdata.129149.v1/t20
+---
+data_file: table_21.yaml
+description: |-
+  Groomed jet angularity $\lambda_{\alpha,g}$ for $\alpha = 1$.
+  $60<p_{\mathrm{T}}^{\mathrm{ch jet}}<80$, Soft Drop $z_{\mathrm{cut}}=0.2, \beta=0$.
+
+  Note: The first bin corresponds to the Soft Drop untagged fraction.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 3. lower left
+name: Table 21
+table_doi: 10.17182/hepdata.129149.v1/t21
+---
+data_file: table_22.yaml
+description: |-
+  Groomed jet angularity $\lambda_{\alpha,g}$ for $\alpha = 1.5$.
+  $60<p_{\mathrm{T}}^{\mathrm{ch jet}}<80$, Soft Drop $z_{\mathrm{cut}}=0.2, \beta=0$.
+
+  Note: The first bin corresponds to the Soft Drop untagged fraction.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 3. lower left
+name: Table 22
+table_doi: 10.17182/hepdata.129149.v1/t22
+---
+data_file: table_23.yaml
+description: |-
+  Groomed jet angularity $\lambda_{\alpha,g}$ for $\alpha = 2$.
+  $60<p_{\mathrm{T}}^{\mathrm{ch jet}}<80$, Soft Drop $z_{\mathrm{cut}}=0.2, \beta=0$.
+
+  Note: The first bin corresponds to the Soft Drop untagged fraction.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 3. lower left
+name: Table 23
+table_doi: 10.17182/hepdata.129149.v1/t23
+---
+data_file: table_24.yaml
+description: |-
+  Groomed jet angularity $\lambda_{\alpha,g}$ for $\alpha = 3$.
+  $60<p_{\mathrm{T}}^{\mathrm{ch jet}}<80$, Soft Drop $z_{\mathrm{cut}}=0.2, \beta=0$.
+
+  Note: The first bin corresponds to the Soft Drop untagged fraction.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 3. lower left
+name: Table 24
+table_doi: 10.17182/hepdata.129149.v1/t24
+---
+data_file: table_25.yaml
+description: |-
+  Jet angularity $\lambda_{\alpha}$ for $\alpha = 1$.
+  $80<p_{\mathrm{T}}^{\mathrm{ch jet}}<100$.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 1. lower right
+name: Table 25
+table_doi: 10.17182/hepdata.129149.v1/t25
+---
+data_file: table_26.yaml
+description: |-
+  Jet angularity $\lambda_{\alpha}$ for $\alpha = 1.5$.
+  $80<p_{\mathrm{T}}^{\mathrm{ch jet}}<100$.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 1. lower right
+name: Table 26
+table_doi: 10.17182/hepdata.129149.v1/t26
+---
+data_file: table_27.yaml
+description: |-
+  Jet angularity $\lambda_{\alpha}$ for $\alpha = 2$.
+  $80<p_{\mathrm{T}}^{\mathrm{ch jet}}<100$.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 1. lower right
+name: Table 27
+table_doi: 10.17182/hepdata.129149.v1/t27
+---
+data_file: table_28.yaml
+description: |-
+  Jet angularity $\lambda_{\alpha}$ for $\alpha = 3$.
+  $80<p_{\mathrm{T}}^{\mathrm{ch jet}}<100$.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 1. lower right
+name: Table 28
+table_doi: 10.17182/hepdata.129149.v1/t28
+---
+data_file: table_29.yaml
+description: |-
+  Groomed jet angularity $\lambda_{\alpha,g}$ for $\alpha = 1$.
+  $80<p_{\mathrm{T}}^{\mathrm{ch jet}}<100$, Soft Drop $z_{\mathrm{cut}}=0.2, \beta=0$.
+
+  Note: The first bin corresponds to the Soft Drop untagged fraction.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 3. lower right
+name: Table 29
+table_doi: 10.17182/hepdata.129149.v1/t29
+---
+data_file: table_30.yaml
+description: |-
+  Groomed jet angularity $\lambda_{\alpha,g}$ for $\alpha = 1.5$.
+  $80<p_{\mathrm{T}}^{\mathrm{ch jet}}<100$, Soft Drop $z_{\mathrm{cut}}=0.2, \beta=0$.
+
+  Note: The first bin corresponds to the Soft Drop untagged fraction.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 3. lower right
+name: Table 30
+table_doi: 10.17182/hepdata.129149.v1/t30
+---
+data_file: table_31.yaml
+description: |-
+  Groomed jet angularity $\lambda_{\alpha,g}$ for $\alpha = 2$.
+  $80<p_{\mathrm{T}}^{\mathrm{ch jet}}<100$, Soft Drop $z_{\mathrm{cut}}=0.2, \beta=0$.
+
+  Note: The first bin corresponds to the Soft Drop untagged fraction.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 3. lower right
+name: Table 31
+table_doi: 10.17182/hepdata.129149.v1/t31
+---
+data_file: table_32.yaml
+description: |-
+  Groomed jet angularity $\lambda_{\alpha,g}$ for $\alpha = 3$.
+  $80<p_{\mathrm{T}}^{\mathrm{ch jet}}<100$, Soft Drop $z_{\mathrm{cut}}=0.2, \beta=0$.
+
+  Note: The first bin corresponds to the Soft Drop untagged fraction.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 3. lower right
+name: Table 32
+table_doi: 10.17182/hepdata.129149.v1/t32
+---
+data_file: table_33.yaml
+description: |-
+  Jet angularity $\lambda_{\alpha}$ for $\alpha = 1$.
+  $20<p_{\mathrm{T}}^{\mathrm{ch jet}}<40$.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 2. upper left
+name: Table 33
+table_doi: 10.17182/hepdata.129149.v1/t33
+---
+data_file: table_34.yaml
+description: |-
+  Jet angularity $\lambda_{\alpha}$ for $\alpha = 1.5$.
+  $20<p_{\mathrm{T}}^{\mathrm{ch jet}}<40$.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 2. upper left
+name: Table 34
+table_doi: 10.17182/hepdata.129149.v1/t34
+---
+data_file: table_35.yaml
+description: |-
+  Jet angularity $\lambda_{\alpha}$ for $\alpha = 2$.
+  $20<p_{\mathrm{T}}^{\mathrm{ch jet}}<40$.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 2. upper left
+name: Table 35
+table_doi: 10.17182/hepdata.129149.v1/t35
+---
+data_file: table_36.yaml
+description: |-
+  Jet angularity $\lambda_{\alpha}$ for $\alpha = 3$.
+  $20<p_{\mathrm{T}}^{\mathrm{ch jet}}<40$.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 2. upper left
+name: Table 36
+table_doi: 10.17182/hepdata.129149.v1/t36
+---
+data_file: table_37.yaml
+description: |-
+  Groomed jet angularity $\lambda_{\alpha,g}$ for $\alpha = 1$.
+  $20<p_{\mathrm{T}}^{\mathrm{ch jet}}<40$, Soft Drop $z_{\mathrm{cut}}=0.2, \beta=0$.
+
+  Note: The first bin corresponds to the Soft Drop untagged fraction.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 4. upper left
+name: Table 37
+table_doi: 10.17182/hepdata.129149.v1/t37
+---
+data_file: table_38.yaml
+description: |-
+  Groomed jet angularity $\lambda_{\alpha,g}$ for $\alpha = 1.5$.
+  $20<p_{\mathrm{T}}^{\mathrm{ch jet}}<40$, Soft Drop $z_{\mathrm{cut}}=0.2, \beta=0$.
+
+  Note: The first bin corresponds to the Soft Drop untagged fraction.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 4. upper left
+name: Table 38
+table_doi: 10.17182/hepdata.129149.v1/t38
+---
+data_file: table_39.yaml
+description: |-
+  Groomed jet angularity $\lambda_{\alpha,g}$ for $\alpha = 2$.
+  $20<p_{\mathrm{T}}^{\mathrm{ch jet}}<40$, Soft Drop $z_{\mathrm{cut}}=0.2, \beta=0$.
+
+  Note: The first bin corresponds to the Soft Drop untagged fraction.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 4. upper left
+name: Table 39
+table_doi: 10.17182/hepdata.129149.v1/t39
+---
+data_file: table_40.yaml
+description: |-
+  Groomed jet angularity $\lambda_{\alpha,g}$ for $\alpha = 3$.
+  $20<p_{\mathrm{T}}^{\mathrm{ch jet}}<40$, Soft Drop $z_{\mathrm{cut}}=0.2, \beta=0$.
+
+  Note: The first bin corresponds to the Soft Drop untagged fraction.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 4. upper left
+name: Table 40
+table_doi: 10.17182/hepdata.129149.v1/t40
+---
+data_file: table_41.yaml
+description: |-
+  Jet angularity $\lambda_{\alpha}$ for $\alpha = 1$.
+  $40<p_{\mathrm{T}}^{\mathrm{ch jet}}<60$.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 2. upper right
+name: Table 41
+table_doi: 10.17182/hepdata.129149.v1/t41
+---
+data_file: table_42.yaml
+description: |-
+  Jet angularity $\lambda_{\alpha}$ for $\alpha = 1.5$.
+  $40<p_{\mathrm{T}}^{\mathrm{ch jet}}<60$.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 2. upper right
+name: Table 42
+table_doi: 10.17182/hepdata.129149.v1/t42
+---
+data_file: table_43.yaml
+description: |-
+  Jet angularity $\lambda_{\alpha}$ for $\alpha = 2$.
+  $40<p_{\mathrm{T}}^{\mathrm{ch jet}}<60$.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 2. upper right
+name: Table 43
+table_doi: 10.17182/hepdata.129149.v1/t43
+---
+data_file: table_44.yaml
+description: |-
+  Jet angularity $\lambda_{\alpha}$ for $\alpha = 3$.
+  $40<p_{\mathrm{T}}^{\mathrm{ch jet}}<60$.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 2. upper right
+name: Table 44
+table_doi: 10.17182/hepdata.129149.v1/t44
+---
+data_file: table_45.yaml
+description: |-
+  Groomed jet angularity $\lambda_{\alpha,g}$ for $\alpha = 1$.
+  $40<p_{\mathrm{T}}^{\mathrm{ch jet}}<60$, Soft Drop $z_{\mathrm{cut}}=0.2, \beta=0$.
+
+  Note: The first bin corresponds to the Soft Drop untagged fraction.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 4. upper right
+name: Table 45
+table_doi: 10.17182/hepdata.129149.v1/t45
+---
+data_file: table_46.yaml
+description: |-
+  Groomed jet angularity $\lambda_{\alpha,g}$ for $\alpha = 1.5$.
+  $40<p_{\mathrm{T}}^{\mathrm{ch jet}}<60$, Soft Drop $z_{\mathrm{cut}}=0.2, \beta=0$.
+
+  Note: The first bin corresponds to the Soft Drop untagged fraction.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 4. upper right
+name: Table 46
+table_doi: 10.17182/hepdata.129149.v1/t46
+---
+data_file: table_47.yaml
+description: |-
+  Groomed jet angularity $\lambda_{\alpha,g}$ for $\alpha = 2$.
+  $40<p_{\mathrm{T}}^{\mathrm{ch jet}}<60$, Soft Drop $z_{\mathrm{cut}}=0.2, \beta=0$.
+
+  Note: The first bin corresponds to the Soft Drop untagged fraction.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 4. upper right
+name: Table 47
+table_doi: 10.17182/hepdata.129149.v1/t47
+---
+data_file: table_48.yaml
+description: |-
+  Groomed jet angularity $\lambda_{\alpha,g}$ for $\alpha = 3$.
+  $40<p_{\mathrm{T}}^{\mathrm{ch jet}}<60$, Soft Drop $z_{\mathrm{cut}}=0.2, \beta=0$.
+
+  Note: The first bin corresponds to the Soft Drop untagged fraction.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 4. upper right
+name: Table 48
+table_doi: 10.17182/hepdata.129149.v1/t48
+---
+data_file: table_49.yaml
+description: |-
+  Jet angularity $\lambda_{\alpha}$ for $\alpha = 1$.
+  $60<p_{\mathrm{T}}^{\mathrm{ch jet}}<80$.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 2. lower left
+name: Table 49
+table_doi: 10.17182/hepdata.129149.v1/t49
+---
+data_file: table_50.yaml
+description: |-
+  Jet angularity $\lambda_{\alpha}$ for $\alpha = 1.5$.
+  $60<p_{\mathrm{T}}^{\mathrm{ch jet}}<80$.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 2. lower left
+name: Table 50
+table_doi: 10.17182/hepdata.129149.v1/t50
+---
+data_file: table_51.yaml
+description: |-
+  Jet angularity $\lambda_{\alpha}$ for $\alpha = 2$.
+  $60<p_{\mathrm{T}}^{\mathrm{ch jet}}<80$.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 2. lower left
+name: Table 51
+table_doi: 10.17182/hepdata.129149.v1/t51
+---
+data_file: table_52.yaml
+description: |-
+  Jet angularity $\lambda_{\alpha}$ for $\alpha = 3$.
+  $60<p_{\mathrm{T}}^{\mathrm{ch jet}}<80$.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 2. lower left
+name: Table 52
+table_doi: 10.17182/hepdata.129149.v1/t52
+---
+data_file: table_53.yaml
+description: |-
+  Groomed jet angularity $\lambda_{\alpha,g}$ for $\alpha = 1$.
+  $60<p_{\mathrm{T}}^{\mathrm{ch jet}}<80$, Soft Drop $z_{\mathrm{cut}}=0.2, \beta=0$.
+
+  Note: The first bin corresponds to the Soft Drop untagged fraction.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 4. lower left
+name: Table 53
+table_doi: 10.17182/hepdata.129149.v1/t53
+---
+data_file: table_54.yaml
+description: |-
+  Groomed jet angularity $\lambda_{\alpha,g}$ for $\alpha = 1.5$.
+  $60<p_{\mathrm{T}}^{\mathrm{ch jet}}<80$, Soft Drop $z_{\mathrm{cut}}=0.2, \beta=0$.
+
+  Note: The first bin corresponds to the Soft Drop untagged fraction.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 4. lower left
+name: Table 54
+table_doi: 10.17182/hepdata.129149.v1/t54
+---
+data_file: table_55.yaml
+description: |-
+  Groomed jet angularity $\lambda_{\alpha,g}$ for $\alpha = 2$.
+  $60<p_{\mathrm{T}}^{\mathrm{ch jet}}<80$, Soft Drop $z_{\mathrm{cut}}=0.2, \beta=0$.
+
+  Note: The first bin corresponds to the Soft Drop untagged fraction.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 4. lower left
+name: Table 55
+table_doi: 10.17182/hepdata.129149.v1/t55
+---
+data_file: table_56.yaml
+description: |-
+  Groomed jet angularity $\lambda_{\alpha,g}$ for $\alpha = 3$.
+  $60<p_{\mathrm{T}}^{\mathrm{ch jet}}<80$, Soft Drop $z_{\mathrm{cut}}=0.2, \beta=0$.
+
+  Note: The first bin corresponds to the Soft Drop untagged fraction.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 4. lower left
+name: Table 56
+table_doi: 10.17182/hepdata.129149.v1/t56
+---
+data_file: table_57.yaml
+description: |-
+  Jet angularity $\lambda_{\alpha}$ for $\alpha = 1$.
+  $80<p_{\mathrm{T}}^{\mathrm{ch jet}}<100$.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 2. lower right
+name: Table 57
+table_doi: 10.17182/hepdata.129149.v1/t57
+---
+data_file: table_58.yaml
+description: |-
+  Jet angularity $\lambda_{\alpha}$ for $\alpha = 1.5$.
+  $80<p_{\mathrm{T}}^{\mathrm{ch jet}}<100$.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 2. lower right
+name: Table 58
+table_doi: 10.17182/hepdata.129149.v1/t58
+---
+data_file: table_59.yaml
+description: |-
+  Jet angularity $\lambda_{\alpha}$ for $\alpha = 2$.
+  $80<p_{\mathrm{T}}^{\mathrm{ch jet}}<100$.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 2. lower right
+name: Table 59
+table_doi: 10.17182/hepdata.129149.v1/t59
+---
+data_file: table_60.yaml
+description: |-
+  Jet angularity $\lambda_{\alpha}$ for $\alpha = 3$.
+  $80<p_{\mathrm{T}}^{\mathrm{ch jet}}<100$.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 2. lower right
+name: Table 60
+table_doi: 10.17182/hepdata.129149.v1/t60
+---
+data_file: table_61.yaml
+description: |-
+  Groomed jet angularity $\lambda_{\alpha,g}$ for $\alpha = 1$.
+  $80<p_{\mathrm{T}}^{\mathrm{ch jet}}<100$, Soft Drop $z_{\mathrm{cut}}=0.2, \beta=0$.
+
+  Note: The first bin corresponds to the Soft Drop untagged fraction.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 4. lower right
+name: Table 61
+table_doi: 10.17182/hepdata.129149.v1/t61
+---
+data_file: table_62.yaml
+description: |-
+  Groomed jet angularity $\lambda_{\alpha,g}$ for $\alpha = 1.5$.
+  $80<p_{\mathrm{T}}^{\mathrm{ch jet}}<100$, Soft Drop $z_{\mathrm{cut}}=0.2, \beta=0$.
+
+  Note: The first bin corresponds to the Soft Drop untagged fraction.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 4. lower right
+name: Table 62
+table_doi: 10.17182/hepdata.129149.v1/t62
+---
+data_file: table_63.yaml
+description: |-
+  Groomed jet angularity $\lambda_{\alpha,g}$ for $\alpha = 2$.
+  $80<p_{\mathrm{T}}^{\mathrm{ch jet}}<100$, Soft Drop $z_{\mathrm{cut}}=0.2, \beta=0$.
+
+  Note: The first bin corresponds to the Soft Drop untagged fraction.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 4. lower right
+name: Table 63
+table_doi: 10.17182/hepdata.129149.v1/t63
+---
+data_file: table_64.yaml
+description: |-
+  Groomed jet angularity $\lambda_{\alpha,g}$ for $\alpha = 3$.
+  $80<p_{\mathrm{T}}^{\mathrm{ch jet}}<100$, Soft Drop $z_{\mathrm{cut}}=0.2, \beta=0$.
+
+  Note: The first bin corresponds to the Soft Drop untagged fraction.
+
+  For the "trkeff" and "generator" systematic uncertainty sources, the signed systematic uncertainty breakdowns ($\pm$ vs. $\mp$), denote correlation across bins (both within this table, and across tables). For the remaining sources ("unfolding", "random_mass") no correlation information is specified ($\pm$ is always used).
+keywords:
+- name: reactions
+  values: [P P --> jet+X]
+- name: cmenergies
+  values: ['5020']
+location: Figure 4. lower right
+name: Table 64
+table_doi: 10.17182/hepdata.129149.v1/t64

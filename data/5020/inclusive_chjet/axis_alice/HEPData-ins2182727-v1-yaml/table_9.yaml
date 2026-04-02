@@ -1,0 +1,82 @@
+dependent_variables:
+- header: {name: '$\frac{1}{\sigma_{\rm inc}} \frac{d\sigma}{d\Delta R_{\rm axis}}$'}
+  qualifiers:
+  - {name: RE, value: P P --> jet+X}
+  - {name: SQRT(S), units: TeV, value: 5.02}
+  - {name: ABS(ETARAP), value: 0.9-R}
+  - {name: jet radius, value: 0.2}
+  - {name: jet method, value: 'Anti-$k_{T}$'}
+  values:
+  - errors:
+    - {label: stat, symerror: 1.4}
+    - {label: syst, symerror: 2.7}
+    value: 293.0
+  - errors:
+    - {label: stat, symerror: 0.63}
+    - {label: syst, symerror: 0.32}
+    value: 17.4
+  - errors:
+    - {label: stat, symerror: 0.44}
+    - {label: syst, symerror: 0.37}
+    value: 18.7
+  - errors:
+    - {label: stat, symerror: 0.39}
+    - {label: syst, symerror: 0.35}
+    value: 20.3
+  - errors:
+    - {label: stat, symerror: 0.43}
+    - {label: syst, symerror: 0.41}
+    value: 20.1
+  - errors:
+    - {label: stat, symerror: 0.4}
+    - {label: syst, symerror: 0.3}
+    value: 19.7
+  - errors:
+    - {label: stat, symerror: 0.36}
+    - {label: syst, symerror: 0.39}
+    value: 16.7
+  - errors:
+    - {label: stat, symerror: 0.36}
+    - {label: syst, symerror: 0.3}
+    value: 14.6
+  - errors:
+    - {label: stat, symerror: 0.38}
+    - {label: syst, symerror: 0.42}
+    value: 11.8
+  - errors:
+    - {label: stat, symerror: 0.21}
+    - {label: syst, symerror: 0.42}
+    value: 8.23
+  - errors:
+    - {label: stat, symerror: 0.14}
+    - {label: syst, symerror: 0.25}
+    value: 4.57
+  - errors:
+    - {label: stat, symerror: 0.088}
+    - {label: syst, symerror: 0.15}
+    value: 2.16
+  - errors:
+    - {label: stat, symerror: 0.045}
+    - {label: syst, symerror: 0.067}
+    value: 0.695
+  - errors:
+    - {label: stat, symerror: 0.015}
+    - {label: syst, symerror: 0.018}
+    value: 0.131
+independent_variables:
+- header: {name: '$\Delta R_{\rm axis}$'}
+  values:
+  - {high: 0.00187, low: 0.0}
+  - {high: 0.00313, low: 0.00187}
+  - {high: 0.005, low: 0.00313}
+  - {high: 0.0075, low: 0.005}
+  - {high: 0.01, low: 0.0075}
+  - {high: 0.0125, low: 0.01}
+  - {high: 0.015, low: 0.0125}
+  - {high: 0.0175, low: 0.015}
+  - {high: 0.02, low: 0.0175}
+  - {high: 0.025, low: 0.02}
+  - {high: 0.03, low: 0.025}
+  - {high: 0.035, low: 0.03}
+  - {high: 0.04, low: 0.035}
+  - {high: 0.05, low: 0.04}
