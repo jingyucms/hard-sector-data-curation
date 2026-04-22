@@ -211,6 +211,29 @@
     Table6: Table6.yaml
     Table7: Table7.yaml
     Table8: Table8.yaml
+200/pion_trigger_chjet/dphi_star:
+- directory: 200/pion_trigger_chjet/dphi_star/HEPData-ins2919952-v1-yaml
+  inspire_hep_id: 2919952
+  version: 1
+  tables_to_filenames:
+    Table1: Table1.yaml
+    Table2: Table2.yaml
+    Table3: Table3.yaml
+    Table4: Table4.yaml
+    Table5: Table5.yaml
+    Table6: Table6.yaml
+    Table7: Table7.yaml
+    Table8: Table8.yaml
+    Table9: Table9.yaml
+    Table10: Table10.yaml
+    Table11: Table11.yaml
+    Table12: Table12.yaml
+    Table13: Table13.yaml
+    Table14: Table14.yaml
+    Table15: Table15.yaml
+    Table16: Table16.yaml
+    Table17: Table17.yaml
+    Table18: Table18.yaml
 2760/hadron/pt_ch_alice:
 - directory: 2760/hadron/pt_ch_alice/HEPData-ins1657384-v1-yaml
   inspire_hep_id: 1657384
@@ -400,8 +423,7 @@
     Table 15: Table15.yaml
     Table 16: Table16.yaml
 2760/hadron_correlation/v2_four_particle_cumulants_alice:
-- directory: 
-    2760/hadron_correlation/v2_four_particle_cumulants_alice/HEPData-ins1666817-v1-yaml
+- directory: 2760/hadron_correlation/v2_four_particle_cumulants_alice/HEPData-ins1666817-v1-yaml
   inspire_hep_id: 1666817
   version: 1
   tables_to_filenames:
@@ -959,28 +981,22 @@
     Table 38: Table38.yaml
     Table 39: Table39.yaml
 2760/hadron_trigger_chjet/nsubjettiness_alice:
-- directory: 
-    2760/hadron_trigger_chjet/nsubjettiness_alice/HEPData-ins1862792-v1-yaml
+- directory: 2760/hadron_trigger_chjet/nsubjettiness_alice/HEPData-ins1862792-v1-yaml
   inspire_hep_id: 1862792
   version: 1
   tables_to_filenames:
-    $\Delta R$ with $k_{T}$ reclustering in pp: 
-      $\delta_r$_with_$k_{t}$_reclustering_in_pp.yaml
-    $\Delta R$ with CA reclustering in pp: 
-      $\delta_r$_with_ca_reclustering_in_pp.yaml
+    $\Delta R$ with $k_{T}$ reclustering in pp: $\delta_r$_with_$k_{t}$_reclustering_in_pp.yaml
+    $\Delta R$ with CA reclustering in pp: $\delta_r$_with_ca_reclustering_in_pp.yaml
     $\Delta R$ with Soft Drop in pp: $\delta_r$_with_soft_drop_in_pp.yaml
     $\frac{\tau_{2}}{\tau_{1}}$ with $k_{T}$ reclustering in pp: 
       $\frac{\tau_{2}}{\tau_{1}}$_with_$k_{t}$_reclustering_in_pp.yaml
-    $\frac{\tau_{2}}{\tau_{1}}$ with CA reclustering in pp: 
-      $\frac{\tau_{2}}{\tau_{1}}$_with_ca_reclustering_in_pp.yaml
-    $\frac{\tau_{2}}{\tau_{1}}$ with Soft Drop in pp: 
-      $\frac{\tau_{2}}{\tau_{1}}$_with_soft_drop_in_pp.yaml
+    $\frac{\tau_{2}}{\tau_{1}}$ with CA reclustering in pp: $\frac{\tau_{2}}{\tau_{1}}$_with_ca_reclustering_in_pp.yaml
+    $\frac{\tau_{2}}{\tau_{1}}$ with Soft Drop in pp: $\frac{\tau_{2}}{\tau_{1}}$_with_soft_drop_in_pp.yaml
     $\frac{\tau_{2}}{\tau_{1}}$ with $k_{T}$ reclustering in Pb-Pb: 
       $\frac{\tau_{2}}{\tau_{1}}$_with_$k_{t}$_reclustering_in_pb-pb.yaml
     $\frac{\tau_{2}}{\tau_{1}}$ with CA reclustering in Pb-Pb: 
       $\frac{\tau_{2}}{\tau_{1}}$_with_ca_reclustering_in_pb-pb.yaml
-    $\frac{\tau_{2}}{\tau_{1}}$ with Soft Drop in Pb-Pb: 
-      $\frac{\tau_{2}}{\tau_{1}}$_with_soft_drop_in_pb-pb.yaml
+    $\frac{\tau_{2}}{\tau_{1}}$ with Soft Drop in Pb-Pb: $\frac{\tau_{2}}{\tau_{1}}$_with_soft_drop_in_pb-pb.yaml
 2760/inclusive_chjet/g_alice:
 - directory: 2760/inclusive_chjet/g_alice/HEPData-ins1682990-v1-yaml
   inspire_hep_id: 1682990
@@ -1433,8 +1449,7 @@
     Table 9: data9.yaml
     Table 10: data10.yaml
 2760/pion_trigger_hadron/pi0_hadron_IAA_pt_alice:
-- directory: 
-    2760/pion_trigger_hadron/pi0_hadron_IAA_pt_alice/HEPData-ins1483164-v1-yaml
+- directory: 2760/pion_trigger_hadron/pi0_hadron_IAA_pt_alice/HEPData-ins1483164-v1-yaml
   inspire_hep_id: 1483164
   version: 1
   tables_to_filenames:
@@ -1513,60 +1528,38 @@
   inspire_hep_id: 2783507
   version: 1
   tables_to_filenames:
-    Normalized PbPb Jet girth for $x_J$>0.4: 
-      normalized_pbpb_jet_girth_for_$x_j$>0.4.yaml
-    Data stats covariance matrix for girth for $x_J$>0.4: 
-      data_stats_covariance_matrix_for_girth_for_$x_j$>0.4.yaml
-    MC stats covariance matrix for girth for $x_J$>0.4: 
-      mc_stats_covariance_matrix_for_girth_for_$x_j$>0.4.yaml
-    Normalized PbPb Groomed jet radius $R_g$ for $x_J$>0.4: 
-      normalized_pbpb_groomed_jet_radius_$r_g$_for_$x_j$>0.4.yaml
-    Data stats covariance matrix for $R_g$ for $x_J$>0.4: 
-      data_stats_covariance_matrix_for_$r_g$_for_$x_j$>0.4.yaml
-    MC stats covariance matrix for $R_g$ for $x_J$>0.4: 
-      mc_stats_covariance_matrix_for_$r_g$_for_$x_j$>0.4.yaml
-    Normalized PbPb Jet girth for $x_J$>0.8: 
-      normalized_pbpb_jet_girth_for_$x_j$>0.8.yaml
-    Data stats covariance matrix for girth for $x_J$>0.8: 
-      data_stats_covariance_matrix_for_girth_for_$x_j$>0.8.yaml
-    MC stats covariance matrix for girth for $x_J$>0.8: 
-      mc_stats_covariance_matrix_for_girth_for_$x_j$>0.8.yaml
-    Normalized PbPb Groomed jet radius $R_g$ for $x_J$>0.8: 
-      normalized_pbpb_groomed_jet_radius_$r_g$_for_$x_j$>0.8.yaml
-    Data stats covariance matrix for $R_g$ for $x_J$>0.8: 
-      data_stats_covariance_matrix_for_$r_g$_for_$x_j$>0.8.yaml
-    MC stats covariance matrix for $R_g$ for $x_J$>0.8: 
-      mc_stats_covariance_matrix_for_$r_g$_for_$x_j$>0.8.yaml
-    Normalized pp Jet girth for $x_J$>0.4: 
-      normalized_pp_jet_girth_for_$x_j$>0.4.yaml
+    Normalized PbPb Jet girth for $x_J$>0.4: normalized_pbpb_jet_girth_for_$x_j$>0.4.yaml
+    Data stats covariance matrix for girth for $x_J$>0.4: data_stats_covariance_matrix_for_girth_for_$x_j$>0.4.yaml
+    MC stats covariance matrix for girth for $x_J$>0.4: mc_stats_covariance_matrix_for_girth_for_$x_j$>0.4.yaml
+    Normalized PbPb Groomed jet radius $R_g$ for $x_J$>0.4: normalized_pbpb_groomed_jet_radius_$r_g$_for_$x_j$>0.4.yaml
+    Data stats covariance matrix for $R_g$ for $x_J$>0.4: data_stats_covariance_matrix_for_$r_g$_for_$x_j$>0.4.yaml
+    MC stats covariance matrix for $R_g$ for $x_J$>0.4: mc_stats_covariance_matrix_for_$r_g$_for_$x_j$>0.4.yaml
+    Normalized PbPb Jet girth for $x_J$>0.8: normalized_pbpb_jet_girth_for_$x_j$>0.8.yaml
+    Data stats covariance matrix for girth for $x_J$>0.8: data_stats_covariance_matrix_for_girth_for_$x_j$>0.8.yaml
+    MC stats covariance matrix for girth for $x_J$>0.8: mc_stats_covariance_matrix_for_girth_for_$x_j$>0.8.yaml
+    Normalized PbPb Groomed jet radius $R_g$ for $x_J$>0.8: normalized_pbpb_groomed_jet_radius_$r_g$_for_$x_j$>0.8.yaml
+    Data stats covariance matrix for $R_g$ for $x_J$>0.8: data_stats_covariance_matrix_for_$r_g$_for_$x_j$>0.8.yaml
+    MC stats covariance matrix for $R_g$ for $x_J$>0.8: mc_stats_covariance_matrix_for_$r_g$_for_$x_j$>0.8.yaml
+    Normalized pp Jet girth for $x_J$>0.4: normalized_pp_jet_girth_for_$x_j$>0.4.yaml
     pp Data stats covariance matrix for girth for $x_J$>0.4: 
       pp_data_stats_covariance_matrix_for_girth_for_$x_j$>0.4.yaml
-    pp MC stats covariance matrix for girth for $x_J$>0.4: 
-      pp_mc_stats_covariance_matrix_for_girth_for_$x_j$>0.4.yaml
-    Normalized pp Groomed jet radius $R_g$ for $x_J$>0.4: 
-      normalized_pp_groomed_jet_radius_$r_g$_for_$x_j$>0.4.yaml
+    pp MC stats covariance matrix for girth for $x_J$>0.4: pp_mc_stats_covariance_matrix_for_girth_for_$x_j$>0.4.yaml
+    Normalized pp Groomed jet radius $R_g$ for $x_J$>0.4: normalized_pp_groomed_jet_radius_$r_g$_for_$x_j$>0.4.yaml
     pp Data stats covariance matrix for $R_g$ for $x_J$>0.4: 
       pp_data_stats_covariance_matrix_for_$r_g$_for_$x_j$>0.4.yaml
-    pp MC stats covariance matrix for $R_g$ for $x_J$>0.4: 
-      pp_mc_stats_covariance_matrix_for_$r_g$_for_$x_j$>0.4.yaml
-    Normalized pp Jet girth for $x_J$>0.8: 
-      normalized_pp_jet_girth_for_$x_j$>0.8.yaml
+    pp MC stats covariance matrix for $R_g$ for $x_J$>0.4: pp_mc_stats_covariance_matrix_for_$r_g$_for_$x_j$>0.4.yaml
+    Normalized pp Jet girth for $x_J$>0.8: normalized_pp_jet_girth_for_$x_j$>0.8.yaml
     pp Data stats covariance matrix for girth for $x_J$>0.8: 
       pp_data_stats_covariance_matrix_for_girth_for_$x_j$>0.8.yaml
-    pp MC stats covariance matrix for girth for $x_J$>0.8: 
-      pp_mc_stats_covariance_matrix_for_girth_for_$x_j$>0.8.yaml
-    Normalized pp Groomed jet radius $R_g$ for $x_J$>0.8: 
-      normalized_pp_groomed_jet_radius_$r_g$_for_$x_j$>0.8.yaml
+    pp MC stats covariance matrix for girth for $x_J$>0.8: pp_mc_stats_covariance_matrix_for_girth_for_$x_j$>0.8.yaml
+    Normalized pp Groomed jet radius $R_g$ for $x_J$>0.8: normalized_pp_groomed_jet_radius_$r_g$_for_$x_j$>0.8.yaml
     pp Data stats covariance matrix for $R_g$ for $x_J$>0.8: 
       pp_data_stats_covariance_matrix_for_$r_g$_for_$x_j$>0.8.yaml
-    pp MC stats covariance matrix for $R_g$ for $x_J$>0.8: 
-      pp_mc_stats_covariance_matrix_for_$r_g$_for_$x_j$>0.8.yaml
-    Ratio of yields for Jet girth for $x_J$>0.4: 
-      ratio_of_yields_for_jet_girth_for_$x_j$>0.4.yaml
+    pp MC stats covariance matrix for $R_g$ for $x_J$>0.8: pp_mc_stats_covariance_matrix_for_$r_g$_for_$x_j$>0.8.yaml
+    Ratio of yields for Jet girth for $x_J$>0.4: ratio_of_yields_for_jet_girth_for_$x_j$>0.4.yaml
     Ratio of yields for Groomed jet radius $R_g$ for $x_J$>0.4: 
       ratio_of_yields_for_groomed_jet_radius_$r_g$_for_$x_j$>0.4.yaml
-    Ratio of yields for Jet girth for $x_J$>0.8: 
-      ratio_of_yields_for_jet_girth_for_$x_j$>0.8.yaml
+    Ratio of yields for Jet girth for $x_J$>0.8: ratio_of_yields_for_jet_girth_for_$x_j$>0.8.yaml
     Ratio of yields for Groomed jet radius $R_g$ for $x_J$>0.8: 
       ratio_of_yields_for_groomed_jet_radius_$r_g$_for_$x_j$>0.8.yaml
 5020/gamma_trigger_jet/pt_atlas:
@@ -1589,60 +1582,38 @@
   inspire_hep_id: 2783507
   version: 1
   tables_to_filenames:
-    Normalized PbPb Jet girth for $x_J$>0.4: 
-      normalized_pbpb_jet_girth_for_$x_j$>0.4.yaml
-    Data stats covariance matrix for girth for $x_J$>0.4: 
-      data_stats_covariance_matrix_for_girth_for_$x_j$>0.4.yaml
-    MC stats covariance matrix for girth for $x_J$>0.4: 
-      mc_stats_covariance_matrix_for_girth_for_$x_j$>0.4.yaml
-    Normalized PbPb Groomed jet radius $R_g$ for $x_J$>0.4: 
-      normalized_pbpb_groomed_jet_radius_$r_g$_for_$x_j$>0.4.yaml
-    Data stats covariance matrix for $R_g$ for $x_J$>0.4: 
-      data_stats_covariance_matrix_for_$r_g$_for_$x_j$>0.4.yaml
-    MC stats covariance matrix for $R_g$ for $x_J$>0.4: 
-      mc_stats_covariance_matrix_for_$r_g$_for_$x_j$>0.4.yaml
-    Normalized PbPb Jet girth for $x_J$>0.8: 
-      normalized_pbpb_jet_girth_for_$x_j$>0.8.yaml
-    Data stats covariance matrix for girth for $x_J$>0.8: 
-      data_stats_covariance_matrix_for_girth_for_$x_j$>0.8.yaml
-    MC stats covariance matrix for girth for $x_J$>0.8: 
-      mc_stats_covariance_matrix_for_girth_for_$x_j$>0.8.yaml
-    Normalized PbPb Groomed jet radius $R_g$ for $x_J$>0.8: 
-      normalized_pbpb_groomed_jet_radius_$r_g$_for_$x_j$>0.8.yaml
-    Data stats covariance matrix for $R_g$ for $x_J$>0.8: 
-      data_stats_covariance_matrix_for_$r_g$_for_$x_j$>0.8.yaml
-    MC stats covariance matrix for $R_g$ for $x_J$>0.8: 
-      mc_stats_covariance_matrix_for_$r_g$_for_$x_j$>0.8.yaml
-    Normalized pp Jet girth for $x_J$>0.4: 
-      normalized_pp_jet_girth_for_$x_j$>0.4.yaml
+    Normalized PbPb Jet girth for $x_J$>0.4: normalized_pbpb_jet_girth_for_$x_j$>0.4.yaml
+    Data stats covariance matrix for girth for $x_J$>0.4: data_stats_covariance_matrix_for_girth_for_$x_j$>0.4.yaml
+    MC stats covariance matrix for girth for $x_J$>0.4: mc_stats_covariance_matrix_for_girth_for_$x_j$>0.4.yaml
+    Normalized PbPb Groomed jet radius $R_g$ for $x_J$>0.4: normalized_pbpb_groomed_jet_radius_$r_g$_for_$x_j$>0.4.yaml
+    Data stats covariance matrix for $R_g$ for $x_J$>0.4: data_stats_covariance_matrix_for_$r_g$_for_$x_j$>0.4.yaml
+    MC stats covariance matrix for $R_g$ for $x_J$>0.4: mc_stats_covariance_matrix_for_$r_g$_for_$x_j$>0.4.yaml
+    Normalized PbPb Jet girth for $x_J$>0.8: normalized_pbpb_jet_girth_for_$x_j$>0.8.yaml
+    Data stats covariance matrix for girth for $x_J$>0.8: data_stats_covariance_matrix_for_girth_for_$x_j$>0.8.yaml
+    MC stats covariance matrix for girth for $x_J$>0.8: mc_stats_covariance_matrix_for_girth_for_$x_j$>0.8.yaml
+    Normalized PbPb Groomed jet radius $R_g$ for $x_J$>0.8: normalized_pbpb_groomed_jet_radius_$r_g$_for_$x_j$>0.8.yaml
+    Data stats covariance matrix for $R_g$ for $x_J$>0.8: data_stats_covariance_matrix_for_$r_g$_for_$x_j$>0.8.yaml
+    MC stats covariance matrix for $R_g$ for $x_J$>0.8: mc_stats_covariance_matrix_for_$r_g$_for_$x_j$>0.8.yaml
+    Normalized pp Jet girth for $x_J$>0.4: normalized_pp_jet_girth_for_$x_j$>0.4.yaml
     pp Data stats covariance matrix for girth for $x_J$>0.4: 
       pp_data_stats_covariance_matrix_for_girth_for_$x_j$>0.4.yaml
-    pp MC stats covariance matrix for girth for $x_J$>0.4: 
-      pp_mc_stats_covariance_matrix_for_girth_for_$x_j$>0.4.yaml
-    Normalized pp Groomed jet radius $R_g$ for $x_J$>0.4: 
-      normalized_pp_groomed_jet_radius_$r_g$_for_$x_j$>0.4.yaml
+    pp MC stats covariance matrix for girth for $x_J$>0.4: pp_mc_stats_covariance_matrix_for_girth_for_$x_j$>0.4.yaml
+    Normalized pp Groomed jet radius $R_g$ for $x_J$>0.4: normalized_pp_groomed_jet_radius_$r_g$_for_$x_j$>0.4.yaml
     pp Data stats covariance matrix for $R_g$ for $x_J$>0.4: 
       pp_data_stats_covariance_matrix_for_$r_g$_for_$x_j$>0.4.yaml
-    pp MC stats covariance matrix for $R_g$ for $x_J$>0.4: 
-      pp_mc_stats_covariance_matrix_for_$r_g$_for_$x_j$>0.4.yaml
-    Normalized pp Jet girth for $x_J$>0.8: 
-      normalized_pp_jet_girth_for_$x_j$>0.8.yaml
+    pp MC stats covariance matrix for $R_g$ for $x_J$>0.4: pp_mc_stats_covariance_matrix_for_$r_g$_for_$x_j$>0.4.yaml
+    Normalized pp Jet girth for $x_J$>0.8: normalized_pp_jet_girth_for_$x_j$>0.8.yaml
     pp Data stats covariance matrix for girth for $x_J$>0.8: 
       pp_data_stats_covariance_matrix_for_girth_for_$x_j$>0.8.yaml
-    pp MC stats covariance matrix for girth for $x_J$>0.8: 
-      pp_mc_stats_covariance_matrix_for_girth_for_$x_j$>0.8.yaml
-    Normalized pp Groomed jet radius $R_g$ for $x_J$>0.8: 
-      normalized_pp_groomed_jet_radius_$r_g$_for_$x_j$>0.8.yaml
+    pp MC stats covariance matrix for girth for $x_J$>0.8: pp_mc_stats_covariance_matrix_for_girth_for_$x_j$>0.8.yaml
+    Normalized pp Groomed jet radius $R_g$ for $x_J$>0.8: normalized_pp_groomed_jet_radius_$r_g$_for_$x_j$>0.8.yaml
     pp Data stats covariance matrix for $R_g$ for $x_J$>0.8: 
       pp_data_stats_covariance_matrix_for_$r_g$_for_$x_j$>0.8.yaml
-    pp MC stats covariance matrix for $R_g$ for $x_J$>0.8: 
-      pp_mc_stats_covariance_matrix_for_$r_g$_for_$x_j$>0.8.yaml
-    Ratio of yields for Jet girth for $x_J$>0.4: 
-      ratio_of_yields_for_jet_girth_for_$x_j$>0.4.yaml
+    pp MC stats covariance matrix for $R_g$ for $x_J$>0.8: pp_mc_stats_covariance_matrix_for_$r_g$_for_$x_j$>0.8.yaml
+    Ratio of yields for Jet girth for $x_J$>0.4: ratio_of_yields_for_jet_girth_for_$x_j$>0.4.yaml
     Ratio of yields for Groomed jet radius $R_g$ for $x_J$>0.4: 
       ratio_of_yields_for_groomed_jet_radius_$r_g$_for_$x_j$>0.4.yaml
-    Ratio of yields for Jet girth for $x_J$>0.8: 
-      ratio_of_yields_for_jet_girth_for_$x_j$>0.8.yaml
+    Ratio of yields for Jet girth for $x_J$>0.8: ratio_of_yields_for_jet_girth_for_$x_j$>0.8.yaml
     Ratio of yields for Groomed jet radius $R_g$ for $x_J$>0.8: 
       ratio_of_yields_for_groomed_jet_radius_$r_g$_for_$x_j$>0.8.yaml
 5020/gamma_trigger_jet/xi_cms:
@@ -2353,8 +2324,7 @@
     Table 455: Table455.yaml
     Table 456: Table456.yaml
 5020/hadron_correlation/v2_four_particle_cumulants_alice:
-- directory: 
-    5020/hadron_correlation/v2_four_particle_cumulants_alice/HEPData-ins1666817-v1-yaml
+- directory: 5020/hadron_correlation/v2_four_particle_cumulants_alice/HEPData-ins1666817-v1-yaml
   inspire_hep_id: 1666817
   version: 1
   tables_to_filenames:
@@ -2589,8 +2559,7 @@
     Table 230: Pv2_EP_cen10.yaml
     Table 231: Pv2_EP_cen11.yaml
 5020/hadron_correlation/v2_four_particle_cumulants_cms:
-- directory: 
-    5020/hadron_correlation/v2_four_particle_cumulants_cms/HEPData-ins1511868-v1-yaml
+- directory: 5020/hadron_correlation/v2_four_particle_cumulants_cms/HEPData-ins1511868-v1-yaml
   inspire_hep_id: 1511868
   version: 1
   tables_to_filenames:
@@ -4295,36 +4264,23 @@
       $\delta\phi_{ch,z}$_in_pbpb_0-90%_for_$2_<_p_t_<_4$_gev.yaml
     $\Delta\phi_{ch,Z}$ in PbPb 0-90% for $4 < p_T < 10$ GeV: 
       $\delta\phi_{ch,z}$_in_pbpb_0-90%_for_$4_<_p_t_<_10$_gev.yaml
-    $\Delta y_{ch,Z}$ spectra in pp for $1 < p_T < 2$ GeV: 
-      $\delta_y_{ch,z}$_spectra_in_pp_for_$1_<_p_t_<_2$_gev.yaml
-    $\Delta y_{ch,Z}$ spectra in pp for $2 < p_T < 4$ GeV: 
-      $\delta_y_{ch,z}$_spectra_in_pp_for_$2_<_p_t_<_4$_gev.yaml
-    $\Delta y_{ch,Z}$ spectra in pp for $4 < p_T < 10$ GeV: 
-      $\delta_y_{ch,z}$_spectra_in_pp_for_$4_<_p_t_<_10$_gev.yaml
-    $\Delta y_{ch,Z}$ in PbPb 0-30% for $1 < p_T < 2$ GeV: 
-      $\delta_y_{ch,z}$_in_pbpb_0-30%_for_$1_<_p_t_<_2$_gev.yaml
-    $\Delta y_{ch,Z}$ in PbPb 0-30% for $2 < p_T < 4$ GeV: 
-      $\delta_y_{ch,z}$_in_pbpb_0-30%_for_$2_<_p_t_<_4$_gev.yaml
-    $\Delta y_{ch,Z}$ in PbPb 0-30% for $4 < p_T < 10$ GeV: 
-      $\delta_y_{ch,z}$_in_pbpb_0-30%_for_$4_<_p_t_<_10$_gev.yaml
-    $\Delta y_{ch,Z}$ in PbPb 30-50% for $1 < p_T < 2$ GeV: 
-      $\delta_y_{ch,z}$_in_pbpb_30-50%_for_$1_<_p_t_<_2$_gev.yaml
-    $\Delta y_{ch,Z}$ in PbPb 30-50% for $2 < p_T < 4$ GeV: 
-      $\delta_y_{ch,z}$_in_pbpb_30-50%_for_$2_<_p_t_<_4$_gev.yaml
+    $\Delta y_{ch,Z}$ spectra in pp for $1 < p_T < 2$ GeV: $\delta_y_{ch,z}$_spectra_in_pp_for_$1_<_p_t_<_2$_gev.yaml
+    $\Delta y_{ch,Z}$ spectra in pp for $2 < p_T < 4$ GeV: $\delta_y_{ch,z}$_spectra_in_pp_for_$2_<_p_t_<_4$_gev.yaml
+    $\Delta y_{ch,Z}$ spectra in pp for $4 < p_T < 10$ GeV: $\delta_y_{ch,z}$_spectra_in_pp_for_$4_<_p_t_<_10$_gev.yaml
+    $\Delta y_{ch,Z}$ in PbPb 0-30% for $1 < p_T < 2$ GeV: $\delta_y_{ch,z}$_in_pbpb_0-30%_for_$1_<_p_t_<_2$_gev.yaml
+    $\Delta y_{ch,Z}$ in PbPb 0-30% for $2 < p_T < 4$ GeV: $\delta_y_{ch,z}$_in_pbpb_0-30%_for_$2_<_p_t_<_4$_gev.yaml
+    $\Delta y_{ch,Z}$ in PbPb 0-30% for $4 < p_T < 10$ GeV: $\delta_y_{ch,z}$_in_pbpb_0-30%_for_$4_<_p_t_<_10$_gev.yaml
+    $\Delta y_{ch,Z}$ in PbPb 30-50% for $1 < p_T < 2$ GeV: $\delta_y_{ch,z}$_in_pbpb_30-50%_for_$1_<_p_t_<_2$_gev.yaml
+    $\Delta y_{ch,Z}$ in PbPb 30-50% for $2 < p_T < 4$ GeV: $\delta_y_{ch,z}$_in_pbpb_30-50%_for_$2_<_p_t_<_4$_gev.yaml
     $\Delta y_{ch,Z}$ in PbPb 30-50% for $4 < p_T < 10$ GeV: 
       $\delta_y_{ch,z}$_in_pbpb_30-50%_for_$4_<_p_t_<_10$_gev.yaml
-    $\Delta y_{ch,Z}$ in PbPb 50-90% for $1 < p_T < 2$ GeV: 
-      $\delta_y_{ch,z}$_in_pbpb_50-90%_for_$1_<_p_t_<_2$_gev.yaml
-    $\Delta y_{ch,Z}$ in PbPb 50-90% for $2 < p_T < 4$ GeV: 
-      $\delta_y_{ch,z}$_in_pbpb_50-90%_for_$2_<_p_t_<_4$_gev.yaml
+    $\Delta y_{ch,Z}$ in PbPb 50-90% for $1 < p_T < 2$ GeV: $\delta_y_{ch,z}$_in_pbpb_50-90%_for_$1_<_p_t_<_2$_gev.yaml
+    $\Delta y_{ch,Z}$ in PbPb 50-90% for $2 < p_T < 4$ GeV: $\delta_y_{ch,z}$_in_pbpb_50-90%_for_$2_<_p_t_<_4$_gev.yaml
     $\Delta y_{ch,Z}$ in PbPb 50-90% for $4 < p_T < 10$ GeV: 
       $\delta_y_{ch,z}$_in_pbpb_50-90%_for_$4_<_p_t_<_10$_gev.yaml
-    $\Delta y_{ch,Z}$ in PbPb 0-90% for $1 < p_T < 2$ GeV: 
-      $\delta_y_{ch,z}$_in_pbpb_0-90%_for_$1_<_p_t_<_2$_gev.yaml
-    $\Delta y_{ch,Z}$ in PbPb 0-90% for $2 < p_T < 4$ GeV: 
-      $\delta_y_{ch,z}$_in_pbpb_0-90%_for_$2_<_p_t_<_4$_gev.yaml
-    $\Delta y_{ch,Z}$ in PbPb 0-90% for $4 < p_T < 10$ GeV: 
-      $\delta_y_{ch,z}$_in_pbpb_0-90%_for_$4_<_p_t_<_10$_gev.yaml
+    $\Delta y_{ch,Z}$ in PbPb 0-90% for $1 < p_T < 2$ GeV: $\delta_y_{ch,z}$_in_pbpb_0-90%_for_$1_<_p_t_<_2$_gev.yaml
+    $\Delta y_{ch,Z}$ in PbPb 0-90% for $2 < p_T < 4$ GeV: $\delta_y_{ch,z}$_in_pbpb_0-90%_for_$2_<_p_t_<_4$_gev.yaml
+    $\Delta y_{ch,Z}$ in PbPb 0-90% for $4 < p_T < 10$ GeV: $\delta_y_{ch,z}$_in_pbpb_0-90%_for_$4_<_p_t_<_10$_gev.yaml
 5020/z_trigger_hadron/dphi_cms:
 - directory: 5020/z_trigger_hadron/dphi_cms/HEPData-ins1850859-v1-yaml
   inspire_hep_id: 1850859
