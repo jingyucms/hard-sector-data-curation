@@ -3471,6 +3471,127 @@
     Table 44: table_44.yaml
     Table 45: table_45.yaml
     Table 46: table_46.yaml
+# Step 5 split: angularity_groomed_alice (groomed lambda) reuses angularity_alice's records
+# (ins1891385 pp + ins2845788 AA); the config selects the SD z_cut=0.2 groomed tables.
+5020/inclusive_chjet/angularity_groomed_alice:
+- directory: 5020/inclusive_chjet/angularity_alice/HEPData-ins1891385-v1-yaml
+  inspire_hep_id: 1891385
+  version: 1
+  tables_to_filenames:
+    Table 1: table_1.yaml
+    Table 2: table_2.yaml
+    Table 3: table_3.yaml
+    Table 4: table_4.yaml
+    Table 5: table_5.yaml
+    Table 6: table_6.yaml
+    Table 7: table_7.yaml
+    Table 8: table_8.yaml
+    Table 9: table_9.yaml
+    Table 10: table_10.yaml
+    Table 11: table_11.yaml
+    Table 12: table_12.yaml
+    Table 13: table_13.yaml
+    Table 14: table_14.yaml
+    Table 15: table_15.yaml
+    Table 16: table_16.yaml
+    Table 17: table_17.yaml
+    Table 18: table_18.yaml
+    Table 19: table_19.yaml
+    Table 20: table_20.yaml
+    Table 21: table_21.yaml
+    Table 22: table_22.yaml
+    Table 23: table_23.yaml
+    Table 24: table_24.yaml
+    Table 25: table_25.yaml
+    Table 26: table_26.yaml
+    Table 27: table_27.yaml
+    Table 28: table_28.yaml
+    Table 29: table_29.yaml
+    Table 30: table_30.yaml
+    Table 31: table_31.yaml
+    Table 32: table_32.yaml
+    Table 33: table_33.yaml
+    Table 34: table_34.yaml
+    Table 35: table_35.yaml
+    Table 36: table_36.yaml
+    Table 37: table_37.yaml
+    Table 38: table_38.yaml
+    Table 39: table_39.yaml
+    Table 40: table_40.yaml
+    Table 41: table_41.yaml
+    Table 42: table_42.yaml
+    Table 43: table_43.yaml
+    Table 44: table_44.yaml
+    Table 45: table_45.yaml
+    Table 46: table_46.yaml
+    Table 47: table_47.yaml
+    Table 48: table_48.yaml
+    Table 49: table_49.yaml
+    Table 50: table_50.yaml
+    Table 51: table_51.yaml
+    Table 52: table_52.yaml
+    Table 53: table_53.yaml
+    Table 54: table_54.yaml
+    Table 55: table_55.yaml
+    Table 56: table_56.yaml
+    Table 57: table_57.yaml
+    Table 58: table_58.yaml
+    Table 59: table_59.yaml
+    Table 60: table_60.yaml
+    Table 61: table_61.yaml
+    Table 62: table_62.yaml
+    Table 63: table_63.yaml
+    Table 64: table_64.yaml
+- directory: 5020/inclusive_chjet/angularity_alice/HEPData-ins2845788-v1-yaml
+  inspire_hep_id: 2845788
+  version: 1
+  tables_to_filenames:
+    Table 1: table_1.yaml
+    Table 2: table_2.yaml
+    Table 3: table_3.yaml
+    Table 4: table_4.yaml
+    Table 5: table_5.yaml
+    Table 6: table_6.yaml
+    Table 7: table_7.yaml
+    Table 8: table_8.yaml
+    Table 9: table_9.yaml
+    Table 10: table_10.yaml
+    Table 11: table_11.yaml
+    Table 12: table_12.yaml
+    Table 13: table_13.yaml
+    Table 14: table_14.yaml
+    Table 15: table_15.yaml
+    Table 16: table_16.yaml
+    Table 17: table_17.yaml
+    Table 18: table_18.yaml
+    Table 19: table_19.yaml
+    Table 20: table_20.yaml
+    Table 21: table_21.yaml
+    Table 22: table_22.yaml
+    Table 23: table_23.yaml
+    Table 24: table_24.yaml
+    Table 25: table_25.yaml
+    Table 26: table_26.yaml
+    Table 27: table_27.yaml
+    Table 28: table_28.yaml
+    Table 29: table_29.yaml
+    Table 30: table_30.yaml
+    Table 31: table_31.yaml
+    Table 32: table_32.yaml
+    Table 33: table_33.yaml
+    Table 34: table_34.yaml
+    Table 35: table_35.yaml
+    Table 36: table_36.yaml
+    Table 37: table_37.yaml
+    Table 38: table_38.yaml
+    Table 39: table_39.yaml
+    Table 40: table_40.yaml
+    Table 41: table_41.yaml
+    Table 42: table_42.yaml
+    Table 43: table_43.yaml
+    Table 44: table_44.yaml
+    Table 45: table_45.yaml
+    Table 46: table_46.yaml
 5020/inclusive_chjet/axis_alice:
 - directory: 5020/inclusive_chjet/axis_alice/HEPData-ins2182727-v1-yaml
   inspire_hep_id: 2182727
@@ -3634,6 +3755,60 @@
     Table 9: table_9.yaml
     Table 10: table_10.yaml
 5020/inclusive_chjet/mass_alice:
+- directory: 5020/inclusive_chjet/mass_alice/HEPData-ins2845788-v1-yaml
+  inspire_hep_id: 2845788
+  version: 1
+  tables_to_filenames:
+    Table 1: table_1.yaml
+    Table 2: table_2.yaml
+    Table 3: table_3.yaml
+    Table 4: table_4.yaml
+    Table 5: table_5.yaml
+    Table 6: table_6.yaml
+    Table 7: table_7.yaml
+    Table 8: table_8.yaml
+    Table 9: table_9.yaml
+    Table 10: table_10.yaml
+    Table 11: table_11.yaml
+    Table 12: table_12.yaml
+    Table 13: table_13.yaml
+    Table 14: table_14.yaml
+    Table 15: table_15.yaml
+    Table 16: table_16.yaml
+    Table 17: table_17.yaml
+    Table 18: table_18.yaml
+    Table 19: table_19.yaml
+    Table 20: table_20.yaml
+    Table 21: table_21.yaml
+    Table 22: table_22.yaml
+    Table 23: table_23.yaml
+    Table 24: table_24.yaml
+    Table 25: table_25.yaml
+    Table 26: table_26.yaml
+    Table 27: table_27.yaml
+    Table 28: table_28.yaml
+    Table 29: table_29.yaml
+    Table 30: table_30.yaml
+    Table 31: table_31.yaml
+    Table 32: table_32.yaml
+    Table 33: table_33.yaml
+    Table 34: table_34.yaml
+    Table 35: table_35.yaml
+    Table 36: table_36.yaml
+    Table 37: table_37.yaml
+    Table 38: table_38.yaml
+    Table 39: table_39.yaml
+    Table 40: table_40.yaml
+    Table 41: table_41.yaml
+    Table 42: table_42.yaml
+    Table 43: table_43.yaml
+    Table 44: table_44.yaml
+    Table 45: table_45.yaml
+    Table 46: table_46.yaml
+# Step 5 split: mg_alice (groomed jet mass) is the SD z_cut=0.2 half of mass_alice.
+# It reuses the same HEPData record/directory (ins2845788) as mass_alice; the config
+# selects the groomed tables (34/36/38 pp, 40/42/44/46 AA ratio).
+5020/inclusive_chjet/mg_alice:
 - directory: 5020/inclusive_chjet/mass_alice/HEPData-ins2845788-v1-yaml
   inspire_hep_id: 2845788
   version: 1

@@ -44,3 +44,20 @@ These have correct curated data; they are disabled in the analysis only because
 the analyzer code isn't available yet (not a curation issue):
 - `dijet_trigger_jet/v2_cms` — ins2165916 (CMS dijet v₂/v₃/v₄).
 - `inclusive_jet/eec_cms` — ins2904406-v2.
+
+### Step 5 split — new registry aliases (2026-06-03)
+
+The analysis Step 5 split `mass_alice` → `mass_alice` (ungroomed) + `mg_alice` (groomed) and
+`angularity_alice` → `angularity_alice` (ungroomed) + `angularity_groomed_alice` (groomed). Two
+**alias** entries were added to `hepdata_database.yaml` so the new (groomed) observable names resolve:
+
+| New key | `directory:` aliases (existing records, no new files) |
+|---|---|
+| `5020/inclusive_chjet/mg_alice` | `5020/inclusive_chjet/mass_alice/HEPData-ins2845788-v1-yaml` |
+| `5020/inclusive_chjet/angularity_groomed_alice` | `5020/inclusive_chjet/angularity_alice/HEPData-ins1891385-v1-yaml` (pp) + `.../HEPData-ins2845788-v1-yaml` (AA) |
+
+These reuse the sibling observable's HEPData payload (the same paper holds both the ungroomed and
+groomed tables); the analysis config selects the SD z_cut=0.2 groomed tables. No new HEPData files
+were added. **If these records are ever re-curated into per-observable directories, update both the
+ungroomed and the groomed alias together.** Note: ALICE jet mass/angularity report no PbPb/pp *ratio*
+in HEPData, so the analysis computes R_AA itself from the spectra (config comment in STAT_5020.yaml).
