@@ -4383,6 +4383,29 @@
     Table 33: cov_stat_c5_y0.yaml
     Table 34: cov_stat_c6_y0.yaml
     Table 35: cov_stat_c7_y0.yaml
+5020/inclusive_jet/rg_atlas:
+- directory: 5020/inclusive_jet/rg_atlas/HEPData-ins2512925-v2-yaml
+  inspire_hep_id: 2512925
+  version: 2
+  tables_to_filenames:
+    Table 1: data1.yaml
+    Table 2: data2.yaml
+    Table 3: data3.yaml
+    Table 4: data4.yaml
+    Table 5: data5.yaml
+    Table 6: data6.yaml
+    Table 7: data7.yaml
+    Table 8: data8.yaml
+    Table 9: data9.yaml
+    Table 10: data10.yaml
+    Table 11: data11.yaml
+    Table 12: data12.yaml
+    Table 13: data13.yaml
+    Table 14: data14.yaml
+    Table 15: data15.yaml
+    Table 16: data16.yaml
+    Table 17: data17.yaml
+    Table 18: data18.yaml
 5020/inclusive_jet/zg_cms:
 - directory: 5020/inclusive_jet/zg_cms/HEPData-ins1620905-v1-yaml
   inspire_hep_id: 1620905
