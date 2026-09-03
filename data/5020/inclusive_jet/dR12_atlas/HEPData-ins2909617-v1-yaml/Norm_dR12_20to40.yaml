@@ -1,0 +1,187 @@
+independent_variables:
+- header:
+    name: $\Delta R_{12}$
+  values:
+  - low: 0.0
+    high: 0.0025
+  - low: 0.0025
+    high: 0.01
+  - low: 0.01
+    high: 0.0225
+  - low: 0.0225
+    high: 0.04
+  - low: 0.04
+    high: 0.0625
+  - low: 0.0625
+    high: 0.09
+  - low: 0.09
+    high: 0.1225
+  - low: 0.1225
+    high: 0.16
+  - low: 0.16
+    high: 0.2025
+  - low: 0.2025
+    high: 0.25
+  - low: 0.25
+    high: 0.3025
+  - low: 0.3025
+    high: 0.4225
+  - low: 0.4225
+    high: 0.64
+  - low: 0.64
+    high: 0.81
+  - low: 0.81
+    high: 1.0
+  - low: 1.0
+    high: 1.1025
+  - low: 1.1025
+    high: 1.21
+dependent_variables:
+- header:
+    name: $(1/N_{evt})\,dN/dX$
+  qualifiers:
+  - name: SQRT(S)/NUCLEON
+    value: '5020.0'
+  - name: Collision system
+    value: Pb+Pb
+  - name: Observable
+    value: (1/N_evt) dN/dX
+  - name: Centrality
+    value: 20-40%
+  values:
+  - value: 0.07769217242
+    errors:
+    - symerror: 0.01010937679
+      label: stat
+    - asymerror:
+        minus: -0.01361396507
+        plus: 0.01315125559
+      label: sys
+  - value: 0.2637368479
+    errors:
+    - symerror: 0.009808343214
+      label: stat
+    - asymerror:
+        minus: -0.01930892973
+        plus: 0.02185618341
+      label: sys
+  - value: 0.5755012433
+    errors:
+    - symerror: 0.01040612684
+      label: stat
+    - asymerror:
+        minus: -0.05472474436
+        plus: 0.04698620384
+      label: sys
+  - value: 0.562670589
+    errors:
+    - symerror: 0.008500559368
+      label: stat
+    - asymerror:
+        minus: -0.05633206219
+        plus: 0.05390317088
+      label: sys
+  - value: 0.3193433174
+    errors:
+    - symerror: 0.005218496032
+      label: stat
+    - asymerror:
+        minus: -0.03186329538
+        plus: 0.03460369597
+      label: sys
+  - value: 0.1641434977
+    errors:
+    - symerror: 0.003495995834
+      label: stat
+    - asymerror:
+        minus: -0.0166225798
+        plus: 0.01927165421
+      label: sys
+  - value: 0.1019726158
+    errors:
+    - symerror: 0.002266532144
+      label: stat
+    - asymerror:
+        minus: -0.01076538537
+        plus: 0.01258253374
+      label: sys
+  - value: 0.06593414339
+    errors:
+    - symerror: 0.001674391903
+      label: stat
+    - asymerror:
+        minus: -0.00727491258
+        plus: 0.008289461875
+      label: sys
+  - value: 0.04495076615
+    errors:
+    - symerror: 0.001235995927
+      label: stat
+    - asymerror:
+        minus: -0.005238148663
+        plus: 0.005699153541
+      label: sys
+  - value: 0.02833144794
+    errors:
+    - symerror: 0.0009651199348
+      label: stat
+    - asymerror:
+        minus: -0.003494430318
+        plus: 0.003606693337
+      label: sys
+  - value: 0.02196395924
+    errors:
+    - symerror: 0.0008626471218
+      label: stat
+    - asymerror:
+        minus: -0.002826623826
+        plus: 0.002777716437
+      label: sys
+  - value: 0.01632879542
+    errors:
+    - symerror: 0.0005363491661
+      label: stat
+    - asymerror:
+        minus: -0.002216407186
+        plus: 0.002062763785
+      label: sys
+  - value: 0.01081127487
+    errors:
+    - symerror: 0.0004564110873
+      label: stat
+    - asymerror:
+        minus: -0.001521276446
+        plus: 0.001416314609
+      label: sys
+  - value: 0.008054244063
+    errors:
+    - symerror: 0.0004540652157
+      label: stat
+    - asymerror:
+        minus: -0.001102369944
+        plus: 0.001152546446
+      label: sys
+  - value: 0.005481173963
+    errors:
+    - symerror: 0.0004202126495
+      label: stat
+    - asymerror:
+        minus: -0.0007174398802
+        plus: 0.0008694081128
+      label: sys
+  - value: 0.0005739670892
+    errors:
+    - symerror: 0.0001915728858
+      label: stat
+    - asymerror:
+        minus: -0.0003570950581
+        plus: 0.0003631925095
+      label: sys
+  - value: 7.540799721e-05
+    errors:
+    - symerror: 3.145065054e-05
+      label: stat
+    - asymerror:
+        minus: -1.019446242e-05
+        plus: 1.410843969e-05
+      label: sys

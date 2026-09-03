@@ -1,0 +1,188 @@
+independent_variables:
+- header:
+    name: $\sqrt{d_{12}}$
+    units: GeV
+  values:
+  - low: 0.001
+    high: 0.1
+  - low: 0.1
+    high: 0.151392
+  - low: 0.151392
+    high: 0.229195
+  - low: 0.229195
+    high: 0.346984
+  - low: 0.346984
+    high: 0.525306
+  - low: 0.525306
+    high: 0.795271
+  - low: 0.795271
+    high: 1.20398
+  - low: 1.20398
+    high: 1.82272
+  - low: 1.82272
+    high: 2.75946
+  - low: 2.75946
+    high: 4.1776
+  - low: 4.1776
+    high: 6.32456
+  - low: 6.32456
+    high: 9.57487
+  - low: 9.57487
+    high: 14.4956
+  - low: 14.4956
+    high: 21.9452
+  - low: 21.9452
+    high: 33.2232
+  - low: 33.2232
+    high: 50.2973
+  - low: 50.2973
+    high: 76.1462
+dependent_variables:
+- header:
+    name: $(1/N_{evt})\,dN/dX$
+  qualifiers:
+  - name: SQRT(S)/NUCLEON
+    value: '5020.0'
+  - name: Collision system
+    value: Pb+Pb
+  - name: Observable
+    value: (1/N_evt) dN/dX
+  - name: Centrality
+    value: 60-80%
+  values:
+  - value: 0.002973930788
+    errors:
+    - symerror: 0.0008627872677
+      label: stat
+    - asymerror:
+        minus: -0.0008223741358
+        plus: 0.0008091080808
+      label: sys
+  - value: 0.006284242372
+    errors:
+    - symerror: 0.001829871782
+      label: stat
+    - asymerror:
+        minus: -0.001203075469
+        plus: 0.001132575932
+      label: sys
+  - value: 0.007523336254
+    errors:
+    - symerror: 0.001548246742
+      label: stat
+    - asymerror:
+        minus: -0.0009677041156
+        plus: 0.0009501296093
+      label: sys
+  - value: 0.01155636289
+    errors:
+    - symerror: 0.001731556572
+      label: stat
+    - asymerror:
+        minus: -0.001051429575
+        plus: 0.001189677909
+      label: sys
+  - value: 0.01416783135
+    errors:
+    - symerror: 0.001360860989
+      label: stat
+    - asymerror:
+        minus: -0.00117097651
+        plus: 0.001468508718
+      label: sys
+  - value: 0.02054110005
+    errors:
+    - symerror: 0.001550923081
+      label: stat
+    - asymerror:
+        minus: -0.001789121846
+        plus: 0.002215530032
+      label: sys
+  - value: 0.01866963643
+    errors:
+    - symerror: 0.001167340431
+      label: stat
+    - asymerror:
+        minus: -0.001639514881
+        plus: 0.001905027827
+      label: sys
+  - value: 0.01507565876
+    errors:
+    - symerror: 0.0008231686619
+      label: stat
+    - asymerror:
+        minus: -0.001556909878
+        plus: 0.001557049358
+      label: sys
+  - value: 0.009304431205
+    errors:
+    - symerror: 0.0004904561441
+      label: stat
+    - asymerror:
+        minus: -0.001142093901
+        plus: 0.0009999282827
+      label: sys
+  - value: 0.005046470415
+    errors:
+    - symerror: 0.0002982304454
+      label: stat
+    - asymerror:
+        minus: -0.0006911416217
+        plus: 0.0005514683022
+      label: sys
+  - value: 0.002217559712
+    errors:
+    - symerror: 0.00014309875
+      label: stat
+    - asymerror:
+        minus: -0.0003117193082
+        plus: 0.0002347090966
+      label: sys
+  - value: 0.001245059286
+    errors:
+    - symerror: 8.939620237e-05
+      label: stat
+    - asymerror:
+        minus: -0.0001681695723
+        plus: 0.0001281002334
+      label: sys
+  - value: 0.0008755387732
+    errors:
+    - symerror: 7.322242432e-05
+      label: stat
+    - asymerror:
+        minus: -0.0001115904288
+        plus: 9.735200313e-05
+      label: sys
+  - value: 0.0005782794225
+    errors:
+    - symerror: 5.280947222e-05
+      label: stat
+    - asymerror:
+        minus: -7.307231836e-05
+        plus: 7.727436884e-05
+      label: sys
+  - value: 0.000300343282
+    errors:
+    - symerror: 3.342471307e-05
+      label: stat
+    - asymerror:
+        minus: -4.306422903e-05
+        plus: 5.079035528e-05
+      label: sys
+  - value: 0.0001209626269
+    errors:
+    - symerror: 1.402366378e-05
+      label: stat
+    - asymerror:
+        minus: -3.636987415e-05
+        plus: 3.894999163e-05
+      label: sys
+  - value: 1.495896293e-05
+    errors:
+    - symerror: 4.086734316e-06
+      label: stat
+    - asymerror:
+        minus: -5.989522893e-06
+        plus: 6.310658371e-06
+      label: sys

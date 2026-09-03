@@ -4573,3 +4573,35 @@
     Table 7: data7.yaml
     Table 8: data8.yaml
     Table 9: data9.yaml
+5020/inclusive_jet/d12_atlas:
+- directory: 5020/inclusive_jet/d12_atlas/HEPData-ins2909617-v1-yaml
+  inspire_hep_id: 2909617
+  version: 1
+  tables_to_filenames:
+    RAA_d12_60to80: RAA_d12_60to80.yaml
+    RAA_d12_40to60: RAA_d12_40to60.yaml
+    RAA_d12_20to40: RAA_d12_20to40.yaml
+    RAA_d12_10to20: RAA_d12_10to20.yaml
+    RAA_d12_0to10: RAA_d12_0to10.yaml
+    Norm_d12_pp: Norm_d12_pp.yaml
+    Norm_d12_60to80: Norm_d12_60to80.yaml
+    Norm_d12_40to60: Norm_d12_40to60.yaml
+    Norm_d12_20to40: Norm_d12_20to40.yaml
+    Norm_d12_10to20: Norm_d12_10to20.yaml
+    Norm_d12_0to10: Norm_d12_0to10.yaml
+5020/inclusive_jet/dR12_atlas:
+- directory: 5020/inclusive_jet/dR12_atlas/HEPData-ins2909617-v1-yaml
+  inspire_hep_id: 2909617
+  version: 1
+  tables_to_filenames:
+    RAA_dR12_60to80: RAA_dR12_60to80.yaml
+    RAA_dR12_40to60: RAA_dR12_40to60.yaml
+    RAA_dR12_20to40: RAA_dR12_20to40.yaml
+    RAA_dR12_10to20: RAA_dR12_10to20.yaml
+    RAA_dR12_0to10: RAA_dR12_0to10.yaml
+    Norm_dR12_pp: Norm_dR12_pp.yaml
+    Norm_dR12_60to80: Norm_dR12_60to80.yaml
+    Norm_dR12_40to60: Norm_dR12_40to60.yaml
+    Norm_dR12_20to40: Norm_dR12_20to40.yaml
+    Norm_dR12_10to20: Norm_dR12_10to20.yaml
+    Norm_dR12_0to10: Norm_dR12_0to10.yaml

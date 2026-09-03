@@ -1,0 +1,142 @@
+name: RAA_d12_60to80
+description: 'R_AA vs $\sqrt{d_{12}}$ for 60-80%, R=0.2 charged-particle jets reclustered into R=1.0,
+  5.02 TeV. Points flagged not-measured (y=-999) in the source are omitted. Source: private ATLAS release
+  for arXiv:2504.04805 (fig_02a.root, hRaaSyst_d12_14_cent4).'
+keywords:
+- name: reactions
+  values:
+  - PB PB --> CHARGED JET X
+- name: cmenergies
+  values:
+  - '5020.0'
+data_file: RAA_d12_60to80.yaml
+---
+name: RAA_d12_40to60
+description: 'R_AA vs $\sqrt{d_{12}}$ for 40-60%, R=0.2 charged-particle jets reclustered into R=1.0,
+  5.02 TeV. Points flagged not-measured (y=-999) in the source are omitted. Source: private ATLAS release
+  for arXiv:2504.04805 (fig_02a.root, hRaaSyst_d12_14_cent3).'
+keywords:
+- name: reactions
+  values:
+  - PB PB --> CHARGED JET X
+- name: cmenergies
+  values:
+  - '5020.0'
+data_file: RAA_d12_40to60.yaml
+---
+name: RAA_d12_20to40
+description: 'R_AA vs $\sqrt{d_{12}}$ for 20-40%, R=0.2 charged-particle jets reclustered into R=1.0,
+  5.02 TeV. Points flagged not-measured (y=-999) in the source are omitted. Source: private ATLAS release
+  for arXiv:2504.04805 (fig_02a.root, hRaaSyst_d12_14_cent2).'
+keywords:
+- name: reactions
+  values:
+  - PB PB --> CHARGED JET X
+- name: cmenergies
+  values:
+  - '5020.0'
+data_file: RAA_d12_20to40.yaml
+---
+name: RAA_d12_10to20
+description: 'R_AA vs $\sqrt{d_{12}}$ for 10-20%, R=0.2 charged-particle jets reclustered into R=1.0,
+  5.02 TeV. Points flagged not-measured (y=-999) in the source are omitted. Source: private ATLAS release
+  for arXiv:2504.04805 (fig_02a.root, hRaaSyst_d12_14_cent1).'
+keywords:
+- name: reactions
+  values:
+  - PB PB --> CHARGED JET X
+- name: cmenergies
+  values:
+  - '5020.0'
+data_file: RAA_d12_10to20.yaml
+---
+name: RAA_d12_0to10
+description: 'R_AA vs $\sqrt{d_{12}}$ for 0-10%, R=0.2 charged-particle jets reclustered into R=1.0, 5.02
+  TeV. Points flagged not-measured (y=-999) in the source are omitted. Source: private ATLAS release for
+  arXiv:2504.04805 (fig_02a.root, hRaaSyst_d12_14_cent0).'
+keywords:
+- name: reactions
+  values:
+  - PB PB --> CHARGED JET X
+- name: cmenergies
+  values:
+  - '5020.0'
+data_file: RAA_d12_0to10.yaml
+---
+name: Norm_d12_pp
+description: 'Normalized (1/N_evt) dN/dX vs $\sqrt{d_{12}}$ for pp, R=0.2 charged-particle jets reclustered
+  into R=1.0, 5.02 TeV. Points flagged not-measured (y=-999) in the source are omitted. Source: private
+  ATLAS release for arXiv:2504.04805 (fig_01a.root, hNormSyst_d12_14_cent5).'
+keywords:
+- name: reactions
+  values:
+  - PB PB --> CHARGED JET X
+- name: cmenergies
+  values:
+  - '5020.0'
+data_file: Norm_d12_pp.yaml
+---
+name: Norm_d12_60to80
+description: 'Normalized (1/N_evt) dN/dX vs $\sqrt{d_{12}}$ for 60-80%, R=0.2 charged-particle jets reclustered
+  into R=1.0, 5.02 TeV. Points flagged not-measured (y=-999) in the source are omitted. Source: private
+  ATLAS release for arXiv:2504.04805 (fig_01a.root, hNormSyst_d12_14_cent4).'
+keywords:
+- name: reactions
+  values:
+  - PB PB --> CHARGED JET X
+- name: cmenergies
+  values:
+  - '5020.0'
+data_file: Norm_d12_60to80.yaml
+---
+name: Norm_d12_40to60
+description: 'Normalized (1/N_evt) dN/dX vs $\sqrt{d_{12}}$ for 40-60%, R=0.2 charged-particle jets reclustered
+  into R=1.0, 5.02 TeV. Points flagged not-measured (y=-999) in the source are omitted. Source: private
+  ATLAS release for arXiv:2504.04805 (fig_01a.root, hNormSyst_d12_14_cent3).'
+keywords:
+- name: reactions
+  values:
+  - PB PB --> CHARGED JET X
+- name: cmenergies
+  values:
+  - '5020.0'
+data_file: Norm_d12_40to60.yaml
+---
+name: Norm_d12_20to40
+description: 'Normalized (1/N_evt) dN/dX vs $\sqrt{d_{12}}$ for 20-40%, R=0.2 charged-particle jets reclustered
+  into R=1.0, 5.02 TeV. Points flagged not-measured (y=-999) in the source are omitted. Source: private
+  ATLAS release for arXiv:2504.04805 (fig_01a.root, hNormSyst_d12_14_cent2).'
+keywords:
+- name: reactions
+  values:
+  - PB PB --> CHARGED JET X
+- name: cmenergies
+  values:
+  - '5020.0'
+data_file: Norm_d12_20to40.yaml
+---
+name: Norm_d12_10to20
+description: 'Normalized (1/N_evt) dN/dX vs $\sqrt{d_{12}}$ for 10-20%, R=0.2 charged-particle jets reclustered
+  into R=1.0, 5.02 TeV. Points flagged not-measured (y=-999) in the source are omitted. Source: private
+  ATLAS release for arXiv:2504.04805 (fig_01a.root, hNormSyst_d12_14_cent1).'
+keywords:
+- name: reactions
+  values:
+  - PB PB --> CHARGED JET X
+- name: cmenergies
+  values:
+  - '5020.0'
+data_file: Norm_d12_10to20.yaml
+---
+name: Norm_d12_0to10
+description: 'Normalized (1/N_evt) dN/dX vs $\sqrt{d_{12}}$ for 0-10%, R=0.2 charged-particle jets reclustered
+  into R=1.0, 5.02 TeV. Points flagged not-measured (y=-999) in the source are omitted. Source: private
+  ATLAS release for arXiv:2504.04805 (fig_01a.root, hNormSyst_d12_14_cent0).'
+keywords:
+- name: reactions
+  values:
+  - PB PB --> CHARGED JET X
+- name: cmenergies
+  values:
+  - '5020.0'
+data_file: Norm_d12_0to10.yaml

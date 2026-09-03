@@ -1,0 +1,187 @@
+independent_variables:
+- header:
+    name: $\Delta R_{12}$
+  values:
+  - low: 0.0
+    high: 0.0025
+  - low: 0.0025
+    high: 0.01
+  - low: 0.01
+    high: 0.0225
+  - low: 0.0225
+    high: 0.04
+  - low: 0.04
+    high: 0.0625
+  - low: 0.0625
+    high: 0.09
+  - low: 0.09
+    high: 0.1225
+  - low: 0.1225
+    high: 0.16
+  - low: 0.16
+    high: 0.2025
+  - low: 0.2025
+    high: 0.25
+  - low: 0.25
+    high: 0.3025
+  - low: 0.3025
+    high: 0.4225
+  - low: 0.4225
+    high: 0.64
+  - low: 0.64
+    high: 0.81
+  - low: 0.81
+    high: 1.0
+  - low: 1.0
+    high: 1.1025
+  - low: 1.21
+    high: 1.3225
+dependent_variables:
+- header:
+    name: $R_{AA}$
+  qualifiers:
+  - name: SQRT(S)/NUCLEON
+    value: '5020.0'
+  - name: Collision system
+    value: Pb+Pb
+  - name: Observable
+    value: R_AA
+  - name: Centrality
+    value: 40-60%
+  values:
+  - value: 0.9594963363
+    errors:
+    - symerror: 0.1937304641
+      label: stat
+    - asymerror:
+        minus: -0.2042642967
+        plus: 0.1830284644
+      label: sys
+  - value: 1.065789219
+    errors:
+    - symerror: 0.06010508626
+      label: stat
+    - asymerror:
+        minus: -0.06547709828
+        plus: 0.07872088812
+      label: sys
+  - value: 0.9822645532
+    errors:
+    - symerror: 0.03048834201
+      label: stat
+    - asymerror:
+        minus: -0.01189041146
+        plus: 0.01036647145
+      label: sys
+  - value: 0.9755376877
+    errors:
+    - symerror: 0.02652054664
+      label: stat
+    - asymerror:
+        minus: -0.01876387501
+        plus: 0.01835965208
+      label: sys
+  - value: 0.9148483725
+    errors:
+    - symerror: 0.02370872727
+      label: stat
+    - asymerror:
+        minus: -0.038664201
+        plus: 0.04362996158
+      label: sys
+  - value: 0.8534369386
+    errors:
+    - symerror: 0.02894742109
+      label: stat
+    - asymerror:
+        minus: -0.05421153663
+        plus: 0.06047458125
+      label: sys
+  - value: 0.8354954822
+    errors:
+    - symerror: 0.03380096171
+      label: stat
+    - asymerror:
+        minus: -0.05595739006
+        plus: 0.06199751606
+      label: sys
+  - value: 0.7640735115
+    errors:
+    - symerror: 0.03724553906
+      label: stat
+    - asymerror:
+        minus: -0.04581004532
+        plus: 0.04982063614
+      label: sys
+  - value: 0.7193821757
+    errors:
+    - symerror: 0.03527255497
+      label: stat
+    - asymerror:
+        minus: -0.04065624113
+        plus: 0.04174861774
+      label: sys
+  - value: 0.7086256263
+    errors:
+    - symerror: 0.04706453146
+      label: stat
+    - asymerror:
+        minus: -0.03515730205
+        plus: 0.03365898369
+      label: sys
+  - value: 0.698043659
+    errors:
+    - symerror: 0.03912388261
+      label: stat
+    - asymerror:
+        minus: -0.02964106906
+        plus: 0.02609532606
+      label: sys
+  - value: 0.6624594499
+    errors:
+    - symerror: 0.03493846017
+      label: stat
+    - asymerror:
+        minus: -0.02723376277
+        plus: 0.02278110083
+      label: sys
+  - value: 0.623289753
+    errors:
+    - symerror: 0.04502175893
+      label: stat
+    - asymerror:
+        minus: -0.03655911599
+        plus: 0.0304922854
+      label: sys
+  - value: 0.727935236
+    errors:
+    - symerror: 0.06678472498
+      label: stat
+    - asymerror:
+        minus: -0.07654545743
+        plus: 0.07073480873
+      label: sys
+  - value: 0.6695434873
+    errors:
+    - symerror: 0.06272294495
+      label: stat
+    - asymerror:
+        minus: -0.1177958382
+        plus: 0.120094281
+      label: sys
+  - value: 0.6196843408
+    errors:
+    - symerror: 0.1717641942
+      label: stat
+    - asymerror:
+        minus: -0.3550069277
+        plus: 0.4546245488
+      label: sys
+  - value: 0.3404880884
+    errors:
+    - symerror: 0.1205295879
+      label: stat
+    - asymerror:
+        minus: -3.261480729
+        plus: 3.263093995
+      label: sys

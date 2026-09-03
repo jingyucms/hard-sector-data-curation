@@ -1,0 +1,187 @@
+independent_variables:
+- header:
+    name: $\Delta R_{12}$
+  values:
+  - low: 0.0
+    high: 0.0025
+  - low: 0.0025
+    high: 0.01
+  - low: 0.01
+    high: 0.0225
+  - low: 0.0225
+    high: 0.04
+  - low: 0.04
+    high: 0.0625
+  - low: 0.0625
+    high: 0.09
+  - low: 0.09
+    high: 0.1225
+  - low: 0.1225
+    high: 0.16
+  - low: 0.16
+    high: 0.2025
+  - low: 0.2025
+    high: 0.25
+  - low: 0.25
+    high: 0.3025
+  - low: 0.3025
+    high: 0.4225
+  - low: 0.4225
+    high: 0.64
+  - low: 0.64
+    high: 0.81
+  - low: 0.81
+    high: 1.0
+  - low: 1.0
+    high: 1.1025
+  - low: 1.1025
+    high: 1.21
+dependent_variables:
+- header:
+    name: $(1/N_{evt})\,dN/dX$
+  qualifiers:
+  - name: SQRT(S)/NUCLEON
+    value: '5020.0'
+  - name: Collision system
+    value: Pb+Pb
+  - name: Observable
+    value: (1/N_evt) dN/dX
+  - name: Centrality
+    value: 0-10%
+  values:
+  - value: 0.07349902576
+    errors:
+    - symerror: 0.006655691289
+      label: stat
+    - asymerror:
+        minus: -0.01122663845
+        plus: 0.01241728355
+      label: sys
+  - value: 0.2262903841
+    errors:
+    - symerror: 0.007223852071
+      label: stat
+    - asymerror:
+        minus: -0.0189405279
+        plus: 0.02475807484
+      label: sys
+  - value: 0.4866477211
+    errors:
+    - symerror: 0.008564785199
+      label: stat
+    - asymerror:
+        minus: -0.04322251729
+        plus: 0.04340233406
+      label: sys
+  - value: 0.4566325604
+    errors:
+    - symerror: 0.006353703962
+      label: stat
+    - asymerror:
+        minus: -0.05100656322
+        plus: 0.05109700124
+      label: sys
+  - value: 0.2380298661
+    errors:
+    - symerror: 0.003691825879
+      label: stat
+    - asymerror:
+        minus: -0.03042720538
+        plus: 0.03157920564
+      label: sys
+  - value: 0.1242073925
+    errors:
+    - symerror: 0.002144583158
+      label: stat
+    - asymerror:
+        minus: -0.01689488621
+        plus: 0.01786760885
+      label: sys
+  - value: 0.07331962787
+    errors:
+    - symerror: 0.001509327928
+      label: stat
+    - asymerror:
+        minus: -0.01017554754
+        plus: 0.01077747304
+      label: sys
+  - value: 0.04908228093
+    errors:
+    - symerror: 0.001154637331
+      label: stat
+    - asymerror:
+        minus: -0.006755586792
+        plus: 0.007080854174
+      label: sys
+  - value: 0.02960094241
+    errors:
+    - symerror: 0.0007652784218
+      label: stat
+    - asymerror:
+        minus: -0.003970547962
+        plus: 0.00409025402
+      label: sys
+  - value: 0.01880636281
+    errors:
+    - symerror: 0.0004887265315
+      label: stat
+    - asymerror:
+        minus: -0.002373590878
+        plus: 0.00239991601
+      label: sys
+  - value: 0.01382103414
+    errors:
+    - symerror: 0.000419608117
+      label: stat
+    - asymerror:
+        minus: -0.001676524377
+        plus: 0.001667129568
+      label: sys
+  - value: 0.009701768728
+    errors:
+    - symerror: 0.0003496338411
+      label: stat
+    - asymerror:
+        minus: -0.001117331665
+        plus: 0.001104958812
+      label: sys
+  - value: 0.006827208298
+    errors:
+    - symerror: 0.0002800547479
+      label: stat
+    - asymerror:
+        minus: -0.0007764628183
+        plus: 0.0008247286536
+      label: sys
+  - value: 0.00496049458
+    errors:
+    - symerror: 0.0002623838813
+      label: stat
+    - asymerror:
+        minus: -0.0006879343435
+        plus: 0.0008066228948
+      label: sys
+  - value: 0.004003932624
+    errors:
+    - symerror: 0.0003203726386
+      label: stat
+    - asymerror:
+        minus: -0.0006574901616
+        plus: 0.0008352999027
+      label: sys
+  - value: 0.0008046859356
+    errors:
+    - symerror: 8.124256786e-05
+      label: stat
+    - asymerror:
+        minus: -0.0001671006706
+        plus: 0.0002148313129
+      label: sys
+  - value: 4.995011072e-05
+    errors:
+    - symerror: 1.834675723e-05
+      label: stat
+    - asymerror:
+        minus: -2.092899656e-05
+        plus: 2.973360418e-05
+      label: sys
